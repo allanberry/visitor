@@ -1,9 +1,12 @@
 {
-  "name": "visitor",
+  "name": "@aljabear/visitor",
   "description": "Gather historical data for websites.",
-  "repository": "https://github.com/allanberry/visitor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanberry/visitor.git"
+  },
   "author": "Allan Berry <allan.berry@gmail.com>",
-  "version": "1.0.0b2",
+  "version": "1.0.0-b3",
   "main": "app.js",
   "license": "MIT",
   "homepage": "https://github.com/allanberry/apato",
@@ -35,5 +38,17 @@
   },
   "devDependencies": {
     "jest": "^26.6.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/allanberry/visitor/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "apato",
+    "visitor",
+    "web",
+    "history"
+  ]
 }
