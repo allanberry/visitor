@@ -1,0 +1,1337 @@
+{
+  "id": "edu_harvard_library_454760851_20010201065100",
+  "url": "https://library.harvard.edu/",
+  "date_accessed": "2021-03-04T02:19:27Z",
+  "wayback": {
+    "date_available": "2001-02-01T06:51:00Z",
+    "url_raw": "http://web.archive.org/web/20010201065100id_/http://library.harvard.edu:80/",
+    "url_rendered": "http://web.archive.org/web/20010201065100/http://library.harvard.edu:80/"
+  },
+  "agent": {
+    "name": "Apato (Visitor)",
+    "url": "https://github.com/allanberry/apato",
+    "version": "1.0.0b",
+    "creator": "Allan Berry <allan.berry@gmail.com>"
+  },
+  "client": {
+    "ip": "98.206.145.7",
+    "geo": {
+      "range": [
+        1657704448,
+        1657706495
+      ],
+      "country": "US",
+      "region": "IL",
+      "eu": "0",
+      "timezone": "America/Chicago",
+      "city": "Chicago",
+      "ll": [
+        41.804,
+        -87.707
+      ],
+      "metro": 602,
+      "area": 5
+    }
+  },
+  "raw": {
+    "agent": {
+      "name": "Node.js/Axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "url": "https://github.com/axios/axios",
+      "version": "^0.21.0"
+    },
+    "title": "HOLLIS",
+    "response": {
+      "description": "Selected data from the response.",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "server": "nginx/1.19.5",
+        "date": "Thu, 04 Mar 2021 02:19:29 GMT",
+        "content-type": "text/html",
+        "transfer-encoding": "chunked",
+        "connection": "close",
+        "x-archive-orig-date": "Thu, 01 Feb 2001 06:51:13 GMT",
+        "x-archive-orig-server": "Apache/1.3.12 (Unix) PHP/4.0.1pl2",
+        "x-archive-orig-last-modified": "Fri, 12 Jan 2001 21:20:22 GMT",
+        "x-archive-orig-etag": "\"79701-519b-3a5f7516\"",
+        "x-archive-orig-accept-ranges": "bytes",
+        "x-archive-orig-content-length": "20891",
+        "x-archive-orig-connection": "close",
+        "cache-control": "max-age=1800",
+        "memento-datetime": "Thu, 01 Feb 2001 06:51:00 GMT",
+        "link": "<http://library.harvard.edu:80/>; rel=\"original\", <http://web.archive.org/web/timemap/link/http://library.harvard.edu:80/>; rel=\"timemap\"; type=\"application/link-format\", <http://web.archive.org/web/http://library.harvard.edu:80/>; rel=\"timegate\", <http://web.archive.org/web/20010201065100/http://library.harvard.edu:80/>; rel=\"first memento\"; datetime=\"Thu, 01 Feb 2001 06:51:00 GMT\", <http://web.archive.org/web/20010201065100/http://library.harvard.edu:80/>; rel=\"memento\"; datetime=\"Thu, 01 Feb 2001 06:51:00 GMT\", <http://web.archive.org/web/20010202184000/http://library.harvard.edu:80/>; rel=\"next memento\"; datetime=\"Fri, 02 Feb 2001 18:40:00 GMT\", <http://web.archive.org/web/20210301112021/https://library.harvard.edu/>; rel=\"last memento\"; datetime=\"Mon, 01 Mar 2021 11:20:21 GMT\"",
+        "content-security-policy": "default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org",
+        "x-archive-src": "DD_arc22.20010314144148-c/DD_arc23.20010201064959.arc.gz",
+        "server-timing": "CDXLines.iter;dur=43.190306, captures_list;dur=457.653373, RedisCDXSource;dur=37.326733, PetaboxLoader3.resolve;dur=94.843486, load_resource;dur=156.450025, LoadShardBlock;dur=317.086351, exclusion.robots;dur=0.216012, exclusion.robots.policy;dur=0.199619, PetaboxLoader3.datanode;dur=228.970262, esindex;dur=0.017402",
+        "x-app-server": "wwwb-app100",
+        "x-ts": "200",
+        "x-tr": "647",
+        "x-location": "All",
+        "x-cache-key": "httpweb.archive.org/web/20010201065100id_/http://library.harvard.edu:80/US",
+        "x-rl": "0",
+        "x-na": "0",
+        "x-page-cache": "MISS",
+        "x-nid": "-"
+      }
+    },
+    "structure": {
+      "aggregate": {
+        "elementQty": 131,
+        "length": 20891
+      }
+    }
+  },
+  "rendered": {
+    "agent": {
+      "name": "Node.js/Puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "version": "^5.4.1",
+      "browser": "HeadlessChrome/87.0.4272.0"
+    },
+    "title": "HOLLIS",
+    "screenshots": [
+      "v1_0/edu_harvard_library_454760851_20010201065100/w320.png",
+      "v1_0/edu_harvard_library_454760851_20010201065100/w640.png",
+      "v1_0/edu_harvard_library_454760851_20010201065100/w1280.png"
+    ],
+    "structure": {
+      "data": "<html><head>\n\n\n\n\n\n\n\n<title>HOLLIS</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<!-- META name=\"description\" content=\"???\" -->\n<!-- META name=\"keywords\" lang=\"en-us\" content=\"\" -->\n<!-- LINK rev=\"owns\" href=\"mailto:???\" -->\n<!-- Copyright (C) 2000 President and Fellows of Harvard College -->\n<script language=\"JavaScript\">\n<!--\n\n// Dreamweaver functions\n\nfunction MM_reloadPage(init) {  //reloads the window if Nav4 resized\n  if (init==true) with (navigator) {if ((appName==\"Netscape\")&&(parseInt(appVersion)==4)) {\n    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}\n  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();\n}\nMM_reloadPage(true);\n\n\nfunction MM_preloadImages() { //v3.0\n  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();\n    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)\n    if (a[i].indexOf(\"#\")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}\n}\n\nfunction MM_swapImgRestore() { //v3.0\n  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;\n}\n\nfunction MM_findObj(n, d) { //v3.0\n  var p,i,x;  if(!d) d=document; if((p=n.indexOf(\"?\"))>0&&parent.frames.length) {\n    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}\n  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];\n  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;\n}\n\nfunction MM_swapImage() { //v3.0\n  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)\n   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}\n}\n\nfunction MM_showHideLayers() { //v3.0\n  var i,p,v,obj,args=MM_showHideLayers.arguments;\n  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];\n    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }\n    obj.visibility=v; }\n}\n\n// code for pop-up menus\n\n// how it works:\n//  When the mouse passes over one of the four lower navigation buttons, it does the usual\n//   image swap on the button, plus it calls show_menu_exclusive() to open that button's\n//   pop-up menu and close any others that might be open.\n//  When the mouse leaves the nav button, it does the usual image restore and then starts\n//   a delayed closing of that pop-up menu by calling start_delayed_hide_menu(). The closing\n//   is delayed because the mouse might be entering the pop-up menu. If not, then the menu\n//   will either be closed by the delayed call to do_delayed_hide_menu(), or by entering\n//   a different navigation button.\n//  When the mouse enters a pop-up menu button, it cancels the delayed close of that\n//   pop-up menu with cancel_delayed_hide_menu(), and does the usual image swapping on\n//   that button and the nav bar button above. (NN4: there is a small flash on the nav\n//   bar button because it does both the image restore from the previous mouseout and the\n//   new image swap. IE is smart enough to not do this.)\n//  When the mouse leaves a pop-up menu button, it does the usual image restore and\n//   starts the delayed close.\n\n\n// delayed hide flags for the four pop-up menu layers (see below)\nvar delay_hide_menu = new Array();\ndelay_hide_menu[\"hcmenu\"] = 0;\ndelay_hide_menu[\"ocmenu\"] = 0;\ndelay_hide_menu[\"ermenu\"] = 0;\ndelay_hide_menu[\"lbmenu\"] = 0;\n\nvar timerid = null;\n\nfunction show_menu_exclusive(layername) { // shows menu and (immediately) hides others\n  // cancel any delayed hides\n  if (timerid != null)\n    clearTimeout (timerid);\n  delay_hide_menu[\"hcmenu\"] = 0;\n  delay_hide_menu[\"ocmenu\"] = 0;\n  delay_hide_menu[\"ermenu\"] = 0;\n  delay_hide_menu[\"lbmenu\"] = 0;\n\n  MM_showHideLayers('hcmenu', '', (layername=='hcmenu' ? 'show' : 'hide'));\n  MM_showHideLayers('ocmenu', '', (layername=='ocmenu' ? 'show' : 'hide'));\n  MM_showHideLayers('ermenu', '', (layername=='ermenu' ? 'show' : 'hide'));\n  MM_showHideLayers('lbmenu', '', (layername=='lbmenu' ? 'show' : 'hide'));\n}\n\nfunction start_delayed_hide_menu(layername) { // starts delayed hiding of a menu layer\n  delay_hide_menu[layername] = 1;\n  timerid = setTimeout(\"do_delayed_hide_menu()\", 50); // last arg is delay in milliseconds\n}\nfunction cancel_delayed_hide_menu(layername) { // cancels delayed hiding of a menu layer\n  delay_hide_menu[layername] = 0;\n}\nfunction do_delayed_hide_menu() { // performs delayed hiding of menu layers\n  if (delay_hide_menu[\"hcmenu\"] > 0) {\n    delay_hide_menu[\"hcmenu\"] = 0;\n    MM_showHideLayers('hcmenu', '', 'hide');\n  }\n  if (delay_hide_menu[\"ocmenu\"] > 0) {\n    delay_hide_menu[\"ocmenu\"] = 0;\n    MM_showHideLayers('ocmenu', '', 'hide');\n  }\n  if (delay_hide_menu[\"ermenu\"] > 0) {\n    delay_hide_menu[\"ermenu\"] = 0;\n    MM_showHideLayers('ermenu', '', 'hide');\n  }\n  if (delay_hide_menu[\"lbmenu\"] > 0) {\n    delay_hide_menu[\"lbmenu\"] = 0;\n    MM_showHideLayers('lbmenu', '', 'hide');\n  }\n  timerid = null;\n}\n\n// mouseover preload\n\nfunction preloadimages() {\n  MM_preloadImages('img/nav/holliscatalog_hi.gif',\n  'img/nav/othercatalogs_hi.gif',\n  'img/nav/eresources_hi.gif',\n  'img/home/libraries_hi.gif',\n  'img/nav/home_hi.gif',\n  'img/nav/help_hi.gif',\n  'img/nav/search_hi.gif',\n  'img/nav/sitemap_hi.gif',\n  'img/nav/harvardhome_hi.gif',  'img/menu/hc_holliscatalog_hi.gif',\n  'img/menu/hc_web_hi.gif',\n  'img/menu/hc_telnet_hi.gif',  'img/menu/oc_othercatalogs_hi.gif',\n  'img/menu/oc_hollis_hi.gif',\n  'img/menu/oc_via_hi.gif',\n  'img/menu/oc_oasis_hi.gif',\n  'img/menu/oc_hmdc_hi.gif',\n  'img/menu/oc_baker_hi.gif',\n  'img/menu/oc_dumbarton_hi.gif',\n  'img/menu/oc_berenson_hi.gif',\n  'img/menu/oc_catalogsbeyond_hi.gif',  'img/menu/er_eresources_hi.gif',\n  'img/menu/er_whatsnew_hi.gif',\n  'img/menu/er_atoz_hi.gif',\n  'img/menu/er_subject_hi.gif',\n  'img/menu/er_type_hi.gif',  'img/menu/er_ejournal_hi.gif',\n  'img/menu/lb_libraries_hi.gif',\n  'img/menu/lb_locations_hi.gif',\n  'img/menu/lb_hours_hi.gif',\n  'img/menu/lb_events_hi.gif',\n  'img/menu/lb_staff_hi.gif');\n}\n\n//-->\n</script>\n\n</head>\n<body bgcolor=\"#999966\" leftmargin=\"0\" topmargin=\"0\" marginwidth=\"0\" marginheight=\"0\" onload=\"preloadimages()\" text=\"#000000\" link=\"#404000\" vlink=\"#660000\" alink=\"#CC3300\">\n\n\n\n\n<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tbody><tr><!-- navigation and top of shield -->\n    <td width=\"598\" height=\"22\" bgcolor=\"#DFDFA5\">\n      <img src=\"http://library.harvard.edu/img/spacer.gif\" width=\"243\" height=\"15\" alt=\"\"><img src=\"http://library.harvard.edu/img/nav/home_hi.gif\" width=\"54\" height=\"15\" border=\"0\" name=\"home\" alt=\"Home\"><a href=\"help/index.html\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('help','','img/nav/help_hi.gif',1)\"><img src=\"http://library.harvard.edu/img/nav/help.gif\" width=\"49\" height=\"15\" border=\"0\" name=\"help\" alt=\"Help\"></a><a href=\"search.html\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('search','','img/nav/search_hi.gif',1)\"><img src=\"http://library.harvard.edu/img/nav/search.gif\" width=\"66\" height=\"15\" border=\"0\" name=\"search\" alt=\"Search\"></a><a href=\"sitemap.html\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('sitemap','','img/nav/sitemap_hi.gif',1)\"><img src=\"http://library.harvard.edu/img/nav/sitemap.gif\" width=\"73\" height=\"15\" border=\"0\" name=\"sitemap\" alt=\"Site Map\"></a><a href=\"http://www.harvard.edu/\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('harvardhome','','img/nav/harvardhome_hi.gif',1)\"><img src=\"http://library.harvard.edu/img/nav/harvardhome.gif\" width=\"113\" height=\"15\" border=\"0\" name=\"harvardhome\" alt=\"Harvard Home\"></a><br>\n      <a href=\"catalogs/hollis.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('hcmenu')\" onmouseover=\"MM_swapImage('holliscatalog','','img/nav/holliscatalog_hi.gif',1);show_menu_exclusive('hcmenu')\"><img src=\"http://library.harvard.edu/img/nav/holliscatalog.gif\" width=\"118\" height=\"15\" border=\"0\" name=\"holliscatalog\" alt=\"HOLLIS Catalog\"></a><a href=\"catalogs/index.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ocmenu')\" onmouseover=\"MM_swapImage('othercatalogs','','img/nav/othercatalogs_hi.gif',1);show_menu_exclusive('ocmenu')\"><img src=\"http://library.harvard.edu/img/nav/othercatalogs.gif\" width=\"125\" height=\"15\" border=\"0\" name=\"othercatalogs\" alt=\"Other Catalogs\"></a><a href=\"e-resources/index.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ermenu')\" onmouseover=\"MM_swapImage('eresources','','img/nav/eresources_hi.gif',1);show_menu_exclusive('ermenu')\"><img src=\"http://library.harvard.edu/img/nav/eresources.gif\" width=\"103\" height=\"15\" border=\"0\" name=\"eresources\" alt=\"E-Resources\"></a><a href=\"libraries/index.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('lbmenu')\" onmouseover=\"MM_swapImage('libraries','','img/home/libraries_hi.gif',1);show_menu_exclusive('lbmenu')\"><img src=\"http://library.harvard.edu/img/home/libraries.gif\" width=\"81\" height=\"15\" border=\"0\" name=\"libraries\" alt=\"Libraries\"></a><img src=\"http://library.harvard.edu/img/home/shield_verytop.gif\" width=\"171\" height=\"15\" alt=\"\"></td>\n    <td width=\"100%\" height=\"22\" bgcolor=\"#999966\"><img src=\"http://library.harvard.edu/img/spacer.gif\" width=\"2\" height=\"22\" alt=\"\"></td>\n  </tr>\n  <tr>\n    <td width=\"598\" align=\"left\" valign=\"top\">\n      <img src=\"http://library.harvard.edu/img/home/shield.gif\" width=\"598\" height=\"368\" alt=\"Hollis\"></td>\n    <td width=\"100%\" height=\"368\" bgcolor=\"#999966\"><img src=\"http://library.harvard.edu/img/spacer.gif\" width=\"2\" height=\"368\" alt=\"\"></td>\n  </tr>\n</tbody></table>\n<table width=\"598\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n  <tbody><tr>\n    <td width=\"178\" height=\"56\"><img src=\"http://library.harvard.edu/img/spacer.gif\" width=\"178\" height=\"56\" alt=\"\"></td>\n    <td width=\"420\" align=\"left\" valign=\"middle\">\n      <p><a href=\"comments/index.html\"><font face=\"Arial, Helvetica, sans-serif\" size=\"-1\" color=\"#000000\">Comments &amp; Questions</font></a><br>      <font face=\"Arial, Helvetica,\nsans-serif\" size=\"-2\">Copyright © 2000 President and Fellows of Harvard College<br>\nLast modified 12 January 2001</font></p>\n  </td>\n  </tr>\n  <tr><!-- alignment row -->\n    <td width=\"178\" height=\"1\"><img src=\"http://library.harvard.edu/img/spacer.gif\" width=\"178\" height=\"1\" alt=\"\"></td>\n    <td width=\"420\" height=\"1\"><img src=\"http://library.harvard.edu/img/spacer.gif\" width=\"420\" height=\"1\" alt=\"\"></td>\n  </tr>\n</tbody></table>\n<!-- One layer for each pop-up menu.\n     Positions rely on leftmargin=topmargin=marginwidth=marginheigh=0 in body tag.\n     There is a blank image at the end of each menu. This is a \"resting place\" so that the visitor can drag\n     the mouse down below the menus without them disappearing right away.\n-->\n<div id=\"hcmenu\" style=\"position:absolute; width:118px; height:84px; z-index:1; left: 0px; top: 30px; visibility: hidden\"> \n  <a href=\"catalogs/hollis.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('hcmenu')\" onmouseover=\"cancel_delayed_hide_menu('hcmenu');MM_swapImage('holliscatalog','','img/nav/holliscatalog_hi.gif','hc_holliscatalog','','img/menu/hc_holliscatalog_hi.gif',1)\">  <img src=\"http://library.harvard.edu/img/menu/hc_holliscatalog.gif\" width=\"118\" height=\"18\" border=\"0\" name=\"hc_holliscatalog\" alt=\"Hollis Catalog\"></a><br>  <a href=\"http://hollisweb.harvard.edu/\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('hcmenu')\" onmouseover=\"cancel_delayed_hide_menu('hcmenu');MM_swapImage('holliscatalog','','img/nav/holliscatalog_hi.gif','hc_web','','img/menu/hc_web_hi.gif',1)\"> \n  <img src=\"http://library.harvard.edu/img/menu/hc_web.gif\" width=\"118\" height=\"18\" border=\"0\" name=\"hc_web\" alt=\"Web\"></a><br>\n  <a href=\"telnet://hollis.harvard.edu/\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('hcmenu')\" onmouseover=\"cancel_delayed_hide_menu('hcmenu');MM_swapImage('holliscatalog','','img/nav/holliscatalog_hi.gif','hc_telnet','','img/menu/hc_telnet_hi.gif',1)\"> \n  <img src=\"http://library.harvard.edu/img/menu/hc_telnet.gif\" width=\"118\" height=\"18\" border=\"0\" name=\"hc_telnet\" alt=\"Telnet\"></a><br>\n  <a href=\"#\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('hcmenu')\" onmouseover=\"cancel_delayed_hide_menu('hcmenu');MM_swapImage('holliscatalog','','img/nav/holliscatalog_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/spacer.gif\" width=\"118\" height=\"30\" border=\"0\" name=\"hc_blank\" alt=\"\"></a></div>\n<div id=\"ocmenu\" style=\"position:absolute; width:171px; height:174px; z-index:1; left: 118px; top: 30px; visibility: hidden\"> \n  <a href=\"catalogs/index.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ocmenu')\" onmouseover=\"cancel_delayed_hide_menu('ocmenu');MM_swapImage('othercatalogs','','img/nav/othercatalogs_hi.gif','oc_othercatalogs','','img/menu/oc_othercatalogs_hi.gif',1)\">  <img src=\"http://library.harvard.edu/img/menu/oc_othercatalogs.gif\" width=\"171\" height=\"18\" border=\"0\" name=\"oc_othercatalogs\" alt=\"Other Catalogs\"></a><br>  <a href=\"http://nrs.harvard.edu/nrs:hul.eresource:viaxxxxx\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ocmenu')\" onmouseover=\"cancel_delayed_hide_menu('ocmenu');MM_swapImage('othercatalogs','','img/nav/othercatalogs_hi.gif','oc_via','','img/menu/oc_via_hi.gif',1)\"> \n  <img src=\"http://library.harvard.edu/img/menu/oc_via.gif\" width=\"171\" height=\"18\" border=\"0\" name=\"oc_via\" alt=\"VIA\"></a><br> \n  <a href=\"http://nrs.harvard.edu/nrs:hul.eresource:oasisxxx\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ocmenu')\" onmouseover=\"cancel_delayed_hide_menu('ocmenu');MM_swapImage('othercatalogs','','img/nav/othercatalogs_hi.gif','oc_oasis','','img/menu/oc_oasis_hi.gif',1)\"> \n  <img src=\"http://library.harvard.edu/img/menu/oc_oasis.gif\" width=\"171\" height=\"18\" border=\"0\" name=\"oc_oasis\" alt=\"OASIS\"></a><br> \n  <a href=\"http://nrs.harvard.edu/nrs:hul.eresource:harvmitd\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ocmenu')\" onmouseover=\"cancel_delayed_hide_menu('ocmenu');MM_swapImage('othercatalogs','','img/nav/othercatalogs_hi.gif','oc_hmdc','','img/menu/oc_hmdc_hi.gif',1)\"> \n  <img src=\"http://library.harvard.edu/img/menu/oc_hmdc.gif\" width=\"171\" height=\"18\" border=\"0\" name=\"oc_hmdc\" alt=\"Harvard-MIT Data Center\"></a><br> \n  <a href=\"http://nrs.harvard.edu/nrs:hul.eresource:bakercat\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ocmenu')\" onmouseover=\"cancel_delayed_hide_menu('ocmenu');MM_swapImage('othercatalogs','','img/nav/othercatalogs_hi.gif','oc_baker','','img/menu/oc_baker_hi.gif',1)\"> \n  <img src=\"http://library.harvard.edu/img/menu/oc_baker.gif\" width=\"171\" height=\"18\" border=\"0\" name=\"oc_baker\" alt=\"Baker Library catalog\"></a><br>\n  <a href=\"http://nrs.harvard.edu/nrs:hul.eresource:dumboaks\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ocmenu')\" onmouseover=\"cancel_delayed_hide_menu('ocmenu');MM_swapImage('othercatalogs','','img/nav/othercatalogs_hi.gif','oc_dumbarton','','img/menu/oc_dumbarton_hi.gif',1)\">\n  <img src=\"http://library.harvard.edu/img/menu/oc_dumbarton.gif\" width=\"171\" height=\"18\" border=\"0\" name=\"oc_dumbarton\" alt=\"Dumbarton Oaks\"></a><br>\n  <a href=\"http://195.31.145.6:4505/ALEPH\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ocmenu')\" onmouseover=\"cancel_delayed_hide_menu('ocmenu');MM_swapImage('othercatalogs','','img/nav/othercatalogs_hi.gif','oc_berenson','','img/menu/oc_berenson_hi.gif',1)\">\n  <img src=\"http://library.harvard.edu/img/menu/oc_berenson.gif\" width=\"171\" height=\"18\" border=\"0\" name=\"oc_berenson\" alt=\"Biblioteca Berenson\"></a><br>\n  <a href=\"catalogs/listings.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ocmenu')\" onmouseover=\"cancel_delayed_hide_menu('ocmenu');MM_swapImage('othercatalogs','','img/nav/othercatalogs_hi.gif','oc_catalogsbeyond','','img/menu/oc_catalogsbeyond_hi.gif',1)\">\n  <img src=\"http://library.harvard.edu/img/menu/oc_catalogsbeyond.gif\" width=\"171\" height=\"18\" border=\"0\" name=\"oc_catalogsbeyond\" alt=\"Catalogs beyond Harvard\"></a><br>\n  <a href=\"#\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ocmenu')\" onmouseover=\"cancel_delayed_hide_menu('ocmenu');MM_swapImage('othercatalogs','','img/nav/othercatalogs_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/spacer.gif\" width=\"171\" height=\"30\" border=\"0\" name=\"oc_blank\" alt=\"\"></a></div>\n<div id=\"ermenu\" style=\"position:absolute; width:103px; height:138px; z-index:1; left: 243px; top: 30px; visibility: hidden\">\n  <a href=\"e-resources/index.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ermenu')\" onmouseover=\"cancel_delayed_hide_menu('ermenu');MM_swapImage('eresources','','img/nav/eresources_hi.gif','er_eresources','','img/menu/er_eresources_hi.gif',1)\">    <img src=\"http://library.harvard.edu/img/menu/er_eresources.gif\" width=\"103\" height=\"18\" border=\"0\" name=\"er_eresources\" alt=\"E-resources\"></a><br>  <a href=\"e-resources/alpha/index.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ermenu')\" onmouseover=\"cancel_delayed_hide_menu('ermenu');MM_swapImage('eresources','','img/nav/eresources_hi.gif','er_atoz','','img/menu/er_atoz_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/menu/er_atoz.gif\" width=\"103\" height=\"18\" border=\"0\" name=\"er_atoz\" alt=\"A to Z\"></a><br>\n  <a href=\"e-resources/subject/index.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ermenu')\" onmouseover=\"cancel_delayed_hide_menu('ermenu');MM_swapImage('eresources','','img/nav/eresources_hi.gif','er_subject','','img/menu/er_subject_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/menu/er_subject.gif\" width=\"103\" height=\"18\" border=\"0\" name=\"er_subject\" alt=\"By subject\"></a><br>\n  <a href=\"e-resources/type/index.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ermenu')\" onmouseover=\"cancel_delayed_hide_menu('ermenu');MM_swapImage('eresources','','img/nav/eresources_hi.gif','er_type','','img/menu/er_type_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/menu/er_type.gif\" width=\"103\" height=\"18\" border=\"0\" name=\"er_type\" alt=\"By type\"></a><br>\n  <a href=\"e-resources/type/electronic_journals/index.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ermenu')\" onmouseover=\"cancel_delayed_hide_menu('ermenu');MM_swapImage('eresources','','img/nav/eresources_hi.gif','er_ejournal','','img/menu/er_ejournal_hi.gif',1)\">    <img src=\"http://library.harvard.edu/img/menu/er_ejournal.gif\" width=\"103\" height=\"18\" border=\"0\" name=\"er_ejournal\" alt=\"E-Journals\"></a><br>  <a href=\"e-resources/whatsnew.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ermenu')\" onmouseover=\"cancel_delayed_hide_menu('ermenu');MM_swapImage('eresources','','img/nav/eresources_hi.gif','er_whatsnew','','img/menu/er_whatsnew_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/menu/er_whatsnew.gif\" width=\"103\" height=\"18\" border=\"0\" name=\"er_whatsnew\" alt=\"What's new\"></a><br>\n  <a href=\"#\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('ermenu')\" onmouseover=\"cancel_delayed_hide_menu('ermenu');MM_swapImage('eresources','','img/nav/eresources_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/spacer.gif\" width=\"103\" height=\"30\" border=\"0\" name=\"er_blank\" alt=\"\"></a></div>\n<div id=\"lbmenu\" style=\"position:absolute; width:147px; height:120px; z-index:1; left: 346px; top: 30px; visibility: hidden\">\n  <a href=\"libraries/listings_alpha.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('lbmenu')\" onmouseover=\"cancel_delayed_hide_menu('lbmenu');MM_swapImage('libraries','','img/home/libraries_hi.gif','lb_libraries','','img/menu/lb_libraries_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/menu/lb_libraries.gif\" width=\"147\" height=\"18\" border=\"0\" name=\"lb_libraries\" alt=\"Harvard libraries\"></a><br>\n  <a href=\"libraries/maps/index.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('lbmenu')\" onmouseover=\"cancel_delayed_hide_menu('lbmenu');MM_swapImage('libraries','','img/home/libraries_hi.gif','lb_locations','','img/menu/lb_locations_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/menu/lb_locations.gif\" width=\"147\" height=\"18\" border=\"0\" name=\"lb_locations\" alt=\"Locations\"></a><br>\n  <a href=\"libraries/hours.html\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('lbmenu')\" onmouseover=\"cancel_delayed_hide_menu('lbmenu');MM_swapImage('libraries','','img/home/libraries_hi.gif','lb_hours','','img/menu/lb_hours_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/menu/lb_hours.gif\" width=\"147\" height=\"18\" border=\"0\" name=\"lb_hours\" alt=\"Hours\"></a><br>\n  <a href=\"http://hul.harvard.edu/calendar/\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('lbmenu')\" onmouseover=\"cancel_delayed_hide_menu('lbmenu');MM_swapImage('libraries','','img/home/libraries_hi.gif','lb_events','','img/menu/lb_events_hi.gif',1)\"> \n  <img src=\"http://library.harvard.edu/img/menu/lb_events.gif\" width=\"147\" height=\"18\" border=\"0\" name=\"lb_events\" alt=\"Events and exhibitions\"></a><br>\n  <a href=\"http://hul.harvard.edu/\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('lbmenu')\" onmouseover=\"cancel_delayed_hide_menu('lbmenu');MM_swapImage('libraries','','img/home/libraries_hi.gif','lb_staff','','img/menu/lb_staff_hi.gif',1)\"> \n  <img src=\"http://library.harvard.edu/img/menu/lb_staff.gif\" width=\"147\" height=\"18\" border=\"0\" name=\"lb_staff\" alt=\"Staff resources\"></a><br>\n  <a href=\"#\" onmouseout=\"MM_swapImgRestore();start_delayed_hide_menu('lbmenu')\" onmouseover=\"cancel_delayed_hide_menu('lbmenu');MM_swapImage('libraries','','img/home/libraries_hi.gif',1)\">\n    <img src=\"http://library.harvard.edu/img/spacer.gif\" width=\"147\" height=\"30\" border=\"0\" name=\"lb_blank\" alt=\"\"></a></div>\n\n\n\n</body></html>",
+      "aggregate": {
+        "length": 21780
+      }
+    },
+    "styles": {
+      "list": [
+        {
+          "type": "inline",
+          "length": 549
+        }
+      ],
+      "aggregate": {
+        "length": 549
+      }
+    },
+    "scripts": {
+      "list": [
+        {
+          "type": "internal",
+          "selector": "html>head>script",
+          "length": 5742
+        }
+      ],
+      "aggregate": {
+        "length": 9
+      }
+    },
+    "anchors": {
+      "list": [
+        {
+          "url": "http://library.harvard.edu:80/help/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/search.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/sitemap.html"
+        },
+        {
+          "url": "http://www.harvard.edu/"
+        },
+        {
+          "url": "http://library.harvard.edu:80/catalogs/hollis.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/catalogs/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/e-resources/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/libraries/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/comments/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/catalogs/hollis.html"
+        },
+        {
+          "url": "http://hollisweb.harvard.edu/"
+        },
+        {
+          "url": "http://20010201065100/telnet://hollis.harvard.edu/"
+        },
+        {
+          "url": "http://library.harvard.edu:80/#"
+        },
+        {
+          "url": "http://library.harvard.edu:80/catalogs/index.html"
+        },
+        {
+          "url": "http://nrs.harvard.edu/nrs:hul.eresource:viaxxxxx"
+        },
+        {
+          "url": "http://nrs.harvard.edu/nrs:hul.eresource:oasisxxx"
+        },
+        {
+          "url": "http://nrs.harvard.edu/nrs:hul.eresource:harvmitd"
+        },
+        {
+          "url": "http://nrs.harvard.edu/nrs:hul.eresource:bakercat"
+        },
+        {
+          "url": "http://nrs.harvard.edu/nrs:hul.eresource:dumboaks"
+        },
+        {
+          "url": "http://195.31.145.6:4505/ALEPH"
+        },
+        {
+          "url": "http://library.harvard.edu:80/catalogs/listings.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/#"
+        },
+        {
+          "url": "http://library.harvard.edu:80/e-resources/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/e-resources/alpha/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/e-resources/subject/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/e-resources/type/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/e-resources/type/electronic_journals/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/e-resources/whatsnew.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/#"
+        },
+        {
+          "url": "http://library.harvard.edu:80/libraries/listings_alpha.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/libraries/maps/index.html"
+        },
+        {
+          "url": "http://library.harvard.edu:80/libraries/hours.html"
+        },
+        {
+          "url": "http://hul.harvard.edu/calendar/"
+        },
+        {
+          "url": "http://hul.harvard.edu/"
+        },
+        {
+          "url": "http://library.harvard.edu:80/#"
+        }
+      ]
+    },
+    "metrics": {
+      "puppeteer": {
+        "Timestamp": 944994.037608,
+        "Documents": 2,
+        "Frames": 2,
+        "JSEventListeners": 90,
+        "Nodes": 523,
+        "LayoutCount": 17,
+        "RecalcStyleCount": 11,
+        "LayoutDuration": 0.131934,
+        "RecalcStyleDuration": 0.00999,
+        "ScriptDuration": 0.068303,
+        "TaskDuration": 0.590699,
+        "JSHeapUsedSize": 3013880,
+        "JSHeapTotalSize": 5021696
+      }
+    }
+  },
+  "analysis": {
+    "lighthouse": {
+      "agent": {
+        "name": "Node.js/Lighthouse",
+        "description": "Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.",
+        "url": "https://github.com/GoogleChrome/lighthouse",
+        "version": "^6.4.1"
+      },
+      "data": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+        "environment": {
+          "networkUserAgent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.7 Mobile Safari/537.36 Chrome-Lighthouse",
+          "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+          "benchmarkIndex": 991.5,
+          "credits": {
+            "axe-core": "3.5.5"
+          }
+        },
+        "lighthouseVersion": "6.4.1",
+        "fetchTime": "2021-03-04T02:19:44.098Z",
+        "requestedUrl": "http://web.archive.org/web/20010201065100/http://library.harvard.edu:80/",
+        "finalUrl": "http://web.archive.org/web/20010201065100/http://library.harvard.edu:80/",
+        "runWarnings": [],
+        "configSettings": {
+          "output": "json",
+          "maxWaitForFcp": 30000,
+          "maxWaitForLoad": 45000,
+          "throttlingMethod": "simulate",
+          "throttling": {
+            "rttMs": 150,
+            "throughputKbps": 1638.4,
+            "requestLatencyMs": 562.5,
+            "downloadThroughputKbps": 1474.5600000000002,
+            "uploadThroughputKbps": 675,
+            "cpuSlowdownMultiplier": 4
+          },
+          "auditMode": false,
+          "gatherMode": false,
+          "disableStorageReset": false,
+          "emulatedFormFactor": "mobile",
+          "internalDisableDeviceScreenEmulation": false,
+          "channel": "node",
+          "budgets": null,
+          "locale": "en-US",
+          "blockedUrlPatterns": null,
+          "additionalTraceCategories": null,
+          "extraHeaders": null,
+          "precomputedLanternData": null,
+          "onlyAudits": null,
+          "onlyCategories": [
+            "accessibility",
+            "best-practices",
+            "performance"
+          ],
+          "skipAudits": null
+        },
+        "categories": {
+          "performance": {
+            "title": "Performance",
+            "auditRefs": [
+              {
+                "id": "first-contentful-paint",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "speed-index",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "largest-contentful-paint",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "interactive",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "total-blocking-time",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "cumulative-layout-shift",
+                "weight": 5,
+                "group": "metrics"
+              },
+              {
+                "id": "first-cpu-idle",
+                "weight": 0
+              },
+              {
+                "id": "max-potential-fid",
+                "weight": 0
+              },
+              {
+                "id": "first-meaningful-paint",
+                "weight": 0
+              },
+              {
+                "id": "estimated-input-latency",
+                "weight": 0
+              },
+              {
+                "id": "render-blocking-resources",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-responsive-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "offscreen-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-css",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-css-rules",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-optimized-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-webp-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-text-compression",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preconnect",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "server-response-time",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "redirects",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preload",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-http2",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "efficient-animated-content",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "duplicated-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "legacy-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "total-byte-weight",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-long-cache-ttl",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "dom-size",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "critical-request-chains",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "user-timings",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "bootup-time",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "mainthread-work-breakdown",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "font-display",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "performance-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "timing-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "resource-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "third-party-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "largest-contentful-paint-element",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "layout-shift-elements",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-passive-event-listeners",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "no-document-write",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "long-tasks",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "non-composited-animations",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "unsized-images",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "network-requests",
+                "weight": 0
+              },
+              {
+                "id": "network-rtt",
+                "weight": 0
+              },
+              {
+                "id": "network-server-latency",
+                "weight": 0
+              },
+              {
+                "id": "main-thread-tasks",
+                "weight": 0
+              },
+              {
+                "id": "diagnostics",
+                "weight": 0
+              },
+              {
+                "id": "metrics",
+                "weight": 0
+              },
+              {
+                "id": "screenshot-thumbnails",
+                "weight": 0
+              },
+              {
+                "id": "final-screenshot",
+                "weight": 0
+              }
+            ],
+            "id": "performance",
+            "score": 0.75
+          },
+          "accessibility": {
+            "title": "Accessibility",
+            "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+            "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review).",
+            "auditRefs": [
+              {
+                "id": "accesskeys",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "aria-allowed-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-body",
+                "weight": 10,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-focus",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-input-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-children",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-parent",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-roles",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-toggle-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr-value",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "button-name",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "bypass",
+                "weight": 3,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "color-contrast",
+                "weight": 3,
+                "group": "a11y-color-contrast"
+              },
+              {
+                "id": "definition-list",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "dlitem",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "document-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "duplicate-id-active",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "duplicate-id-aria",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "form-field-multiple-labels",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "frame-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "heading-order",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "html-has-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "html-lang-valid",
+                "weight": 0,
+                "group": "a11y-language"
+              },
+              {
+                "id": "image-alt",
+                "weight": 10,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "input-image-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "label",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "layout-table",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "link-name",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "list",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "listitem",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "meta-refresh",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "meta-viewport",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "object-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "tabindex",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "td-headers-attr",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "th-has-data-cells",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "valid-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "video-caption",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "video-description",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "logical-tab-order",
+                "weight": 0
+              },
+              {
+                "id": "focusable-controls",
+                "weight": 0
+              },
+              {
+                "id": "interactive-element-affordance",
+                "weight": 0
+              },
+              {
+                "id": "managed-focus",
+                "weight": 0
+              },
+              {
+                "id": "focus-traps",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-labels",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-roles",
+                "weight": 0
+              },
+              {
+                "id": "visual-order-follows-dom",
+                "weight": 0
+              },
+              {
+                "id": "offscreen-content-hidden",
+                "weight": 0
+              },
+              {
+                "id": "use-landmarks",
+                "weight": 0
+              }
+            ],
+            "id": "accessibility",
+            "score": 0.81
+          },
+          "best-practices": {
+            "title": "Best Practices",
+            "auditRefs": [
+              {
+                "id": "is-on-https",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "external-anchors-use-rel-noopener",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "geolocation-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "notification-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "no-vulnerable-libraries",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "password-inputs-can-be-pasted-into",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-aspect-ratio",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-size-responsive",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "preload-fonts",
+                "weight": 0,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "doctype",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "charset",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "no-unload-listeners",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "appcache-manifest",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "js-libraries",
+                "weight": 0,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "deprecations",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "errors-in-console",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "valid-source-maps",
+                "weight": 0,
+                "group": "best-practices-general"
+              }
+            ],
+            "id": "best-practices",
+            "score": 0.64
+          }
+        }
+      }
+    },
+    "wappalyzer": {
+      "agent": {
+        "name": "Node.js/Wappalyzer",
+        "description": "Wappalyzer identifies technologies on websites, including content management systems, ecommerce platforms, JavaScript frameworks, analytics tools and much more.",
+        "url": "https://github.com/AliasIO/wappalyzer",
+        "version": "^6.3.12"
+      },
+      "data": {
+        "urls": {
+          "http://web.archive.org/web/20010201065100/http://library.harvard.edu:80/": {
+            "status": 200
+          }
+        },
+        "technologies": [
+          {
+            "slug": "dreamweaver",
+            "name": "DreamWeaver",
+            "confidence": 100,
+            "version": null,
+            "icon": "DreamWeaver.png",
+            "website": "https://www.adobe.com/products/dreamweaver.html",
+            "cpe": "cpe:/a:adobe:dreamweaver",
+            "categories": [
+              {
+                "id": 20,
+                "slug": "editors",
+                "name": "Editors"
+              }
+            ]
+          },
+          {
+            "slug": "nginx",
+            "name": "Nginx",
+            "confidence": 100,
+            "version": "1.19.5",
+            "icon": "Nginx.svg",
+            "website": "http://nginx.org/en",
+            "cpe": "cpe:/a:nginx:nginx",
+            "categories": [
+              {
+                "id": 22,
+                "slug": "web-servers",
+                "name": "Web servers"
+              },
+              {
+                "id": 64,
+                "slug": "reverse-proxies",
+                "name": "Reverse proxies"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "builtwith": {
+      "agent": {
+        "name": "Node.js/Axios",
+        "description": "Promise based HTTP client for the browser and node.js",
+        "url": "https://github.com/axios/axios",
+        "version": "^0.21.0"
+      },
+      "url": "https://api.builtwith.com/v18/api.json?KEY=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&LOOKUP=http://web.archive.org/web/20010201065100/http://library.harvard.edu:80/",
+      "response": {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+          "cache-control": "private",
+          "content-type": "application/json; charset=utf-8",
+          "server": "Microsoft-IIS/10.0",
+          "access-control-allow-origin": "*",
+          "x-api-credits-available": "5000",
+          "x-api-credits-used": "798",
+          "x-api-credits-remaining": "4202",
+          "x-ua-compatible": "IE=Edge,chrome=1",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "date": "Thu, 04 Mar 2021 02:20:09 GMT",
+          "connection": "close",
+          "content-length": "6357"
+        },
+        "data": {
+          "Results": [
+            {
+              "Result": {
+                "IsDB": "False",
+                "Spend": 0,
+                "Paths": [
+                  {
+                    "Technologies": [
+                      {
+                        "IsPremium": "no",
+                        "Name": "HTML 4.01 Transitional DTD",
+                        "Description": "Claims HTML 4.01 Transitional DTD, which includes presentation attributes and elements that W3C expects to phase out as support for style sheets matures.",
+                        "Link": "http://www.w3.org/TR/REC-html40/loose.dtd",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Javascript",
+                        "Description": "JavaScript is a scripting language most often used for client-side web development.",
+                        "Link": "http://en.wikipedia.org/wiki/JavaScript",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "UTF-8",
+                        "Description": "UTF-8 (8-bit UCS/Unicode Transformation Format) is a variable-length character encoding for Unicode. It is the preferred encoding for web pages.",
+                        "Link": "http://en.wikipedia.org/wiki/UTF-8",
+                        "Tag": "encoding",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Cascading Style Sheets",
+                        "Description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in a markup language. Its most common application is to style web pages written in HTML ",
+                        "Link": "http://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_TITLE",
+                        "Description": "SEO Title",
+                        "Link": "",
+                        "Tag": "seo_title",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "ISO/IEC 8859",
+                        "Description": "ISO 8859, more formally ISO/IEC 8859, is a joint ISO and IEC standard for 8-bit character encodings for use by computers. The standard is divided into numbered, separately published parts, such as ISO/IEC 8859-1, ISO/IEC 8859-2, etc., each of which may be informally referred to as a standard in itself. There are currently 15 parts as of 2006 excluding the abandoned ISO/IEC 8859-12 standard.",
+                        "Link": "http://en.wikipedia.org/wiki/ISO_8859",
+                        "Tag": "encoding",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Meta Description",
+                        "Description": "The description attribute provides a concise explanation of the page content.",
+                        "Link": "http://en.wikipedia.org/wiki/Meta_tag#The_description_attribute",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_META_DESCRIPTION",
+                        "Description": "SEO Meta Description",
+                        "Link": "http://builtwith.com",
+                        "Tag": "seo_meta",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Meta Keywords",
+                        "Description": "Meta tag containing keywords related to the page.",
+                        "Link": "http://en.wikipedia.org/wiki/Meta_tag#The_keywords_attribute",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_META_KEYWORDS",
+                        "Description": "SEO Meta Keywords",
+                        "Link": "http://builtwith.com",
+                        "Tag": "seo_meta",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Adobe Dreamweaver",
+                        "Description": "Based on the use of certain javascript functions, this page contains code generated, at least initially, by Dreamweaver.",
+                        "Link": "http://www.adobe.com/products/dreamweaver",
+                        "Tag": "framework",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "srcset",
+                        "Description": "Adapting images for high-resolution and low-resolution displays.",
+                        "Link": "http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "HTML 5 Specific Tags",
+                        "Description": "This page contains tags that are specific to an HTML 5 implementation.",
+                        "Link": "http://dev.w3.org/html5/html-author/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "IFrame",
+                        "Description": "The page shows content with an iframe; an embedded frame that loads another webpage.",
+                        "Link": "http://www.w3schools.com/tags/tag_iframe.asp",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "PHP",
+                        "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                        "Link": "http://www.php.net",
+                        "Tag": "framework",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Content Security Policy",
+                        "Description": "Content Security Policy is a computer security concept, to prevent cross-site scripting XSS attacks.",
+                        "Link": "http://en.wikipedia.org/wiki/Content_Security_Policy",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Apache",
+                        "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                        "Link": "http://httpd.apache.org/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "Parent": "Apache",
+                        "IsPremium": "no",
+                        "Name": "Apache 1.3",
+                        "Description": "Apache version 1.3.*",
+                        "Link": "http://httpd.apache.org/docs/1.3",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Unix",
+                        "Description": "A *nix based operating system (undisclosed).",
+                        "Link": "",
+                        "Tag": "Server",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "nginx",
+                        "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                        "Link": "http://nginx.net/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824409705,
+                        "LastDetected": 1614824409705
+                      }
+                    ],
+                    "FirstIndexed": 1614824409705,
+                    "LastIndexed": 1614824409705,
+                    "Domain": "web.archive.org/web/20010201065100/library.harvard.edu:80/",
+                    "Url": "web/20010201065100/library.harvard.edu:80/",
+                    "SubDomain": "web.archive.org"
+                  }
+                ]
+              },
+              "Meta": {
+                "Majestic": 0,
+                "Umbrella": 0,
+                "Vertical": "",
+                "Social": null,
+                "CompanyName": null,
+                "Telephones": null,
+                "Emails": [],
+                "City": null,
+                "State": null,
+                "Postcode": null,
+                "Country": null,
+                "Names": null,
+                "ARank": 0,
+                "QRank": 0
+              },
+              "Attributes": {
+                "MJRank": 0,
+                "MJTLDRank": 0,
+                "RefSN": 0,
+                "RefIP": 0,
+                "TTFB": 0,
+                "Sitemap": 0,
+                "GTMTags": 0,
+                "QubitTags": 0,
+                "TealiumTags": 0,
+                "AdobeTags": 0,
+                "CDimensions": 0,
+                "CGoals": 0,
+                "CMetrics": 0,
+                "SourceBytes": 0
+              },
+              "FirstIndexed": 1614824409705,
+              "LastIndexed": 1614824409705,
+              "Lookup": "web.archive.org/web/20010201065100/library.harvard.edu:80/",
+              "SalesRevenue": 0
+            }
+          ],
+          "Errors": []
+        }
+      }
+    },
+    "analyzecss": {
+      "agent": {
+        "name": "Node.js/analyze-css",
+        "description": "CSS selectors complexity and performance analyzer.",
+        "url": "https://github.com/macbre/analyze-css",
+        "version": "^0.12.12",
+        "note": "These statistics are for an aggregate of all stylesheets in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "base64Length": 0,
+        "redundantBodySelectors": 0,
+        "redundantChildNodesSelectors": 0,
+        "colors": 0,
+        "comments": 0,
+        "commentsLength": 0,
+        "complexSelectors": 0,
+        "duplicatedSelectors": 0,
+        "duplicatedProperties": 0,
+        "emptyRules": 0,
+        "expressions": 0,
+        "oldIEFixes": 0,
+        "imports": 0,
+        "importants": 0,
+        "mediaQueries": 0,
+        "notMinified": 1,
+        "multiClassesSelectors": 0,
+        "parsingErrors": 0,
+        "oldPropertyPrefixes": 0,
+        "propertyResets": 0,
+        "qualifiedSelectors": 4,
+        "specificityIdAvg": 1,
+        "specificityIdTotal": 4,
+        "specificityClassAvg": 1,
+        "specificityClassTotal": 4,
+        "specificityTagAvg": 3,
+        "specificityTagTotal": 12,
+        "selectors": 4,
+        "selectorLengthAvg": 3,
+        "selectorsByAttribute": 0,
+        "selectorsByClass": 0,
+        "selectorsById": 4,
+        "selectorsByPseudo": 4,
+        "selectorsByTag": 12,
+        "length": 549,
+        "rules": 4,
+        "declarations": 28
+      }
+    },
+    "escomplex": {
+      "agent": {
+        "name": "Node.js/escomplex",
+        "description": "Software complexity analysis of JavaScript abstract syntax trees.",
+        "url": "https://github.com/escomplex/escomplex",
+        "version": "^2.0.0-alpha",
+        "note": "These statistics are for an aggregate of all scripts in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "maintainability": 171,
+        "effort": 0,
+        "sloc": {
+          "logical": 1,
+          "physical": 1
+        },
+        "cyclomatic": 1,
+        "halstead": {
+          "operators": {
+            "distinct": 0,
+            "total": 0
+          },
+          "operands": {
+            "distinct": 1,
+            "total": 1
+          },
+          "length": 1,
+          "vocabulary": 1,
+          "difficulty": 0,
+          "volume": 0,
+          "effort": 0,
+          "bugs": 0,
+          "time": 0
+        },
+        "params": 0,
+        "line": 1,
+        "cyclomaticDensity": 100
+      }
+    }
+  }
+}

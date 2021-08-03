@@ -1,0 +1,40 @@
+{
+  "name": "visitor",
+  "description": "Gather historical data for websites.",
+  "repository": "https://github.com/allanberry/visitor",
+  "author": "Allan Berry <allan.berry@gmail.com>",
+  "version": "1.0.0b2",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "https://github.com/allanberry/apato",
+  "scripts": {
+    "go": "node app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "analyze-css": "^0.13.0",
+    "axios": "^0.21.0",
+    "chai": "^4.3.3",
+    "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
+    "css": "^3.0.0",
+    "csv": "^5.3.2",
+    "del": "^6.0.0",
+    "dotenv": "^8.2.0",
+    "escomplex": "^2.0.0-alpha",
+    "geoip-lite": "^1.4.2",
+    "google-auth-library": "^7.0.2",
+    "googleapis": "^67.1.1",
+    "jsonschema": "^1.4.0",
+    "lighthouse": "^6.4.1",
+    "log4js": "^6.3.0",
+    "moment": "^2.29.1",
+    "puppeteer": "^5.4.1",
+    "slugify": "^1.4.6",
+    "wappalyzer": "^6.3.12"
+  },
+  "devDependencies": {
+    "jest": "^26.6.1"
+  },
+  "private": true
+}

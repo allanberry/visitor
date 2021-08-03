@@ -1,0 +1,1322 @@
+{
+  "id": "ca_utoronto_library_3185385819_19961225001103",
+  "url": "http://www.library.utoronto.ca/",
+  "date_accessed": "2021-03-04T02:22:07Z",
+  "wayback": {
+    "date_available": "1996-12-25T00:11:03Z",
+    "url_raw": "http://web.archive.org/web/19961225001103id_/http://www.library.utoronto.ca:80/",
+    "url_rendered": "http://web.archive.org/web/19961225001103/http://www.library.utoronto.ca:80/"
+  },
+  "agent": {
+    "name": "Apato (Visitor)",
+    "url": "https://github.com/allanberry/apato",
+    "version": "1.0.0b",
+    "creator": "Allan Berry <allan.berry@gmail.com>"
+  },
+  "client": {
+    "ip": "98.206.145.7",
+    "geo": {
+      "range": [
+        1657704448,
+        1657706495
+      ],
+      "country": "US",
+      "region": "IL",
+      "eu": "0",
+      "timezone": "America/Chicago",
+      "city": "Chicago",
+      "ll": [
+        41.804,
+        -87.707
+      ],
+      "metro": 602,
+      "area": 5
+    }
+  },
+  "raw": {
+    "agent": {
+      "name": "Node.js/Axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "url": "https://github.com/axios/axios",
+      "version": "^0.21.0"
+    },
+    "title": "UTLink: University of Toronto Libraries",
+    "response": {
+      "description": "Selected data from the response.",
+      "status": 200,
+      "statusText": "Sending Processed HTML",
+      "headers": {
+        "server": "nginx/1.19.5",
+        "date": "Thu, 04 Mar 2021 02:22:10 GMT",
+        "content-type": "text/html",
+        "transfer-encoding": "chunked",
+        "connection": "close",
+        "x-archive-orig-content-length": "9385",
+        "x-archive-orig-mime-version": "1.0",
+        "x-archive-orig-server": "OSU/3.0a",
+        "x-archive-orig-date": "Thu, 11 Dec 1997 06:23:09 GMT",
+        "cache-control": "max-age=1800",
+        "memento-datetime": "Wed, 10 Dec 1997 22:22:02 GMT",
+        "link": "<http://library.utoronto.ca:80/>; rel=\"original\", <http://web.archive.org/web/timemap/link/http://library.utoronto.ca:80/>; rel=\"timemap\"; type=\"application/link-format\", <http://web.archive.org/web/http://library.utoronto.ca:80/>; rel=\"timegate\", <http://web.archive.org/web/19961225001103/http://www.library.utoronto.ca:80/>; rel=\"first memento\"; datetime=\"Wed, 25 Dec 1996 00:11:03 GMT\", <http://web.archive.org/web/19970706145104/http://www.library.utoronto.ca:80/>; rel=\"prev memento\"; datetime=\"Sun, 06 Jul 1997 14:51:04 GMT\", <http://web.archive.org/web/19971210222202/http://library.utoronto.ca:80/>; rel=\"memento\"; datetime=\"Wed, 10 Dec 1997 22:22:02 GMT\", <http://web.archive.org/web/19980127102716/http://library.utoronto.ca:80/>; rel=\"next memento\"; datetime=\"Tue, 27 Jan 1998 10:27:16 GMT\", <http://web.archive.org/web/20210228012843/https://library.utoronto.ca/>; rel=\"last memento\"; datetime=\"Sun, 28 Feb 2021 01:28:43 GMT\"",
+        "content-security-policy": "default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org",
+        "x-archive-src": "FS-363311-c/FS-363710.arc.gz",
+        "server-timing": "PetaboxLoader3.datanode;dur=115.406068, LoadShardBlock;dur=156.419446, captures_list;dur=287.906251, RedisCDXSource;dur=1.954920, PetaboxLoader3.resolve;dur=37.255532, CDXLines.iter;dur=39.758948, esindex;dur=0.023209, exclusion.robots.policy;dur=0.332674, exclusion.robots;dur=0.354353, load_resource;dur=75.614228",
+        "x-app-server": "wwwb-app29",
+        "x-ts": "200",
+        "x-tr": "494",
+        "x-location": "All",
+        "x-cache-key": "httpweb.archive.org/web/19971210222202id_/http://library.utoronto.ca/US",
+        "x-rl": "0",
+        "x-na": "0",
+        "x-page-cache": "MISS",
+        "x-nid": "-"
+      }
+    },
+    "structure": {
+      "aggregate": {
+        "elementQty": 254,
+        "length": 9385
+      }
+    }
+  },
+  "rendered": {
+    "agent": {
+      "name": "Node.js/Puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "version": "^5.4.1",
+      "browser": "HeadlessChrome/87.0.4272.0"
+    },
+    "title": "UTLink: University of Toronto Libraries",
+    "screenshots": [
+      "v1_0/ca_utoronto_library_3185385819_19961225001103/w320.png",
+      "v1_0/ca_utoronto_library_3185385819_19961225001103/w640.png",
+      "v1_0/ca_utoronto_library_3185385819_19961225001103/w1280.png"
+    ],
+    "structure": {
+      "data": "<html><head>\n\n\n\n\n\n\n \n<title>UTLink: University of Toronto Libraries</title> \n</head> \n \n<body bgcolor=\"#ffffff\">\n\n\n\n \n<center> \n \n<a name=\"top\"></a><h2><a name=\"top\"><img src=\"http://library.utoronto.ca/www/utl.gif\" height=\"155\" width=\"480\" alt=\"University of Toronto Libraries\">\n</a><a href=\"http://www.utoronto.ca/\">\n<img src=\"http://library.utoronto.ca/www/icons/gohome2.gif\" height=\"120\" width=\"78\" alt=\"[UofT Home]\" border=\"0\" vspace=\"11\"></a>\n</h2> \n\n\n<strong><a href=\"http://www.library.utoronto.ca/www/holiday97.htm\"><font size=\"2\">Holiday Library Hours ~ \nDecember 22, 1997 - January 4, 1998</font></a></strong>\n\n</center>\n<br>\n\n\n<font size=\"-1\">\n\n<strong>On this page: <a href=\"#catalogues\">Catalogues</a> | \n<a href=\"#services\">Services</a> |\n<a href=\"#resources\">Web Research Resources</a> | <a href=\"#information\">Directories &amp; News</a> | \n<a href=\"#others\">Other Libraries</a>  \n</strong></font>\n\n<h3><a name=\"catalogues\">UTLink Catalogues, Journal Indexes, and Other Databases</a></h3> \n \n<ul> \n<li><a href=\"http://library.utoronto.ca/www/catalogues/\"> \n<b>UTLink catalogues and databases on the web</b></a><br>\n<img src=\"http://library.utoronto.ca/www/icons/new.gif\" alt=\"New!\" width=\"40\" height=\"18\" hspace=\"10\"> We're pleased to \nannounce that, in addition to our catalogue and journal indexes,  hundreds of\nfull text journals are now available to the university community via the web. \nWe welcome your <a href=\"mailto:utweb@library.utoronto.ca\"><b>comments</b></a>\nabout this new service.  User restrictions apply to some databases.<p> \n\n</p></li><li><a href=\"telnet://library.utoronto.ca/\"><b>UTLink catalogues  \nby telnet</b></a><br> \nTelnet to the UTLink databases. The same databases as above are available,  \nbut with somewhat different commands and options for conducting your search.  \nPlease note: at the <strong>Username:</strong> prompt type \n<strong>UTLINK</strong>.\n<p>Windows Netscape users who have difficulty making a telnet connection should \nconsult <strong><a href=\"http://utcat.library.utoronto.ca:8002/telnet.html\">Using \nTelnet with Netscape for Windows</a></strong>.</p><p> \n \n</p></li><li><strong><a href=\"gopher://library.utoronto.ca:70/11gopher_root70%3A%5B_libraries._cdrom%5D\">Electronic \nResources (CD-ROM and online databases) in the U of T Libraries</a></strong>\n</li></ul>\n<strong><font size=\"-1&quot;\">[ <a href=\"#top\">Top of page</a>]</font></strong>\n<p>\n\n</p><hr>\n\n<h3><a name=\"services\">Library Services</a></h3> \n<font size=\"-1\"><i> \nFor services not listed below, please contact the appropriate  \nlibrary.  Telephone numbers, addresses, and hours are available in the  \n<strong><a href=\"http://library.utoronto.ca/www/librarylist.html\">Guide to University of Toronto and\nLocal Libraries</a></strong></i></font> \n<p> \n \n</p><ul> \n\n<li><a href=\"http://library.utoronto.ca/www/smartcard/index.htm\"><b>New Photo ID Library Card</b></a><p>\n\n\n</p></li><li><strong>Borrower Information</strong><br>\nTo see which items you currently have charged out, to renew books, to review\nyour fines record, or to see the status of holds you have placed, please:\n<ol>\n<li>Select <strong>UTCatalogues by Telnet</strong>, above\n</li><li>From the main UTLink menu, select 1 for UTCat\n</li><li>Select the UTLink Options menu\n</li></ol><p>\n\n</p></li><li><a href=\"http://library.utoronto.ca/www/reference.html\"><b>UTLink Online Reference Service</b></a><br> \nSend us your reference questions online.<p> \n\n</p></li><li><a href=\"http://library.utoronto.ca/www/req/index.htm\"><b>Course-Related Library Materials</b></a><p>\n\n</p></li><li><b><a href=\"http://library.utoronto.ca/www/alumni_services/index.htm\">Alumni Services</a></b><br>\n\n<p>\n\n \n</p></li><li><strong><a href=\"http://library.utoronto.ca/www/utor.html\">Connecting to the Internet at UofT: UTORdial and\nUTORmail</a></strong><br>\nUniversity of Toronto Libraries and Information Commons.<br>\nCreate, modify, and review your UTORdial account (for dial-up Internet\nconnections at the University) and UTORmail account (for sending and receiving\nemail).<p>\n \n</p></li><li><b><a href=\"http://library.utoronto.ca/www/carrel.html\">Robarts Library carrel and locker  \napplication</a></b><br> \nApply for your carrel online.<p> \n\n \n\n</p></li><li><a href=\"http://library.utoronto.ca/www/ilu/\"><b>UTLearn: Library and Internet \nInstruction</b></a> (including Library and Academic Know How)<br>\nInstruction Schedules, Directory of Instructors, Library and Internet \nGuides, and Related Resources<br>\nTutorials for UTCat, Medline and other journal indexes, \nand internet searching\ntools. \n<p>\n\n \n</p></li><li><b><a href=\"mailto:utweb@library.utoronto.ca\">Send us your comments and \nsuggestions</a></b> \n</li></ul> \n\n<strong><font size=\"-1&quot;\">[ <a href=\"#top\">Top of page</a>]</font></strong>\n<p>\n\n</p><hr>\n\n<h3><a name=\"resources\"></a><a href=\"http://library.utoronto.ca/www/resources.html\" name=\"resources\">\nWeb Research Resources</a></h3>\n<ul>\n<li><strong><a href=\"http://library.utoronto.ca/www/quickref.html\">Desktop References</a> - dictionaries,\nhandbooks, etc.</strong><p>\n</p></li><li><strong>Resources by <a href=\"http://library.utoronto.ca/www/subjects.html\">subject</a></strong><p>    \n</p></li><li><strong>Resources by <a href=\"http://library.utoronto.ca/www/resources.html#type\">type</a></strong><p>    \n</p></li><li><strong><a href=\"http://library.utoronto.ca/www/resources_texts.html#uoft\">University of Toronto</a> \nresources</strong><p>\n</p></li><li><strong><a href=\"http://library.utoronto.ca/www/internet.html\">Internet Guides</a></strong>\n    \n</li></ul>\n\n\n<strong><font size=\"-1&quot;\">[ <a href=\"#top\">Top of page</a>]</font></strong>\n<p>\n\n</p><hr>\n\n \n<h3><a name=\"information\">Directories and News: University of Toronto Library</a></h3> \n<ul> \n<li><a href=\"http://library.utoronto.ca/www/librarylist.html\"><b>Guide to University of Toronto  \nand Local Libraries</b></a> <br>        \nHours, locations, phone numbers, collections, and other  \n   information about University of Toronto and local libraries. \n\n<p>\n</p></li><li><a href=\"http://library.utoronto.ca/www/guide_to_libraries/codes.htm\"><strong>Location\nCode Abbreviations used in UTCat</strong></a>\n<p>\n\n</p></li><li><a href=\"http://library.utoronto.ca/www/libraries_eng/newbooks.htm\"><strong>Engineering Library New \nBooks</strong></a>\n\n<p>\n</p></li><li><a href=\"http://www.library.utoronto.ca/htbin/utl_email\"> \n<b>University of Toronto Libraries Staff Email Directory</b></a> \n<p>\n</p></li><li><a href=\"http://canada411.sympatico.ca/\"><b>Canada 411 (<i>Bell \nCanada</i>)</b></a>: Canadian phone numbers and addresses.\n</li><li><a href=\"http://www.mailposte.ca/english/pclookup/pclookup.html\"><b>Postal\n Code Lookup</b></a> (<a href=\"http://www.mailposte.ca/\">Canada Post</a>) \n\n\n<p>\n</p></li><li><a href=\"http://library.utoronto.ca/www/faq/\"><strong>University of Toronto Libraries Frequently\nAsked Questions</strong></a>\n<p> \n</p></li><li><a href=\"http://library.utoronto.ca/www/its/happenings/mar97/index.htm\"><b>ITS Happening</b></a><br>\nNews about innovations and advances in information technology at the University\nof Toronto Libraries.  Published by <a href=\"http://library.utoronto.ca/www/its/\">Information Technology\nServices</a>.\n\n<p>\n</p></li><li><a href=\"http://library.utoronto.ca/www/librarycouncil/\"><b>University of Toronto Library. Library Council\n</b></a><br>\nMembership, terms of reference, goals, standing committees and memoranda.\n<p>\n</p></li><li><b><a href=\"http://library.utoronto.ca/www/task_forces/collection_development.html\">Task Force On Collection Development In The Sciences</a>\n</b>\n<p>\n</p></li><li><a href=\"http://library.utoronto.ca/www/undergrad_services/report/\"><b>University of Toronto \nLibrary Working Group on Undergraduate Library Services. Report.</b></a>\n<p> \n</p></li><li><a href=\"http://library.uwaterloo.ca/documents/CAN-LINKED/\"> \n<b>CAN-LINKED Initiative</b></a><br> \nA proposal for the co-ordinated development of a distributed national digital \nlibrary system in Canada, prepared by a group of academic and research \nlibraries.  Jointly authored by C. Moore, Chief Librarian, University of \nToronto, and Graham Hill, Chief Librarian, McMaster University. \n</li></ul> \n\n<strong><font size=\"-1&quot;\">[ <a href=\"#top\">Top of page</a>]</font></strong>\n<p>\n\n</p><hr>\n\n \n<h3><a name=\"others\">Other Libraries: Information and Connections</a></h3> \n<ul> \n \n<li><a href=\"http://www.lib.uwaterloo.ca/ocul/ocul.html\"> \n<b>Ontario College and University Library Directory</b></a><br> \n    University of Waterloo.<br> \n    Locations, phone numbers, collections, and contacts.<p> \n\n</p></li><li><a href=\"http://library.usask.ca/hywebcat/\"><strong>Webcats: Library \nCatalogues on the World Wide Web</strong></a><br>\n    University of Saskatchewan.<br>\n    Web connections to online catalogues for academic and other libraries  \n    worldwide.<p>\n \n</p></li><li><a href=\"http://library.usask.ca/hytelnet/\">  \n<b>Other library catalogues: Hytelnet</b></a><br> \n    University of Saskatchewan.<br> \n    Telnet connections to online catalogues for academic and other libraries  \n    worldwide.   \n    <p>Windows Netscape users who have difficulty making a telnet connection \n    should consult \n    <strong><a href=\"http://utcat.library.utoronto.ca:8002/telnet.html\">Using \n    Telnet with Netscape for Windows</a></strong>.</p><p> \n\n</p></li></ul> \n\n<strong><font size=\"-1&quot;\">[ <a href=\"#top\">Top of page</a>]</font></strong>\n<p>\n \n\n</p><hr size=\"2\" width=\"100%\">\n\n<strong>\n<font size=\"-1\">\nGo to: \n[ <a href=\"http://library.utoronto.ca/www/librarylist.html\">Guide \nto Libraries</a> | <a href=\"http://utcat.library.utoronto.ca:8002/\">UTCat \nDatabases</a> | \n<a href=\"http://library.utoronto.ca/www/utlearn/utlearn.html\">UTLearn</a> | \n<a href=\"mailto:utweb@library.utoronto.ca\">Comments</a> | \n<a href=\"http://www.utoronto.ca/\">UofT Home</a> | <a href=\"http://www.utoronto.ca/utsearch.html\">Search UofT</a> ]\n</font>\n</strong>\n<center>\n<p> \n<table border=\"1\" width=\"%80\" cellpadding=\"5\"> \n<tbody><tr>\n<td align=\"center\" valign=\"middle\">\n<a href=\"http://library.utoronto.ca/www/index.html\"><img src=\"http://www.library.utoronto.ca/www/utlhome.gif\" border=\"0\" alt=\"\"></a>\n</td><td><i>This Information System is provided by the \n University of Toronto Library.<br></i> \nPlease send comments to: \n<a href=\"mailto:utweb@library.utoronto.ca\">utweb@library.utoronto.ca</a><br> \nRevised: December 6, 1997</td> \n</tr> \n</tbody></table></p><p> \n \n<font size=\"-1\"> \nAll contents copyright ©, 1996. University of Toronto Library. All \nrights reserved.<br></font></p><p><font size=\"-1\"> \n</font> \n</p></center>\n \n \n \n \n \n\n</body></html>",
+      "aggregate": {
+        "length": 10626
+      }
+    },
+    "styles": {
+      "list": [
+        {
+          "type": "inline",
+          "length": 0
+        }
+      ],
+      "aggregate": {
+        "length": 0
+      }
+    },
+    "scripts": {
+      "list": [],
+      "aggregate": {
+        "length": 0
+      }
+    },
+    "anchors": {
+      "list": [
+        {
+          "url": ""
+        },
+        {
+          "url": ""
+        },
+        {
+          "url": "http://www.utoronto.ca/"
+        },
+        {
+          "url": "http://www.library.utoronto.ca/www/holiday97.htm"
+        },
+        {
+          "url": "http://library.utoronto.ca/#catalogues"
+        },
+        {
+          "url": "http://library.utoronto.ca/#services"
+        },
+        {
+          "url": "http://library.utoronto.ca/#resources"
+        },
+        {
+          "url": "http://library.utoronto.ca/#information"
+        },
+        {
+          "url": "http://library.utoronto.ca/#others"
+        },
+        {
+          "url": ""
+        },
+        {
+          "url": "http://library.utoronto.ca/www/catalogues/"
+        },
+        {
+          "url": "http://19971210222202/mailto:utweb@library.utoronto.ca"
+        },
+        {
+          "url": "http://19971210222202/telnet://library.utoronto.ca/"
+        },
+        {
+          "url": "http://utcat.library.utoronto.ca:8002/telnet.html"
+        },
+        {
+          "url": "http://19971210222202/gopher://library.utoronto.ca:70/11gopher_root70%3A%5B_libraries._cdrom%5D"
+        },
+        {
+          "url": "http://library.utoronto.ca/#top"
+        },
+        {
+          "url": ""
+        },
+        {
+          "url": "http://library.utoronto.ca/www/librarylist.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/smartcard/index.htm"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/reference.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/req/index.htm"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/alumni_services/index.htm"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/utor.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/carrel.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/ilu/"
+        },
+        {
+          "url": "http://19971210222202/mailto:utweb@library.utoronto.ca"
+        },
+        {
+          "url": "http://library.utoronto.ca/#top"
+        },
+        {
+          "url": ""
+        },
+        {
+          "url": "http://library.utoronto.ca/www/resources.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/quickref.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/subjects.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/resources.html#type"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/resources_texts.html#uoft"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/internet.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/#top"
+        },
+        {
+          "url": ""
+        },
+        {
+          "url": "http://library.utoronto.ca/www/librarylist.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/guide_to_libraries/codes.htm"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/libraries_eng/newbooks.htm"
+        },
+        {
+          "url": "http://www.library.utoronto.ca/htbin/utl_email"
+        },
+        {
+          "url": "http://canada411.sympatico.ca/"
+        },
+        {
+          "url": "http://www.mailposte.ca/english/pclookup/pclookup.html"
+        },
+        {
+          "url": "http://www.mailposte.ca/"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/faq/"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/its/happenings/mar97/index.htm"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/its/"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/librarycouncil/"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/task_forces/collection_development.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/undergrad_services/report/"
+        },
+        {
+          "url": "http://library.uwaterloo.ca/documents/CAN-LINKED/"
+        },
+        {
+          "url": "http://library.utoronto.ca/#top"
+        },
+        {
+          "url": ""
+        },
+        {
+          "url": "http://www.lib.uwaterloo.ca/ocul/ocul.html"
+        },
+        {
+          "url": "http://library.usask.ca/hywebcat/"
+        },
+        {
+          "url": "http://library.usask.ca/hytelnet/"
+        },
+        {
+          "url": "http://utcat.library.utoronto.ca:8002/telnet.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/#top"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/librarylist.html"
+        },
+        {
+          "url": "http://utcat.library.utoronto.ca:8002/"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/utlearn/utlearn.html"
+        },
+        {
+          "url": "http://19971210222202/mailto:utweb@library.utoronto.ca"
+        },
+        {
+          "url": "http://www.utoronto.ca/"
+        },
+        {
+          "url": "http://www.utoronto.ca/utsearch.html"
+        },
+        {
+          "url": "http://library.utoronto.ca/www/index.html"
+        },
+        {
+          "url": "http://19971210222202/mailto:utweb@library.utoronto.ca"
+        }
+      ]
+    },
+    "metrics": {
+      "puppeteer": {
+        "Timestamp": 945149.987265,
+        "Documents": 9,
+        "Frames": 3,
+        "JSEventListeners": 23,
+        "Nodes": 866,
+        "LayoutCount": 18,
+        "RecalcStyleCount": 10,
+        "LayoutDuration": 0.128179,
+        "RecalcStyleDuration": 0.009708,
+        "ScriptDuration": 0.059746,
+        "TaskDuration": 0.421098,
+        "JSHeapUsedSize": 4468084,
+        "JSHeapTotalSize": 6213632
+      }
+    }
+  },
+  "analysis": {
+    "lighthouse": {
+      "agent": {
+        "name": "Node.js/Lighthouse",
+        "description": "Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.",
+        "url": "https://github.com/GoogleChrome/lighthouse",
+        "version": "^6.4.1"
+      },
+      "data": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+        "environment": {
+          "networkUserAgent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.7 Mobile Safari/537.36 Chrome-Lighthouse",
+          "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+          "benchmarkIndex": 1140.5,
+          "credits": {
+            "axe-core": "3.5.5"
+          }
+        },
+        "lighthouseVersion": "6.4.1",
+        "fetchTime": "2021-03-04T02:22:19.465Z",
+        "requestedUrl": "http://web.archive.org/web/19961225001103/http://www.library.utoronto.ca:80/",
+        "finalUrl": "http://web.archive.org/web/19971210222202/http://library.utoronto.ca/",
+        "runWarnings": [
+          "The page may not be loading as expected because your test URL (http://web.archive.org/web/19961225001103/http://www.library.utoronto.ca:80/) was redirected to http://web.archive.org/web/19971210222202/http://library.utoronto.ca/. Try testing the second URL directly."
+        ],
+        "configSettings": {
+          "output": "json",
+          "maxWaitForFcp": 30000,
+          "maxWaitForLoad": 45000,
+          "throttlingMethod": "simulate",
+          "throttling": {
+            "rttMs": 150,
+            "throughputKbps": 1638.4,
+            "requestLatencyMs": 562.5,
+            "downloadThroughputKbps": 1474.5600000000002,
+            "uploadThroughputKbps": 675,
+            "cpuSlowdownMultiplier": 4
+          },
+          "auditMode": false,
+          "gatherMode": false,
+          "disableStorageReset": false,
+          "emulatedFormFactor": "mobile",
+          "internalDisableDeviceScreenEmulation": false,
+          "channel": "node",
+          "budgets": null,
+          "locale": "en-US",
+          "blockedUrlPatterns": null,
+          "additionalTraceCategories": null,
+          "extraHeaders": null,
+          "precomputedLanternData": null,
+          "onlyAudits": null,
+          "onlyCategories": [
+            "accessibility",
+            "best-practices",
+            "performance"
+          ],
+          "skipAudits": null
+        },
+        "categories": {
+          "performance": {
+            "title": "Performance",
+            "auditRefs": [
+              {
+                "id": "first-contentful-paint",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "speed-index",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "largest-contentful-paint",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "interactive",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "total-blocking-time",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "cumulative-layout-shift",
+                "weight": 5,
+                "group": "metrics"
+              },
+              {
+                "id": "first-cpu-idle",
+                "weight": 0
+              },
+              {
+                "id": "max-potential-fid",
+                "weight": 0
+              },
+              {
+                "id": "first-meaningful-paint",
+                "weight": 0
+              },
+              {
+                "id": "estimated-input-latency",
+                "weight": 0
+              },
+              {
+                "id": "render-blocking-resources",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-responsive-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "offscreen-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-css",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-css-rules",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-optimized-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-webp-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-text-compression",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preconnect",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "server-response-time",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "redirects",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preload",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-http2",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "efficient-animated-content",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "duplicated-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "legacy-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "total-byte-weight",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-long-cache-ttl",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "dom-size",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "critical-request-chains",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "user-timings",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "bootup-time",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "mainthread-work-breakdown",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "font-display",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "performance-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "timing-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "resource-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "third-party-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "largest-contentful-paint-element",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "layout-shift-elements",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-passive-event-listeners",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "no-document-write",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "long-tasks",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "non-composited-animations",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "unsized-images",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "network-requests",
+                "weight": 0
+              },
+              {
+                "id": "network-rtt",
+                "weight": 0
+              },
+              {
+                "id": "network-server-latency",
+                "weight": 0
+              },
+              {
+                "id": "main-thread-tasks",
+                "weight": 0
+              },
+              {
+                "id": "diagnostics",
+                "weight": 0
+              },
+              {
+                "id": "metrics",
+                "weight": 0
+              },
+              {
+                "id": "screenshot-thumbnails",
+                "weight": 0
+              },
+              {
+                "id": "final-screenshot",
+                "weight": 0
+              }
+            ],
+            "id": "performance",
+            "score": 0.92
+          },
+          "accessibility": {
+            "title": "Accessibility",
+            "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+            "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review).",
+            "auditRefs": [
+              {
+                "id": "accesskeys",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "aria-allowed-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-body",
+                "weight": 10,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-focus",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-input-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-children",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-parent",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-roles",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-toggle-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr-value",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "button-name",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "bypass",
+                "weight": 3,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "color-contrast",
+                "weight": 3,
+                "group": "a11y-color-contrast"
+              },
+              {
+                "id": "definition-list",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "dlitem",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "document-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "duplicate-id-active",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "duplicate-id-aria",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "form-field-multiple-labels",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "frame-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "heading-order",
+                "weight": 2,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "html-has-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "html-lang-valid",
+                "weight": 0,
+                "group": "a11y-language"
+              },
+              {
+                "id": "image-alt",
+                "weight": 10,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "input-image-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "label",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "layout-table",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "link-name",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "list",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "listitem",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "meta-refresh",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "meta-viewport",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "object-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "tabindex",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "td-headers-attr",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "th-has-data-cells",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "valid-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "video-caption",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "video-description",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "logical-tab-order",
+                "weight": 0
+              },
+              {
+                "id": "focusable-controls",
+                "weight": 0
+              },
+              {
+                "id": "interactive-element-affordance",
+                "weight": 0
+              },
+              {
+                "id": "managed-focus",
+                "weight": 0
+              },
+              {
+                "id": "focus-traps",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-labels",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-roles",
+                "weight": 0
+              },
+              {
+                "id": "visual-order-follows-dom",
+                "weight": 0
+              },
+              {
+                "id": "offscreen-content-hidden",
+                "weight": 0
+              },
+              {
+                "id": "use-landmarks",
+                "weight": 0
+              }
+            ],
+            "id": "accessibility",
+            "score": 0.84
+          },
+          "best-practices": {
+            "title": "Best Practices",
+            "auditRefs": [
+              {
+                "id": "is-on-https",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "external-anchors-use-rel-noopener",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "geolocation-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "notification-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "no-vulnerable-libraries",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "password-inputs-can-be-pasted-into",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-aspect-ratio",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-size-responsive",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "preload-fonts",
+                "weight": 0,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "doctype",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "charset",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "no-unload-listeners",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "appcache-manifest",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "js-libraries",
+                "weight": 0,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "deprecations",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "errors-in-console",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "valid-source-maps",
+                "weight": 0,
+                "group": "best-practices-general"
+              }
+            ],
+            "id": "best-practices",
+            "score": 0.71
+          }
+        }
+      }
+    },
+    "wappalyzer": {
+      "agent": {
+        "name": "Node.js/Wappalyzer",
+        "description": "Wappalyzer identifies technologies on websites, including content management systems, ecommerce platforms, JavaScript frameworks, analytics tools and much more.",
+        "url": "https://github.com/AliasIO/wappalyzer",
+        "version": "^6.3.12"
+      },
+      "data": {
+        "urls": {
+          "http://web.archive.org/web/19961225001103/http://www.library.utoronto.ca:80/": {
+            "status": 302
+          },
+          "http://web.archive.org/web/19971210222202/http://library.utoronto.ca/": {
+            "status": 200
+          }
+        },
+        "technologies": [
+          {
+            "slug": "nginx",
+            "name": "Nginx",
+            "confidence": 100,
+            "version": "1.19.5",
+            "icon": "Nginx.svg",
+            "website": "http://nginx.org/en",
+            "cpe": "cpe:/a:nginx:nginx",
+            "categories": [
+              {
+                "id": 22,
+                "slug": "web-servers",
+                "name": "Web servers"
+              },
+              {
+                "id": 64,
+                "slug": "reverse-proxies",
+                "name": "Reverse proxies"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "builtwith": {
+      "agent": {
+        "name": "Node.js/Axios",
+        "description": "Promise based HTTP client for the browser and node.js",
+        "url": "https://github.com/axios/axios",
+        "version": "^0.21.0"
+      },
+      "url": "https://api.builtwith.com/v18/api.json?KEY=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&LOOKUP=http://web.archive.org/web/19961225001103/http://www.library.utoronto.ca:80/",
+      "response": {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+          "cache-control": "private",
+          "content-type": "application/json; charset=utf-8",
+          "server": "Microsoft-IIS/10.0",
+          "access-control-allow-origin": "*",
+          "x-api-credits-available": "5000",
+          "x-api-credits-used": "805",
+          "x-api-credits-remaining": "4195",
+          "x-ua-compatible": "IE=Edge,chrome=1",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "date": "Thu, 04 Mar 2021 02:22:36 GMT",
+          "connection": "close",
+          "content-length": "3717"
+        },
+        "data": {
+          "Results": [
+            {
+              "Result": {
+                "IsDB": "False",
+                "Spend": 0,
+                "Paths": [
+                  {
+                    "Technologies": [
+                      {
+                        "IsPremium": "no",
+                        "Name": "Javascript",
+                        "Description": "JavaScript is a scripting language most often used for client-side web development.",
+                        "Link": "http://en.wikipedia.org/wiki/JavaScript",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "UTF-8",
+                        "Description": "UTF-8 (8-bit UCS/Unicode Transformation Format) is a variable-length character encoding for Unicode. It is the preferred encoding for web pages.",
+                        "Link": "http://en.wikipedia.org/wiki/UTF-8",
+                        "Tag": "encoding",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Cascading Style Sheets",
+                        "Description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in a markup language. Its most common application is to style web pages written in HTML ",
+                        "Link": "http://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_TITLE",
+                        "Description": "SEO Title",
+                        "Link": "",
+                        "Tag": "seo_title",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "srcset",
+                        "Description": "Adapting images for high-resolution and low-resolution displays.",
+                        "Link": "http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "HTML 5 Specific Tags",
+                        "Description": "This page contains tags that are specific to an HTML 5 implementation.",
+                        "Link": "http://dev.w3.org/html5/html-author/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "IFrame",
+                        "Description": "The page shows content with an iframe; an embedded frame that loads another webpage.",
+                        "Link": "http://www.w3schools.com/tags/tag_iframe.asp",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_H2",
+                        "Description": "SEO H2",
+                        "Link": "",
+                        "Tag": "seo_headers",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "PHP",
+                        "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                        "Link": "http://www.php.net",
+                        "Tag": "framework",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Content Security Policy",
+                        "Description": "Content Security Policy is a computer security concept, to prevent cross-site scripting XSS attacks.",
+                        "Link": "http://en.wikipedia.org/wiki/Content_Security_Policy",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "nginx",
+                        "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                        "Link": "http://nginx.net/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824557561,
+                        "LastDetected": 1614824557561
+                      }
+                    ],
+                    "FirstIndexed": 1614824557561,
+                    "LastIndexed": 1614824557561,
+                    "Domain": "web.archive.org/web/19961225001103/library.utoronto.ca:80/",
+                    "Url": "web/19961225001103/library.utoronto.ca:80/",
+                    "SubDomain": "web.archive.org"
+                  }
+                ]
+              },
+              "Meta": {
+                "Majestic": 0,
+                "Umbrella": 0,
+                "Vertical": "",
+                "Social": null,
+                "CompanyName": null,
+                "Telephones": null,
+                "Emails": [],
+                "City": null,
+                "State": null,
+                "Postcode": null,
+                "Country": null,
+                "Names": null,
+                "ARank": 0,
+                "QRank": 0
+              },
+              "Attributes": {
+                "MJRank": 0,
+                "MJTLDRank": 0,
+                "RefSN": 0,
+                "RefIP": 0,
+                "TTFB": 0,
+                "Sitemap": 0,
+                "GTMTags": 0,
+                "QubitTags": 0,
+                "TealiumTags": 0,
+                "AdobeTags": 0,
+                "CDimensions": 0,
+                "CGoals": 0,
+                "CMetrics": 0,
+                "SourceBytes": 0
+              },
+              "FirstIndexed": 1614824557561,
+              "LastIndexed": 1614824557561,
+              "Lookup": "web.archive.org/web/19961225001103/library.utoronto.ca:80/",
+              "SalesRevenue": 0
+            }
+          ],
+          "Errors": []
+        }
+      }
+    },
+    "analyzecss": {
+      "agent": {
+        "name": "Node.js/analyze-css",
+        "description": "CSS selectors complexity and performance analyzer.",
+        "url": "https://github.com/macbre/analyze-css",
+        "version": "^0.12.12",
+        "note": "These statistics are for an aggregate of all stylesheets in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "base64Length": 0,
+        "redundantBodySelectors": 0,
+        "redundantChildNodesSelectors": 0,
+        "colors": 0,
+        "comments": 0,
+        "commentsLength": 0,
+        "complexSelectors": 0,
+        "duplicatedSelectors": 0,
+        "duplicatedProperties": 0,
+        "emptyRules": 0,
+        "expressions": 0,
+        "oldIEFixes": 0,
+        "imports": 0,
+        "importants": 0,
+        "mediaQueries": 0,
+        "notMinified": 0,
+        "multiClassesSelectors": 0,
+        "parsingErrors": 0,
+        "oldPropertyPrefixes": 0,
+        "propertyResets": 0,
+        "qualifiedSelectors": 0,
+        "specificityIdAvg": 0,
+        "specificityIdTotal": 0,
+        "specificityClassAvg": 0,
+        "specificityClassTotal": 0,
+        "specificityTagAvg": 0,
+        "specificityTagTotal": 0,
+        "selectors": 0,
+        "selectorLengthAvg": 0,
+        "selectorsByAttribute": 0,
+        "selectorsByClass": 0,
+        "selectorsById": 0,
+        "selectorsByPseudo": 0,
+        "selectorsByTag": 0
+      }
+    },
+    "escomplex": {
+      "agent": {
+        "name": "Node.js/escomplex",
+        "description": "Software complexity analysis of JavaScript abstract syntax trees.",
+        "url": "https://github.com/escomplex/escomplex",
+        "version": "^2.0.0-alpha",
+        "note": "These statistics are for an aggregate of all scripts in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "maintainability": 171,
+        "effort": 0,
+        "sloc": {
+          "logical": 0,
+          "physical": 1
+        },
+        "cyclomatic": 1,
+        "halstead": {
+          "operators": {
+            "distinct": 0,
+            "total": 0
+          },
+          "operands": {
+            "distinct": 0,
+            "total": 0
+          },
+          "length": 0,
+          "vocabulary": 0,
+          "difficulty": 0,
+          "volume": 0,
+          "effort": 0,
+          "bugs": 0,
+          "time": 0
+        },
+        "params": 0,
+        "line": 0,
+        "cyclomaticDensity": null
+      }
+    }
+  }
+}

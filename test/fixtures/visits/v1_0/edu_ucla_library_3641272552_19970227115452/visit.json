@@ -1,0 +1,1175 @@
+{
+  "id": "edu_ucla_library_3641272552_19970227115452",
+  "url": "http://www.library.ucla.edu/",
+  "date_accessed": "2021-03-04T02:21:53Z",
+  "wayback": {
+    "date_available": "1997-02-27T11:54:52Z",
+    "url_raw": "http://web.archive.org/web/19970227115452id_/http://www.library.ucla.edu:80/",
+    "url_rendered": "http://web.archive.org/web/19970227115452/http://www.library.ucla.edu:80/"
+  },
+  "agent": {
+    "name": "Apato (Visitor)",
+    "url": "https://github.com/allanberry/apato",
+    "version": "1.0.0b",
+    "creator": "Allan Berry <allan.berry@gmail.com>"
+  },
+  "client": {
+    "ip": "98.206.145.7",
+    "geo": {
+      "range": [
+        1657704448,
+        1657706495
+      ],
+      "country": "US",
+      "region": "IL",
+      "eu": "0",
+      "timezone": "America/Chicago",
+      "city": "Chicago",
+      "ll": [
+        41.804,
+        -87.707
+      ],
+      "metro": 602,
+      "area": 5
+    }
+  },
+  "raw": {
+    "agent": {
+      "name": "Node.js/Axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "url": "https://github.com/axios/axios",
+      "version": "^0.21.0"
+    },
+    "title": "UCLA Library",
+    "response": {
+      "description": "Selected data from the response.",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "server": "nginx/1.19.5",
+        "date": "Thu, 04 Mar 2021 02:21:55 GMT",
+        "content-type": "text/html",
+        "transfer-encoding": "chunked",
+        "connection": "close",
+        "x-archive-orig-date": "Mon, 30 Jun 1997 22:12:01 GMT",
+        "x-archive-orig-server": "Apache/1.2b7",
+        "x-archive-orig-last-modified": "Fri, 27 Jun 1997 20:29:00 GMT",
+        "x-archive-orig-etag": "\"3f8f-9c3-33b4228c\"",
+        "x-archive-orig-content-length": "2499",
+        "x-archive-orig-accept-ranges": "bytes",
+        "cache-control": "max-age=1800",
+        "memento-datetime": "Thu, 27 Feb 1997 11:54:52 GMT",
+        "link": "<http://www.library.ucla.edu:80/>; rel=\"original\", <http://web.archive.org/web/timemap/link/http://www.library.ucla.edu:80/>; rel=\"timemap\"; type=\"application/link-format\", <http://web.archive.org/web/http://www.library.ucla.edu:80/>; rel=\"timegate\", <http://web.archive.org/web/19970227115452/http://www.library.ucla.edu:80/>; rel=\"first memento\"; datetime=\"Thu, 27 Feb 1997 11:54:52 GMT\", <http://web.archive.org/web/19970227115452/http://www.library.ucla.edu:80/>; rel=\"memento\"; datetime=\"Thu, 27 Feb 1997 11:54:52 GMT\", <http://web.archive.org/web/19970227124940/http://www.library.ucla.edu:80/>; rel=\"next memento\"; datetime=\"Thu, 27 Feb 1997 12:49:40 GMT\", <http://web.archive.org/web/20210228005700/https://www.library.ucla.edu/>; rel=\"last memento\"; datetime=\"Sun, 28 Feb 2021 00:57:00 GMT\"",
+        "content-security-policy": "default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org",
+        "x-archive-src": "FS-089770-c/FS-089870.arc.gz",
+        "server-timing": "captures_list;dur=763.103719, exclusion.robots;dur=0.073853, exclusion.robots.policy;dur=0.068247, RedisCDXSource;dur=8.564144, esindex;dur=0.008024, LoadShardBlock;dur=721.441402, PetaboxLoader3.resolve;dur=260.823748, PetaboxLoader3.datanode;dur=641.096544, CDXLines.iter;dur=18.084100, load_resource;dur=244.696859",
+        "x-app-server": "wwwb-app201",
+        "x-ts": "200",
+        "x-tr": "1020",
+        "x-location": "All",
+        "x-cache-key": "httpweb.archive.org/web/19970227115452id_/http://www.library.ucla.edu:80/US",
+        "x-rl": "0",
+        "x-na": "0",
+        "x-page-cache": "MISS",
+        "x-nid": "-"
+      }
+    },
+    "structure": {
+      "aggregate": {
+        "elementQty": 69,
+        "length": 2499
+      }
+    }
+  },
+  "rendered": {
+    "agent": {
+      "name": "Node.js/Puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "version": "^5.4.1",
+      "browser": "HeadlessChrome/87.0.4272.0"
+    },
+    "title": "UCLA Library",
+    "screenshots": [
+      "v1_0/edu_ucla_library_3641272552_19970227115452/w320.png",
+      "v1_0/edu_ucla_library_3641272552_19970227115452/w640.png",
+      "v1_0/edu_ucla_library_3641272552_19970227115452/w1280.png"
+    ],
+    "structure": {
+      "data": "<html><head>\n\n\n\n\n\n\n\n<title>UCLA Library</title>\n</head>\n<body background=\"http://www.library.ucla.edu/toplevel/bstrip.gif\" text=\"#000000\" link=\"#003366\" alink=\"#ffff00\" vlink=\"#3399cc\">\n\n\n\n\n<!--webmaster: webmaster-->\n<!--email: gtheil@library.ucla.edu-->\n<!--author: gordon theil-->\n<!--initial date of creation (this version): 6/27/97-->\n<!--initial date of creation (first version): 4/x/95-->\n<!--last update: 6/27/97-->\n<!--expiration date: indefinite-->\n<img src=\"http://www.library.ucla.edu/toplevel/ylogo1.gif\" width=\"240\" height=\"139\" align=\"BOTTOM\" naturalsizeflag=\"3\" alt=\"UCLA Library\">\n<table border=\"0\" cellspacing=\"2\" cellpadding=\"2\" width=\"600\" height=\"336\">\n<tbody><tr>\n<td width=\"75\" valign=\"TOP\">\n<a href=\"./toplevel/textonly.htm\"><img src=\"http://www.library.ucla.edu/toplevel/btxtonly.gif\" alt=\"Text Version\" border=\"0\"></a></td>\n<td width=\"525\">\n<h3><a href=\"http://www.library.ucla.edu/welcome/index.htm\">Welcome to the UCLA Library</a></h3>\n<ul>\n<li><a href=\"hours\"><b><font size=\"-1\">Hours</font></b></a> | <b><font size=\"-1\"><a href=\"map/\">Library Map</a> | <a href=\"./toplevel/nwsevnts.htm\">News &amp; Events</a></font></b>\n</li><li><a href=\"libraries/index.htm\"><b><font size=\"-1\">Individual Libraries &amp; Archives</font></b></a>  </li><li><a href=\"admin/index.htm\"><b><font size=\"-1\">Administration, Support Services, &amp; Information Systems</font></b></a>\n</li><li><a href=\"http://www.library.ucla.edu/committees/laucla/\"><b><font size=\"-1\">Librarians Association of the University of California--Los Angeles</font></b></a>\n</li></ul>\n\n<h3>Library Collections &amp; Resources</h3>\n<ul>\n<li><b><font size=\"-1\"><a href=\"catalog/orion.htm\">ORION</a> &amp; <a href=\"catalog/orion2/\">ORION2,</a></font></b><font size=\"-1\"> UCLA's Current &amp; Forthcoming Library Information System</font>\n</li><li><a href=\"http://www.dla.ucop.edu/\"><b><font size=\"-1\">MELVYL® System,</font></b></a><font size=\"-1\"> University of California's Library System<br>\nThe <a href=\"http://www.melvyl.ucop.edu/\"><b>World-Wide Web</b></a> interface for the MELVYL System is now available for public use.</font>\n</li><li><a href=\"cird/index.htm\"><b><font size=\"-1\">Collections &amp; Internet Resources by Discipline</font></b></a></li></ul>\n\n<h3><a href=\"http://www.library.ucla.edu/instruc/index.htm\">Library Instruction</a></h3>\n<h3><a href=\"http://www.library.ucla.edu/services/index.htm\">Library Services</a></h3>\n\n<p></p><hr align=\"LEFT\"><p></p>\n<p><a href=\"http://www.ucla.edu/\"><b>UCLA Home Page</b></a></p>\n<p><font size=\"-1\">Comments about this website to: <b><a href=\"mailto:webadmin@library.ucla.edu\">webadmin@library.ucla.edu</a></b><br>\nLast updated: 6/27/97</font></p></td></tr></tbody></table>\n\n\n\n</body></html>",
+      "aggregate": {
+        "length": 2728
+      }
+    },
+    "styles": {
+      "list": [
+        {
+          "type": "inline",
+          "length": 0
+        }
+      ],
+      "aggregate": {
+        "length": 0
+      }
+    },
+    "scripts": {
+      "list": [],
+      "aggregate": {
+        "length": 0
+      }
+    },
+    "anchors": {
+      "list": [
+        {
+          "url": "http://www.library.ucla.edu:80/toplevel/textonly.htm"
+        },
+        {
+          "url": "http://www.library.ucla.edu/welcome/index.htm"
+        },
+        {
+          "url": "http://www.library.ucla.edu:80/hours"
+        },
+        {
+          "url": "http://www.library.ucla.edu:80/map/"
+        },
+        {
+          "url": "http://www.library.ucla.edu:80/toplevel/nwsevnts.htm"
+        },
+        {
+          "url": "http://www.library.ucla.edu:80/libraries/index.htm"
+        },
+        {
+          "url": "http://www.library.ucla.edu:80/admin/index.htm"
+        },
+        {
+          "url": "http://www.library.ucla.edu/committees/laucla/"
+        },
+        {
+          "url": "http://www.library.ucla.edu:80/catalog/orion.htm"
+        },
+        {
+          "url": "http://www.library.ucla.edu:80/catalog/orion2/"
+        },
+        {
+          "url": "http://www.dla.ucop.edu/"
+        },
+        {
+          "url": "http://www.melvyl.ucop.edu/"
+        },
+        {
+          "url": "http://www.library.ucla.edu:80/cird/index.htm"
+        },
+        {
+          "url": "http://www.library.ucla.edu/instruc/index.htm"
+        },
+        {
+          "url": "http://www.library.ucla.edu/services/index.htm"
+        },
+        {
+          "url": "http://www.ucla.edu/"
+        },
+        {
+          "url": "http://19970227115452/mailto:webadmin@library.ucla.edu"
+        }
+      ]
+    },
+    "metrics": {
+      "puppeteer": {
+        "Timestamp": 945130.340867,
+        "Documents": 9,
+        "Frames": 3,
+        "JSEventListeners": 23,
+        "Nodes": 477,
+        "LayoutCount": 18,
+        "RecalcStyleCount": 10,
+        "LayoutDuration": 0.098264,
+        "RecalcStyleDuration": 0.011132,
+        "ScriptDuration": 0.072353,
+        "TaskDuration": 0.397816,
+        "JSHeapUsedSize": 4477164,
+        "JSHeapTotalSize": 6213632
+      }
+    }
+  },
+  "analysis": {
+    "lighthouse": {
+      "agent": {
+        "name": "Node.js/Lighthouse",
+        "description": "Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.",
+        "url": "https://github.com/GoogleChrome/lighthouse",
+        "version": "^6.4.1"
+      },
+      "data": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+        "environment": {
+          "networkUserAgent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.7 Mobile Safari/537.36 Chrome-Lighthouse",
+          "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+          "benchmarkIndex": 1145.5,
+          "credits": {
+            "axe-core": "3.5.5"
+          }
+        },
+        "lighthouseVersion": "6.4.1",
+        "fetchTime": "2021-03-04T02:21:59.519Z",
+        "requestedUrl": "http://web.archive.org/web/19970227115452/http://www.library.ucla.edu:80/",
+        "finalUrl": "http://web.archive.org/web/19970227115452/http://www.library.ucla.edu:80/",
+        "runWarnings": [],
+        "configSettings": {
+          "output": "json",
+          "maxWaitForFcp": 30000,
+          "maxWaitForLoad": 45000,
+          "throttlingMethod": "simulate",
+          "throttling": {
+            "rttMs": 150,
+            "throughputKbps": 1638.4,
+            "requestLatencyMs": 562.5,
+            "downloadThroughputKbps": 1474.5600000000002,
+            "uploadThroughputKbps": 675,
+            "cpuSlowdownMultiplier": 4
+          },
+          "auditMode": false,
+          "gatherMode": false,
+          "disableStorageReset": false,
+          "emulatedFormFactor": "mobile",
+          "internalDisableDeviceScreenEmulation": false,
+          "channel": "node",
+          "budgets": null,
+          "locale": "en-US",
+          "blockedUrlPatterns": null,
+          "additionalTraceCategories": null,
+          "extraHeaders": null,
+          "precomputedLanternData": null,
+          "onlyAudits": null,
+          "onlyCategories": [
+            "accessibility",
+            "best-practices",
+            "performance"
+          ],
+          "skipAudits": null
+        },
+        "categories": {
+          "performance": {
+            "title": "Performance",
+            "auditRefs": [
+              {
+                "id": "first-contentful-paint",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "speed-index",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "largest-contentful-paint",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "interactive",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "total-blocking-time",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "cumulative-layout-shift",
+                "weight": 5,
+                "group": "metrics"
+              },
+              {
+                "id": "first-cpu-idle",
+                "weight": 0
+              },
+              {
+                "id": "max-potential-fid",
+                "weight": 0
+              },
+              {
+                "id": "first-meaningful-paint",
+                "weight": 0
+              },
+              {
+                "id": "estimated-input-latency",
+                "weight": 0
+              },
+              {
+                "id": "render-blocking-resources",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-responsive-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "offscreen-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-css",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-css-rules",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-optimized-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-webp-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-text-compression",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preconnect",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "server-response-time",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "redirects",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preload",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-http2",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "efficient-animated-content",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "duplicated-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "legacy-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "total-byte-weight",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-long-cache-ttl",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "dom-size",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "critical-request-chains",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "user-timings",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "bootup-time",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "mainthread-work-breakdown",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "font-display",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "performance-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "timing-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "resource-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "third-party-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "largest-contentful-paint-element",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "layout-shift-elements",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-passive-event-listeners",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "no-document-write",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "long-tasks",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "non-composited-animations",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "unsized-images",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "network-requests",
+                "weight": 0
+              },
+              {
+                "id": "network-rtt",
+                "weight": 0
+              },
+              {
+                "id": "network-server-latency",
+                "weight": 0
+              },
+              {
+                "id": "main-thread-tasks",
+                "weight": 0
+              },
+              {
+                "id": "diagnostics",
+                "weight": 0
+              },
+              {
+                "id": "metrics",
+                "weight": 0
+              },
+              {
+                "id": "screenshot-thumbnails",
+                "weight": 0
+              },
+              {
+                "id": "final-screenshot",
+                "weight": 0
+              }
+            ],
+            "id": "performance",
+            "score": 0.94
+          },
+          "accessibility": {
+            "title": "Accessibility",
+            "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+            "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review).",
+            "auditRefs": [
+              {
+                "id": "accesskeys",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "aria-allowed-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-body",
+                "weight": 10,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-focus",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-input-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-children",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-parent",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-roles",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-toggle-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr-value",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "button-name",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "bypass",
+                "weight": 3,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "color-contrast",
+                "weight": 3,
+                "group": "a11y-color-contrast"
+              },
+              {
+                "id": "definition-list",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "dlitem",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "document-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "duplicate-id-active",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "duplicate-id-aria",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "form-field-multiple-labels",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "frame-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "heading-order",
+                "weight": 2,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "html-has-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "html-lang-valid",
+                "weight": 0,
+                "group": "a11y-language"
+              },
+              {
+                "id": "image-alt",
+                "weight": 10,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "input-image-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "label",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "layout-table",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "link-name",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "list",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "listitem",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "meta-refresh",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "meta-viewport",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "object-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "tabindex",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "td-headers-attr",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "th-has-data-cells",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "valid-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "video-caption",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "video-description",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "logical-tab-order",
+                "weight": 0
+              },
+              {
+                "id": "focusable-controls",
+                "weight": 0
+              },
+              {
+                "id": "interactive-element-affordance",
+                "weight": 0
+              },
+              {
+                "id": "managed-focus",
+                "weight": 0
+              },
+              {
+                "id": "focus-traps",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-labels",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-roles",
+                "weight": 0
+              },
+              {
+                "id": "visual-order-follows-dom",
+                "weight": 0
+              },
+              {
+                "id": "offscreen-content-hidden",
+                "weight": 0
+              },
+              {
+                "id": "use-landmarks",
+                "weight": 0
+              }
+            ],
+            "id": "accessibility",
+            "score": 0.89
+          },
+          "best-practices": {
+            "title": "Best Practices",
+            "auditRefs": [
+              {
+                "id": "is-on-https",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "external-anchors-use-rel-noopener",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "geolocation-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "notification-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "no-vulnerable-libraries",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "password-inputs-can-be-pasted-into",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-aspect-ratio",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-size-responsive",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "preload-fonts",
+                "weight": 0,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "doctype",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "charset",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "no-unload-listeners",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "appcache-manifest",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "js-libraries",
+                "weight": 0,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "deprecations",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "errors-in-console",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "valid-source-maps",
+                "weight": 0,
+                "group": "best-practices-general"
+              }
+            ],
+            "id": "best-practices",
+            "score": 0.71
+          }
+        }
+      }
+    },
+    "wappalyzer": {
+      "agent": {
+        "name": "Node.js/Wappalyzer",
+        "description": "Wappalyzer identifies technologies on websites, including content management systems, ecommerce platforms, JavaScript frameworks, analytics tools and much more.",
+        "url": "https://github.com/AliasIO/wappalyzer",
+        "version": "^6.3.12"
+      },
+      "data": {
+        "urls": {
+          "http://web.archive.org/web/19970227115452/http://www.library.ucla.edu:80/": {
+            "status": 200
+          }
+        },
+        "technologies": [
+          {
+            "slug": "nginx",
+            "name": "Nginx",
+            "confidence": 100,
+            "version": "1.19.5",
+            "icon": "Nginx.svg",
+            "website": "http://nginx.org/en",
+            "cpe": "cpe:/a:nginx:nginx",
+            "categories": [
+              {
+                "id": 22,
+                "slug": "web-servers",
+                "name": "Web servers"
+              },
+              {
+                "id": 64,
+                "slug": "reverse-proxies",
+                "name": "Reverse proxies"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "builtwith": {
+      "agent": {
+        "name": "Node.js/Axios",
+        "description": "Promise based HTTP client for the browser and node.js",
+        "url": "https://github.com/axios/axios",
+        "version": "^0.21.0"
+      },
+      "url": "https://api.builtwith.com/v18/api.json?KEY=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&LOOKUP=http://web.archive.org/web/19970227115452/http://www.library.ucla.edu:80/",
+      "response": {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+          "cache-control": "private",
+          "content-type": "application/json; charset=utf-8",
+          "server": "Microsoft-IIS/10.0",
+          "access-control-allow-origin": "*",
+          "x-api-credits-available": "5000",
+          "x-api-credits-used": "804",
+          "x-api-credits-remaining": "4196",
+          "x-ua-compatible": "IE=Edge,chrome=1",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "date": "Thu, 04 Mar 2021 02:22:15 GMT",
+          "connection": "close",
+          "content-length": "3802"
+        },
+        "data": {
+          "Results": [
+            {
+              "Result": {
+                "IsDB": "False",
+                "Spend": 0,
+                "Paths": [
+                  {
+                    "Technologies": [
+                      {
+                        "IsPremium": "no",
+                        "Name": "Javascript",
+                        "Description": "JavaScript is a scripting language most often used for client-side web development.",
+                        "Link": "http://en.wikipedia.org/wiki/JavaScript",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "UTF-8",
+                        "Description": "UTF-8 (8-bit UCS/Unicode Transformation Format) is a variable-length character encoding for Unicode. It is the preferred encoding for web pages.",
+                        "Link": "http://en.wikipedia.org/wiki/UTF-8",
+                        "Tag": "encoding",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Cascading Style Sheets",
+                        "Description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in a markup language. Its most common application is to style web pages written in HTML ",
+                        "Link": "http://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_TITLE",
+                        "Description": "SEO Title",
+                        "Link": "",
+                        "Tag": "seo_title",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "srcset",
+                        "Description": "Adapting images for high-resolution and low-resolution displays.",
+                        "Link": "http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "HTML 5 Specific Tags",
+                        "Description": "This page contains tags that are specific to an HTML 5 implementation.",
+                        "Link": "http://dev.w3.org/html5/html-author/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "IFrame",
+                        "Description": "The page shows content with an iframe; an embedded frame that loads another webpage.",
+                        "Link": "http://www.w3schools.com/tags/tag_iframe.asp",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "PHP",
+                        "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                        "Link": "http://www.php.net",
+                        "Tag": "framework",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Content Security Policy",
+                        "Description": "Content Security Policy is a computer security concept, to prevent cross-site scripting XSS attacks.",
+                        "Link": "http://en.wikipedia.org/wiki/Content_Security_Policy",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Apache",
+                        "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                        "Link": "http://httpd.apache.org/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "nginx",
+                        "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                        "Link": "http://nginx.net/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824535278,
+                        "LastDetected": 1614824535278
+                      }
+                    ],
+                    "FirstIndexed": 1614824535278,
+                    "LastIndexed": 1614824535278,
+                    "Domain": "web.archive.org/web/19970227115452/library.ucla.edu:80/",
+                    "Url": "web/19970227115452/library.ucla.edu:80/",
+                    "SubDomain": "web.archive.org"
+                  }
+                ]
+              },
+              "Meta": {
+                "Majestic": 0,
+                "Umbrella": 0,
+                "Vertical": "",
+                "Social": null,
+                "CompanyName": null,
+                "Telephones": null,
+                "Emails": [],
+                "City": null,
+                "State": null,
+                "Postcode": null,
+                "Country": null,
+                "Names": null,
+                "ARank": 0,
+                "QRank": 0
+              },
+              "Attributes": {
+                "MJRank": 0,
+                "MJTLDRank": 0,
+                "RefSN": 0,
+                "RefIP": 0,
+                "TTFB": 0,
+                "Sitemap": 0,
+                "GTMTags": 0,
+                "QubitTags": 0,
+                "TealiumTags": 0,
+                "AdobeTags": 0,
+                "CDimensions": 0,
+                "CGoals": 0,
+                "CMetrics": 0,
+                "SourceBytes": 0
+              },
+              "FirstIndexed": 1614824535278,
+              "LastIndexed": 1614824535278,
+              "Lookup": "web.archive.org/web/19970227115452/library.ucla.edu:80/",
+              "SalesRevenue": 0
+            }
+          ],
+          "Errors": []
+        }
+      }
+    },
+    "analyzecss": {
+      "agent": {
+        "name": "Node.js/analyze-css",
+        "description": "CSS selectors complexity and performance analyzer.",
+        "url": "https://github.com/macbre/analyze-css",
+        "version": "^0.12.12",
+        "note": "These statistics are for an aggregate of all stylesheets in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "base64Length": 0,
+        "redundantBodySelectors": 0,
+        "redundantChildNodesSelectors": 0,
+        "colors": 0,
+        "comments": 0,
+        "commentsLength": 0,
+        "complexSelectors": 0,
+        "duplicatedSelectors": 0,
+        "duplicatedProperties": 0,
+        "emptyRules": 0,
+        "expressions": 0,
+        "oldIEFixes": 0,
+        "imports": 0,
+        "importants": 0,
+        "mediaQueries": 0,
+        "notMinified": 0,
+        "multiClassesSelectors": 0,
+        "parsingErrors": 0,
+        "oldPropertyPrefixes": 0,
+        "propertyResets": 0,
+        "qualifiedSelectors": 0,
+        "specificityIdAvg": 0,
+        "specificityIdTotal": 0,
+        "specificityClassAvg": 0,
+        "specificityClassTotal": 0,
+        "specificityTagAvg": 0,
+        "specificityTagTotal": 0,
+        "selectors": 0,
+        "selectorLengthAvg": 0,
+        "selectorsByAttribute": 0,
+        "selectorsByClass": 0,
+        "selectorsById": 0,
+        "selectorsByPseudo": 0,
+        "selectorsByTag": 0
+      }
+    },
+    "escomplex": {
+      "agent": {
+        "name": "Node.js/escomplex",
+        "description": "Software complexity analysis of JavaScript abstract syntax trees.",
+        "url": "https://github.com/escomplex/escomplex",
+        "version": "^2.0.0-alpha",
+        "note": "These statistics are for an aggregate of all scripts in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "maintainability": 171,
+        "effort": 0,
+        "sloc": {
+          "logical": 0,
+          "physical": 1
+        },
+        "cyclomatic": 1,
+        "halstead": {
+          "operators": {
+            "distinct": 0,
+            "total": 0
+          },
+          "operands": {
+            "distinct": 0,
+            "total": 0
+          },
+          "length": 0,
+          "vocabulary": 0,
+          "difficulty": 0,
+          "volume": 0,
+          "effort": 0,
+          "bugs": 0,
+          "time": 0
+        },
+        "params": 0,
+        "line": 0,
+        "cyclomaticDensity": null
+      }
+    }
+  }
+}

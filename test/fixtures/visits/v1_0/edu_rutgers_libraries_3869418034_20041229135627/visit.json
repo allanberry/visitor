@@ -1,0 +1,1632 @@
+{
+  "id": "edu_rutgers_libraries_3869418034_20041229135627",
+  "url": "https://www.libraries.rutgers.edu/",
+  "date_accessed": "2021-03-04T02:07:31Z",
+  "wayback": {
+    "date_available": "2004-12-29T13:56:27Z",
+    "url_raw": "http://web.archive.org/web/20041229135627id_/http://www.libraries.rutgers.edu:80/",
+    "url_rendered": "http://web.archive.org/web/20041229135627/http://www.libraries.rutgers.edu:80/"
+  },
+  "agent": {
+    "name": "Apato (Visitor)",
+    "url": "https://github.com/allanberry/apato",
+    "version": "1.0.0b",
+    "creator": "Allan Berry <allan.berry@gmail.com>"
+  },
+  "client": {
+    "ip": "98.206.145.7",
+    "geo": {
+      "range": [
+        1657704448,
+        1657706495
+      ],
+      "country": "US",
+      "region": "IL",
+      "eu": "0",
+      "timezone": "America/Chicago",
+      "city": "Chicago",
+      "ll": [
+        41.804,
+        -87.707
+      ],
+      "metro": 602,
+      "area": 5
+    }
+  },
+  "raw": {
+    "agent": {
+      "name": "Node.js/Axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "url": "https://github.com/axios/axios",
+      "version": "^0.21.0"
+    },
+    "title": "\nRutgers University Libraries\n",
+    "response": {
+      "description": "Selected data from the response.",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "server": "nginx/1.19.5",
+        "date": "Thu, 04 Mar 2021 02:07:37 GMT",
+        "content-type": "text/html",
+        "transfer-encoding": "chunked",
+        "connection": "close",
+        "x-archive-orig-date": "Wed, 29 Dec 2004 13:57:46 GMT",
+        "x-archive-orig-server": "Apache/1.3.0 (Unix)",
+        "x-archive-orig-connection": "close",
+        "cache-control": "max-age=1800",
+        "memento-datetime": "Wed, 29 Dec 2004 13:56:27 GMT",
+        "link": "<http://www.libraries.rutgers.edu:80/>; rel=\"original\", <http://web.archive.org/web/timemap/link/http://www.libraries.rutgers.edu:80/>; rel=\"timemap\"; type=\"application/link-format\", <http://web.archive.org/web/http://www.libraries.rutgers.edu:80/>; rel=\"timegate\", <http://web.archive.org/web/19970603121920/http://www.libraries.rutgers.edu:80/>; rel=\"first memento\"; datetime=\"Tue, 03 Jun 1997 12:19:20 GMT\", <http://web.archive.org/web/20041229091353/http://www.libraries.rutgers.edu:80/>; rel=\"prev memento\"; datetime=\"Wed, 29 Dec 2004 09:13:53 GMT\", <http://web.archive.org/web/20041229135627/http://www.libraries.rutgers.edu:80/>; rel=\"memento\"; datetime=\"Wed, 29 Dec 2004 13:56:27 GMT\", <http://web.archive.org/web/20050105035017/http://www.libraries.rutgers.edu:80/>; rel=\"next memento\"; datetime=\"Wed, 05 Jan 2005 03:50:17 GMT\", <http://web.archive.org/web/20210228004825/https://www.libraries.rutgers.edu/>; rel=\"last memento\"; datetime=\"Sun, 28 Feb 2021 00:48:25 GMT\"",
+        "content-security-policy": "default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org",
+        "x-archive-src": "EA_dad_crawl31.20041229004644-c/EA_dad_crawl31.20041229135310.arc.gz",
+        "server-timing": "captures_list;dur=5368.631115, exclusion.robots;dur=0.097281, exclusion.robots.policy;dur=0.089617, RedisCDXSource;dur=1.996914, esindex;dur=0.009952, LoadShardBlock;dur=5211.642259, PetaboxLoader3.datanode;dur=5081.958947, CDXLines.iter;dur=24.528742, PetaboxLoader3.resolve;dur=61.632850, load_resource;dur=57.536348",
+        "x-app-server": "wwwb-app200",
+        "x-ts": "200",
+        "x-tr": "5444",
+        "x-location": "All",
+        "x-cache-key": "httpweb.archive.org/web/20041229135627id_/http://www.libraries.rutgers.edu:80/US",
+        "x-rl": "0",
+        "x-na": "0",
+        "x-page-cache": "MISS",
+        "x-nid": "-"
+      }
+    },
+    "structure": {
+      "aggregate": {
+        "elementQty": 697,
+        "length": 47873
+      }
+    }
+  },
+  "rendered": {
+    "agent": {
+      "name": "Node.js/Puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "version": "^5.4.1",
+      "browser": "HeadlessChrome/87.0.4272.0"
+    },
+    "title": "Rutgers University Libraries",
+    "screenshots": [
+      "v1_0/edu_rutgers_libraries_3869418034_20041229135627/w320.png",
+      "v1_0/edu_rutgers_libraries_3869418034_20041229135627/w640.png",
+      "v1_0/edu_rutgers_libraries_3869418034_20041229135627/w1280.png"
+    ],
+    "structure": {
+      "data": "<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"><head>\n\n\n\n\n\n\n\n<title>\nRutgers University Libraries\n</title>\n<link rel=\"stylesheet\" href=\"http://www.libraries.rutgers.edu/rul/includes/04rul-style.css\" type=\"text/css\">\n<style type=\"text/css\">\n@import url(http://www.libraries.rutgers.edu/rul/includes/04rul-style2.css); \n</style>\n<link rel=\"SHORTCUT ICON\" href=\"http://www.libraries.rutgers.edu/rul/favicon.ico\">\t\n<script src=\"http://www.libraries.rutgers.edu/rul/includes/04frontpage.js\" type=\"text/javascript\"></script>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\">\n<meta name=\"description\" content=\"Rutgers University Libraries Main Page: Comprised of twenty-six libraries, centers, and reading rooms located on \nRutgers' campuses in New Brunswick/Piscataway, Camden, and Newark, and RU-Online, \na digital library, the Libraries provide the resources and services necessary to support \nthe university's mission of teaching, research, and service.\">\n<meta name=\"keywords\" content=\"Library, Libraries, books, journals, research, reference, databases\">\n</head>\n<body onload=\"init('lnk1','lyr1')\" text=\"#000000\" bgcolor=\"#FFFFFF\" alink=\"#000000\" topmargin=\"0\" leftmargin=\"0\" marginwidth=\"0\" marginheight=\"0\">\n\n\n\n\n<a name=\"top_of_doc\"></a>\n<!-- red nav table: start -->\n<table border=\"0\" bgcolor=\"#B50000\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\">\n<tbody><tr><!-- row 1 -->\n  <td valign=\"top\" background=\"http://www.libraries.rutgers.edu/rul/images/pinstripe.gif\"><img src=\"http://www.libraries.rutgers.edu/rul/images/rul_top.gif\" alt=\"\" width=\"480\" height=\"76\" align=\"left\" valign=\"middle\" border=\"0\"></td>\n  <td background=\"http://www.libraries.rutgers.edu/rul/images/pinstripe.gif\"><img src=\"http://www.libraries.rutgers.edu/rul/images/clearpix.gif\" alt=\"\" width=\"1\" height=\"10\" align=\"left\" border=\"0\"></td>\n  <td background=\"http://www.libraries.rutgers.edu/rul/images/pinstripe.gif\"><img src=\"http://www.libraries.rutgers.edu/rul/images/clearpix.gif\" alt=\"\" width=\"200\" height=\"70\" align=\"right\" valign=\"middle\" hspace=\"3\" vspace=\"3\" border=\"0\"></td>\n</tr>\n\n<tr><!-- row 2 -->\n<td bgcolor=\"#000000\" colspan=\"3\">\n    <table bgcolor=\"#000000\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" align=\"left\">\n    <tbody><tr>\n    <td width=\"150\"><img src=\"http://www.libraries.rutgers.edu/rul/images/clearpix.gif\" alt=\"\" width=\"150\" height=\"21\" border=\"0\"></td>\n    <td onmouseover=\"this.bgColor = '#C00000';\" onmouseout=\"this.bgColor = '#000000';\" onclick=\"this.bgColor = '#000000';\">&nbsp;&nbsp;&nbsp;<a href=\"http://www.libraries.rutgers.edu/rul/ask_a_lib/ask_a_lib.shtml\" class=\"navbar\">ASK&nbsp;A&nbsp;LIBRARIAN</a>&nbsp;&nbsp;&nbsp;</td>\n    <td onmouseover=\"this.bgColor = '#C00000';\" onmouseout=\"this.bgColor = '#000000';\" onclick=\"this.bgColor = '#000000';\">&nbsp;&nbsp;&nbsp;<a href=\"http://www.libraries.rutgers.edu/rul/h_and_d/h_and_d.shtml\" class=\"navbar\">HOURS&nbsp;&amp;&nbsp;DIRECTIONS</a>&nbsp;&nbsp;&nbsp;</td>\n    <td onmouseover=\"this.bgColor = '#C00000';\" onmouseout=\"this.bgColor = '#000000';\" onclick=\"this.bgColor = '#000000';\">&nbsp;&nbsp;&nbsp;<a href=\"http://www.libraries.rutgers.edu/htdig/search/search.shtml\" class=\"navbar\">SEARCH&nbsp;WEBSITE</a>&nbsp;&nbsp;&nbsp;</td>\n    <td onmouseover=\"this.bgColor = '#C00000';\" onmouseout=\"this.bgColor = '#000000';\" onclick=\"this.bgColor = '#000000';\">&nbsp;&nbsp;&nbsp;<a href=\"http://www.libraries.rutgers.edu/rul/site_index.shtml\" class=\"navbar\">SITE&nbsp;INDEX</a>&nbsp;&nbsp;&nbsp;</td>\n    </tr>\n    </tbody></table>\n</td>\n</tr>\n</tbody></table>\n<!-- red nav table: end -->\n\n<table width=\"760\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody><tr>\n\n<!-- left column: start -->\n<td valign=\"top\" bgcolor=\"silver\" width=\"150\">\n <table border=\"0\" align=\"right\" width=\"150\" cellspacing=\"0\" cellpadding=\"0\">\n  <tbody><tr>\n  <!--- image locater to place coordinates -->\n  <td valign=\"top\" align=\"right\" colspan=\"2\"><img id=\"MyImage\" src=\"http://www.libraries.rutgers.edu/rul/images/clearpix.gif\" alt=\"\" width=\"2\" height=\"12\" border=\"0\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk2\" href=\"http://www.libraries.rutgers.edu/rul/searchcatalogs.shtml\" onmouseover=\"swapLayers2(this,'lyr2','iris',irisB)\" class=\"off\">SEARCH IRIS AND OTHER&nbsp;CATALOGS</a>\n  </td><td valign=\"middle\"><img name=\"irisB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk3\" href=\"http://www.libraries.rutgers.edu/rul/indexes/findarticles.shtml\" onmouseover=\"swapLayers2(this,'lyr3','articles',articlesB)\" class=\"off\">FIND ARTICLES</a>\n  </td><td valign=\"middle\"><img name=\"articlesB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk8\" href=\"http://www.libraries.rutgers.edu/rul/lib_servs/course_reserves.shtml\" onmouseover=\"swapLayers2(this,'lyr8','reserves',reservesB)\" class=\"off\">FIND RESERVES</a>\n  </td><td valign=\"middle\"><img name=\"reservesB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk4\" href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/researchresources.shtml\" onmouseover=\"swapLayers2(this,'lyr4','resources',resourcesB)\" class=\"off\">RESEARCH RESOURCES</a>\n  </td><td valign=\"middle\"><img name=\"resourcesB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"center\" valign=\"top\" colspan=\"2\" height=\"1\">\n  <!-- horizontal rule -->\n  <img src=\"http://www.libraries.rutgers.edu/rul/images/white.gif\" alt=\"\" width=\"131\" height=\"1\" style=\"display:block;\">\n  </td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk5\" href=\"http://www.libraries.rutgers.edu/rul/how_do_i/connect_from_home.shtml\" onmouseover=\"swapLayers2(this,'lyr5','connect',connectB)\" class=\"off\">CONNECT FROM HOME</a>\n  </td><td valign=\"middle\"><img name=\"connectB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk6\" href=\"http://www.libraries.rutgers.edu/rul/how_do_i/how_do_i.shtml\" onmouseover=\"swapLayers2(this,'lyr6','how',howB)\" class=\"off\">HOW DO I...?</a>\n  </td><td valign=\"middle\"><img name=\"howB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n\n<!--\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk10\" href=\"library_tutorials.shtml\" onmouseover=\"swapLayers2(this,'lyr10','classes',classesB)\" class=\"off\">LIBRARY TUTORIALS</a>\n  </td><td valign=\"middle\"><img name=\"classesB\" src=\"/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\" /></td>\n  </tr>\n-->\n\n  <tr>\n  <td align=\"center\" valign=\"top\" colspan=\"2\" height=\"1\">\n  <!-- horizontal rule -->\n  <img src=\"http://www.libraries.rutgers.edu/rul/images/white.gif\" alt=\"\" width=\"131\" height=\"1\" style=\"display:block;\">\n  </td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk7\" href=\"http://www.libraries.rutgers.edu/rul/lib_servs/borrowing.shtml\" onmouseover=\"swapLayers2(this,'lyr7','borrow',borrowB)\" class=\"off\">BORROWING</a>\n  </td><td valign=\"middle\"><img name=\"borrowB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk9\" href=\"http://www.libraries.rutgers.edu/rul/lib_servs/delivery.shtml\" onmouseover=\"swapLayers2(this,'lyr9','ill',illB)\" class=\"off\">DELIVERY AND INTERLIBRARY LOAN</a>\n  </td><td valign=\"middle\"><img name=\"illB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"12\" alt=\"\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk11\" href=\"http://www.libraries.rutgers.edu/rul/lib_servs/reference.shtml\" onmouseover=\"swapLayers2(this,'lyr11','ref',refB)\" class=\"off\">REFERENCE</a>\n  </td><td valign=\"middle\"><img name=\"refB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk15\" href=\"http://www.libraries.rutgers.edu/rul/lib_servs/faculty_services.shtml\" onmouseover=\"swapLayers2(this,'lyr15','instructor',instructorB)\" class=\"off\">FACULTY SERVICES</a>\n  </td><td valign=\"middle\"><img name=\"instructorB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"center\" valign=\"top\" colspan=\"2\" height=\"1\">\n  <!-- horizontal rule -->\n  <img src=\"http://www.libraries.rutgers.edu/rul/images/white.gif\" alt=\"\" width=\"131\" height=\"1\" style=\"display:block;\">\n  </td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk12\" href=\"http://www.libraries.rutgers.edu/rul/about/about.shtml\" onmouseover=\"swapLayers2(this,'lyr12','libraries',librariesB)\" class=\"off\">ABOUT THE LIBRARIES</a>\n  </td><td valign=\"middle\"><img name=\"librariesB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk14\" href=\"http://www.libraries.rutgers.edu/rul/news/news.shtml\" onmouseover=\"swapLayers2(this,'lyr14','news',newsB)\" class=\"off\">NEWS AND EVENTS</a>\n  </td><td valign=\"middle\"><img name=\"newsB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n\n  <tr>\n  <td align=\"center\" valign=\"top\" colspan=\"2\">\n  <!-- horizontal rule -->\n <img src=\"http://www.libraries.rutgers.edu/rul/images/clearpix.gif\" alt=\"\" width=\"131\" height=\"8\" border=\"0\">\n  </td>\n  </tr>\n\n  <tr>\n  <td align=\"right\" valign=\"middle\">\n  <a name=\"lnk13\" href=\"http://www.libraries.rutgers.edu/rul/alumni/index.shtml\" onmouseover=\"swapLayers2(this,'lyr13','alumni',alumniB)\" class=\"off\">ALUMNI LIBRARY</a>\n  </td><td valign=\"middle\"><img name=\"alumniB\" src=\"http://www.libraries.rutgers.edu/rul/images/arrow_inactive.gif\" height=\"9\" width=\"11\" border=\"0\" vspace=\"7\" alt=\"\"></td>\n  </tr>\n  </tbody></table>\n<br clear=\"all\">\n\n   <table border=\"0\" align=\"right\">\n   <tbody><tr>\n      <td align=\"right\">\n      <a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/disabil.shtml\" style=\"border-bottom: none;\"><img src=\"http://www.libraries.rutgers.edu/rul/images/handicap_icon.gif\" border=\"0\" width=\"30\" height=\"29\" vspace=\"15\" hspace=\"3\" alt=\"Library Services for Persons with Disabilities\"></a>\n      <br><br>\n      <a href=\"http://www.rutgers.edu/\" style=\"border-bottom: none;\"><img src=\"http://www.libraries.rutgers.edu/rul/images/logo_red_return.gif\" border=\"0\" width=\"127\" height=\"56\" hspace=\"3\" alt=\"Return to RU Main Menu\"></a>\n      <br clear=\"all\">\n      <br clear=\"all\">\n      <a href=\"http://www.valenj.org/\" style=\"border-bottom: none;\"><img src=\"http://www.libraries.rutgers.edu/rul/images/valebadge3.gif\" border=\"0\" width=\"127\" height=\"33\" hspace=\"3\" alt=\"VALE - Statewide Shared Databases\"></a>\n   <br clear=\"all\">\n   <img src=\"http://www.libraries.rutgers.edu/rul/images/clearpix.gif\" alt=\"\" width=\"150\" height=\"640\" border=\"0\">\n   <br clear=\"all\">\n   </td></tr></tbody></table>\n</td>\n<!-- left column: end -->\n\n<!-- content column: start (2 columns) -->\n<td valign=\"top\" colspan=\"2\" bgcolor=\"#FFFFFF\">\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody><tr>\n\n<!-- content column : left : start -->\n<td valign=\"top\" width=\"505\">\n<!-- shim to keep column open -->\n<img src=\"http://www.libraries.rutgers.edu/rul/images/clearpix.gif\" alt=\"\" width=\"325\" height=\"1\" border=\"0\">\n<!--<img name=\"contentColumn\" src=\"/rul/images/clearpix.gif\" alt=\"\" width=\"100%\" height=\"1\" border=\"0\" />-->\n\n<!-- start of layer 1 -->\n<div id=\"lyr1\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr>\n<td><img src=\"http://www.libraries.rutgers.edu/rul/images/clearpix.gif\" alt=\"\" width=\"5\" height=\"2\" border=\"0\"></td>\n<td>\n  <table width=\"400\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n   <tbody><tr>\n   <td><img id=\"block_01\" src=\"http://www.libraries.rutgers.edu/rul/images/block_01.jpg\" width=\"109\" height=\"81\" alt=\"\"></td>\n   <td><img id=\"block_02\" src=\"http://www.libraries.rutgers.edu/rul/images/block_02.jpg\" width=\"91\" height=\"81\" alt=\"\"></td>\n   <td colspan=\"2\" rowspan=\"2\"><img id=\"block_03\" src=\"http://www.libraries.rutgers.edu/rul/images/block_03.jpg\" width=\"200\" height=\"177\" alt=\"\"></td>\n   </tr>\n   <tr>\n   <td colspan=\"2\"><img id=\"block_04\" src=\"http://www.libraries.rutgers.edu/rul/images/block_04.jpg\" width=\"200\" height=\"96\" alt=\"\"></td>\n   </tr>\n   <tr>\n   <td colspan=\"2\" rowspan=\"2\"><img id=\"block_05\" src=\"http://www.libraries.rutgers.edu/rul/images/block_05.jpg\" width=\"200\" height=\"176\" alt=\"\"></td>\n   <td colspan=\"2\"><img id=\"block_06\" src=\"http://www.libraries.rutgers.edu/rul/images/block_06.jpg\" width=\"200\" height=\"93\" alt=\"\"></td>\n   </tr>\n   <tr>\n   <td><img id=\"block_07\" src=\"http://www.libraries.rutgers.edu/rul/images/block_07.jpg\" width=\"90\" height=\"83\" alt=\"\"></td>\n   <td><img id=\"block_08\" src=\"http://www.libraries.rutgers.edu/rul/images/block_08.jpg\" width=\"110\" height=\"83\" alt=\"\"></td>\n   </tr>\n   </tbody></table>\n</td></tr><tr></tr></tbody></table>\n</div>\n<!-- end of layer 1 -->\n\n<!-- start of layer 2 -->\n<div id=\"lyr2\">\n<span class=\"navhead\">SEARCH IRIS AND OTHER CATALOGS</span>\n\n<div class=\"indent-25\">\n  <p class=\"flush\">\n  <a href=\"http://www.iris.rutgers.edu/iris.html\" class=\"liblink\"><strong>IRIS  (Rutgers Libraries' Catalog)</strong></a>\n  </p>\n\n  <div class=\"indent-25\">\n    <p class=\"flush\">\n    Search all Rutgers Libraries for books, videos, media, microforms, and other materials.\n    </p>\n  </div>\n\n<strong>IRIS Quick Search</strong>\n</div>\n\n\n\n\n        <!-- Start of iris search -->\n        <table border=\"0\" width=\"300\">\n          <tbody><tr>\n          <td>&nbsp;&nbsp;&nbsp;</td>\n          <td valign=\"top\">\n          <form name=\"searchform\" onsubmit=\"return ValidateForm()\" action=\"\" method=\"post\">\n            <span style=\"font-size: 10px; font-family: sans-serif;\">\n              <input type=\"radio\" style=\"background: #FFFFFF\" name=\"query_type\" value=\"search\" checked=\"checked\"> Contains &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n              <input type=\"radio\" style=\"background: #FFFFFF\" name=\"query_type\" value=\"browse\"> Begins with\n            </span>\n            <br clear=\"all\">\n            <input type=\"text\" name=\"searchdata1\" size=\"40\" value=\"\">\n            <br clear=\"all\">\n                  <select name=\"srchfield1\" size=\"1\" style=\"color: #000; font-size: 10px; font-family: sans-serif;\">\n                      <option value=\"GENERAL^SUBJECT^SUBJECTS^^search+everything\" selected=\"selected\"> SEARCH EVERYTHING</option>\n                      <option value=\"AU^AUTHOR^AUTHORS^Author Processing^author\"> AUTHOR</option>\n                      <option value=\"TI^TITLE^TITLES^Title Processing^title\"> TITLE</option>\n                      <option value=\"SU^SUBJECT^SUBJECTS^^subject\"> SUBJECT</option>\n                      <option value=\"PER^PERTITLE^TITLES^Title Processing^periodical+title\"> PERIODICAL TITLE</option>\n                    </select>&nbsp;\n            <div align=\"right\">\n<a href=\"javascript:document.searchform.submit()\" onclick=\"clickedButton=true; return ValidateForm()\" style=\"border-bottom: none;\"><img src=\"http://www.libraries.rutgers.edu/rul/images/search3.gif\" border=\"0\" alt=\"Submit button\"></a>\n            <input type=\"hidden\" name=\"library\" value=\"ALL\">&nbsp;\n            </div>\n                <script type=\"text/javascript\">\n            <!--\n                 // document.searchform.searchdata1.focus();\n                 //   document.searchform.searchdata1.select();\n            //-->\n            </script>       </form>      \n            </td></tr>    \n     </tbody></table>\n     <!-- end of iris search -->\n\n<div class=\"indent-25\">\n<p class=\"flush\">\n<a href=\"http://www.iris.rutgers.edu/uhtbin/cgisirsi/0/0/0/60/4/X\" class=\"liblink\">Advanced Search</a><br>\n<a href=\"http://www.iris.rutgers.edu/uhtbin/cgisirsi/0/0/0/1/8/X\" class=\"liblink\">Self Services</a><br>\n<a href=\"http://www.iris.rutgers.edu/uhtbin/cgisirsi/0/0/0/36/7/X\" class=\"liblink\">Reserve Desk</a>\n</p>\n</div>\n\n<div class=\"indent-25\">\n<div style=\"border-style: solid; border-color: #C60000; border-width: 0px 0px 1px 0px ; height: 1px; width: 360px; padding: 0px 0px 0px 0px; margin-left: 0px;                   margin-bottom: 2px;    background: transparent; color: #FFFFFF; \"> </div>\n</div>\n\n<div class=\"indent-25\">\n<p class=\"flush\">\n<strong>OTHER LIBRARY CATALOGS</strong>\n</p>\n</div>\n\n<ul class=\"toc\">\n<li><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#e-zborrow\">E-ZBorrow, Pennsylvania Academic Library Consortium, Inc (PALCI) </a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#jerseycat\">JerseyCat</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#camlaw\">Camden Law Library</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#ack\">Rutgers Law Library-Newark</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#crl\">Center for Research Libraries</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#eureka\">RLG Union Catalog</a> (RLIN)</li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#worldcat\">WorldCat</a> (OCLC)</li>\n</ul>\n\n\n<div class=\"indent-25\">\n<a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml\" class=\"liblink\"><strong>More Library Catalogs</strong></a>\n</div>\n\n\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 2 -->\n\n<!-- start of layer 3 -->\n<div id=\"lyr3\">\n<span class=\"navhead\">FIND ARTICLES</span>\n\n<div class=\"indent-25\">\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/find_an_article.shtml\" class=\"liblink\">How do I find an article?</a></dt>\n<dd>Step-by-step instructions on how to find a journal article.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/indexes/indexes.shtml\" class=\"liblink\">Indexes and Databases</a></dt>\n<dd>Lists of online indexes and databases, both general and specialized. \nUse these to search for articles.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/subscribes.shtml\" class=\"liblink\">How do I know if RU has a particular journal?</a></dt>\n<dd>Once you know where an article was published, use these step-by-step instructions to find out \nif Rutgers has access to that particular journal via  \n<a href=\"http://www.iris.rutgers.edu/iris.html\" class=\"liblink\">IRIS</a>.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/ejournals/ejournals.shtml\" class=\"liblink\">Electronic Journal Lists</a></dt>\n<dd>Note that some journal titles to which Rutgers has electronic access are not listed in IRIS. \nIf you do not find the journal that you are looking for in IRIS, check these lists.</dd>\n</dl>\n</div>\n\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 3 -->\n\n<!-- start of layer 4 -->\n<div id=\"lyr4\">\n<span class=\"navhead\">RESEARCH RESOURCES</span>\n\n<div class=\"indent-25\">\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/indexes/indexes.shtml\" class=\"liblink\">Indexes and Databases</a></dt>\n  <dd>Find articles on a particular topic, or search research databases.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/ejournals/ejournals.shtml\" class=\"liblink\">Electronic Journals</a></dt>\n  <dd>Browsable lists of selected electronic journals and government periodicals.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/e_ref_shelf/e_ref_shelf.shtml\" class=\"liblink\">Electronic Reference Sources</a></dt>\n  <dd>Links to web-based resources for  factual information.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/research_guides/research_guides.shtml\" class=\"liblink\">Subject Research Guides</a></dt>\n  <dd>Developed by subject collection librarians, guides providing detailed information on print and online subject resources.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/f_aids/f_aids.shtml\" class=\"liblink\">Finding Aids</a></dt>\n  <dd>Short, topic-focused guides to library resources.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/lib_instruct/instruct_tutorials.shtml\" class=\"liblink\">Class Guides</a></dt>\n  <dd>Print and online resources selected for specific classes.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/lib_instruct/instruct_tutorials.shtml\" class=\"liblink\">Tutorials</a></dt>\n  <dd>Links to tools for learning how to use the library and other information resources.</dd>\n</dl>\n\n</div>\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 4 -->\n\n<!-- start of layer 8 -->\n<div id=\"lyr8\">\n<span class=\"navhead\">FIND RESERVES</span>\n\n<div class=\"indent-25\">\n  <p class=\"flush\">\n  Reserve materials may be protected by Copyright Law (Title 17 U.S. Code).  \n  Further distribution of electronic reserve documents is prohibited.\n  </p>\n\n  <div style=\"border-style: solid; border-color: #C60000; border-width: 0px 0px 1px 0px ; height: 1px; width: 350px; padding: 0px 0px 0px 0px; margin-left: 0px;                   margin-bottom: 2px;    background: transparent; color: #FFFFFF; \"> </div>\n</div>\n\n  \n           \n<form name=\"reserve_searchform\" onsubmit=\"return ReserveValidateForm()\" action=\"\" method=\"post\">\n<table>\n   <tbody><tr>\n   <td align=\"right\"><span class=\"simpleHeading\">SEARCH&nbsp;TERM:</span></td>\n   <td><input type=\"text\" name=\"reserve_searchdata1\" size=\"40\" value=\"\"></td>\n   </tr>\n\n   <tr>\n   <td align=\"right\"><span class=\"simpleHeading\">DESK:</span></td>\n   <td>\n   <select name=\"reserve_desk\" id=\"desk\">\n     <option selected=\"selected\">ANY</option>\n     <option>RESV-ALCHL</option>\n     <option>RESV-ALEXG</option>\n     <option>RESV-ALEXU</option>\n     <option>RESV-ART</option>\n     <option>RESV-CAMDN</option>\n     <option>RESV-CHANG</option>\n     <option>RESV-CHEM</option>\n     <option>RESV-DANA</option>\n     <option>RESV-DANAM</option>\n     <option>RESV-DGLSS</option>\n     <option>RESV-KLMR</option>\n     <option>RESV-LSM</option>\n     <option>RESV-MATH1</option>\n     <option>RESV-MATH2</option>\n     <option>RESV-MEDIA</option>\n     <option>RESV-MUSIC</option>\n     <option>RESV-PHYS</option>\n     <option>RESV-SERC</option>\n     <option>RESV-SMLR</option>\n   </select>\n   </td></tr>\n\n   <tr>\n   <td align=\"right\"><span class=\"simpleHeading\">SEARCH&nbsp;TYPE:</span></td>\n   <td>\n   <!-- Instructor button -->\n<img src=\"http://www.libraries.rutgers.edu/rul/images/INSTRUCT.gif\" align=\"center\" border=\"0\" alt=\"Lookup by Instructor\" name=\"RSV_INSTRUCTOR\" onclick=\"clickedButton=true; ReserveValidateForm('RSV_INSTRUCTOR');document.reserve_searchform.submit();\">\n   <!-- Course ID button -->\n<img src=\"http://www.libraries.rutgers.edu/rul/images/COURSEID.gif\" align=\"center\" border=\"0\" alt=\"Lookup Items on Reserve by Course Number\" name=\"RSV_COURSE_ID\" onclick=\"clickedButton=true; ReserveValidateForm('RSV_COURSE_ID');document.reserve_searchform.submit();\">\n   <!-- Course Name button -->\n<img src=\"http://www.libraries.rutgers.edu/rul/images/COURSENAME.gif\" align=\"center\" border=\"0\" alt=\"Lookup Items on Reserve by Course Name\" name=\"RSV_COURSE_NAME\" onclick=\"clickedButton=true; ReserveValidateForm('RSV_COURSE_NAME');document.reserve_searchform.submit();\">\n   </td></tr>\n  </tbody></table>\n</form>\n\n<div class=\"indent-25\">\n   <div style=\"border-style: solid; border-color: #C60000; border-width: 0px 0px 1px 0px ; height: 1px; width: 350px; padding: 0px 0px 0px 0px; margin-left: 0px;                   margin-bottom: 2px;    background: transparent; color: #FFFFFF; \"> </div>\n\n   <p class=\"flush\">\n   Electronic reserve documents are available to Rutgers users\n   at public access workstations in the libraries, in campus computer labs, and\n   PCs connected to the campus network.  Current students, faculty, and staff of\n   Rutgers University may also access electronic reserve documents off campus by \n   configuring your browser by following the instructions in the \n   <a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/remote.shtml\" class=\"liblink\">Remote Access Guide</a>\n   </p>\n\n   <div style=\"border-style: solid; border-color: #C60000; border-width: 0px 0px 1px 0px ; height: 1px; width: 350px; padding: 0px 0px 0px 0px; margin-left: 0px;                   margin-bottom: 2px;    background: transparent; color: #FFFFFF; \"> </div>\n</div>\n<div class=\"indent-25\">\n\n<p class=\"flush\">\nSearch the <a href=\"http://libserv4.rutgers.edu/mv/\" class=\"liblink\">Mediavision scheduler</a> (New Brunswick only) for videos \nscheduled by your instructor on RUTV channel 20.\n</p>\n\n<p class=\"flush\">\nSee also <a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/reserve_services_users.shtml\" class=\"liblink\">Electronic Documents on Reserve: A User's Guide</a>.\n</p>\n\n<p class=\"flush\">\nTo place materials on reserve for a course, see \n<a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/faculty_services.shtml\" class=\"liblink\">Faculty Services</a> (instructors only). \n</p>\n</div>\n\n<!-- reserve search: end -->\n\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 8 -->\n\n<!-- start of layer 5 How to connect from home -->\n<div id=\"lyr5\">\n<span class=\"navhead\">CONNECT FROM HOME</span>\n\n<div class=\"indent-25\">\n<p class=\"flush\">\nAccess to some electronic resources on the Libraries' website is limited by licensing \nrestrictions to current students, faculty and staff of the university, wherever they are \nlocated, and all onsite users. Licensed resources include many of our indexes, databases, \nelectronic journals, electronic reserves, and other full-text resources. \n</p>\n\n<p>\nTo access these restricted resources from off-campus, you must identify yourself as a \nRutgers user by connecting to our website in one of two ways: \n</p>\n\n<ol start=\"1\"> \n<li> By using a commercial Internet Service Provider (ISP), such as America Online (AOL). \nTo be recognized by the Libraries' proxy server, however, you must make a few changes in your \nInternet browser (Netscape or Internet Explorer) configuration. Please follow the step-by-step \ninstructions\n<a href=\"http://www.libraries.rutgers.edu/rul/ask_a_lib/authentication.shtml\" class=\"liblink\">Remote Access Browser Configuration</a>.\n</li>\n</ol>\n\n<div class=\"indent-25\">\n<p class=\"flush\">\nor\n</p>\n</div>\n\n<ol start=\"2\"> \n<li> By dialing into the Rutgers computer network using a modem. For instructions, see \"Using the Rutgers Modems\" on the Rutgers University Computing Services Web page \n   <a href=\"http://www.rucs.rutgers.edu/services/connected/index-body.html#dialup\">Getting Connected</a>.\n</li>\n</ol>\n</div>\n\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 5 -->\n\n<!-- start of layer 6 -->\n<div id=\"lyr6\">\n<span class=\"navhead\">HOW DO I...?</span>\n\n<ul class=\"toc\">\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/find_an_article.shtml\">find an article?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/find_a_book.shtml\">find a book?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/connect_from_home.shtml\">connect from home?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/forms/reg_pin.shtml\">get a pin?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/forms/reg_pin.shtml\">register my barcode?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/change_my_email_address.shtml\">change my e-mail address with the Libraries?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/renew_my_checkouts.shtml\">renew my checkouts?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/find_an_ereserve.shtml\">find an electronic reserve?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/subscribes.shtml\">know if RU has a particular journal?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/check_my_lib_record.shtml\">check my library record?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/request_materials.shtml\">request materials from another RU library?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/recall_a_book.shtml\">recall a book from another user?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/order_an_ill.shtml\">order an interlibrary loan?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/check_request_status.shtml\">check on the status of my requests?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/contact_a_librarian.shtml\">contact a librarian?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/lib_instruct_class.shtml\">arrange for a library instruction class?</a></li>\n<li>...<a href=\"http://www.libraries.rutgers.edu/rul/how_do_i/find_video_info.shtml\">find video or audio information?</a></li>\n</ul>\n\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 6 -->\n\n\n<!-- start of layer 7 -->\n<div id=\"lyr7\">\n<span class=\"navhead\">BORROWING</span>\n\n<div class=\"indent-25\">\n<p class=\"flush\">\nTo check out books, request delivery, or book media you first need to register your library barcode and get a  library\nPIN. Fill out a \n<a href=\"http://www.libraries.rutgers.edu/rul/forms/reg_pin.shtml\" class=\"liblink\">Registering with the Rutgers Libraries</a> online form, or visit  or  phone  the  \n<a href=\"http://www.libraries.rutgers.edu/rul/ask_a_lib/rucircdesks.shtml\" class=\"liblink\">circulation  desk</a>  of  any Rutgers library.\n</p>\n<p class=\"flush\">\nUse your \n<a href=\"http://www.iris.rutgers.edu/uhtbin/cgisirsi/0/0/0/1/8/X\" class=\"liblink\">SELF SERVICES</a> files in IRIS to:\n</p>\n\n   <ul>\n   <li> renew a book,</li>\n   <li> view a list of your checkouts, requests for Rutgers materials, and media bookings,</li>\n   <li> change your library PIN number.</li>\n   </ul>\n</div>\n\n<div style=\"border-style: solid; border-color: #C60000; border-width: 0px 0px 1px 0px ; height: 1px; width: 350px; padding: 0px 0px 0px 0px; margin-left: 0px;                   margin-bottom: 2px;    background: transparent; color: #FFFFFF; \"> </div>\n\n<p class=\"flush\">\n<strong>Learn more about the Libraries borrowing policies:</strong>\n</p>\n\n<ul class=\"toc\">\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/guest.shtml\">Alumni and Community Borrowing Privileges</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/borpriv.shtml\">Borrowing Privileges:  Students, Faculty, and Staff</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/about/pub_serv_policies/pspm_01.shtml\">Public Services Policy Memo 1: Access to Library Resources and Services</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/about/pub_serv_policies/pspm_06.shtml\">Public Services Policy Memo 6: Cooperative Access Arrangements</a></li>\n</ul>\n\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 7 -->\n\n<!-- start of layer 9 -->\n<div id=\"lyr9\">\n<span class=\"navhead\">DELIVERY AND INTERLIBRARY LOAN</span>\n\n<div class=\"indent-25\">\n  <p class=\"flush\">\n  Below you will find a variety of options for acquiring items that are not at your local campus library or  part  of  the\n  Rutgers libraries collections:\n  </p>\n\n  <p class=\"flush\"> Request delivery of Rutgers materials that are not in your local campus library by using the [DELIVER/RECALL BOOK]  or\n  [REQUEST ARTICLE/OTHER] button in \n  <a href=\"http://www.iris.rutgers.edu/iris.html\" class=\"liblink\">IRIS</a>.</p>\n\n  <p class=\"flush\"> Use <a href=\"http://palci.library.pitt.edu/~ursa/RUL_login.html\" class=\"liblink\">E-ZBorrow</a> to request quick delivery of books from over 30 academic Pennsylvania libraries.</p>\n  <p class=\"flush\"> Order articles not at Rutgers and available in the \n  <a href=\"http://www.libraries.rutgers.edu/rul/indexes/search_guides/ingenta.shtml\" class=\"liblink\">Ingenta</a> database with a subsidized  library  account  (faculty  and\n  graduate students only).</p>\n  <p class=\"flush\"> Book media for preview and classroom use with a \n  <a href=\"http://www.libraries.rutgers.edu/rul/forms/media_title_request_nb.shtml\" class=\"liblink\">Media Materials - Booking Form</a>.</p>\n  <p class=\"flush\"> Use <a href=\"http://www.libraries.rutgers.edu/cgi-bin/IllPatron.pl\" class=\"liblink\">Interlibrary Loan Services</a> for materials not in the Rutgers University Libraries collections.</p>\n</div>\n\n<div style=\"border-style: solid; border-color: #C60000; border-width: 0px 0px 1px 0px ; height: 1px; width: 350px; padding: 0px 0px 0px 0px; margin-left: 0px;                   margin-bottom: 2px;    background: transparent; color: #FFFFFF; \"> </div>\n\n<p class=\"flush\">\n<strong>Learn more about the Libraries delivery options and policies:</strong>\n</p>\n\n<ul class=\"toc\">\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/palci.shtml\">E-ZBorrow:  The Pennsylvania Academic Library Consortium, Inc.</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/ingenta.shtml\">How to use Ingenta Document Delivery</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/imaging_services.shtml\">Imaging Services</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/ill.shtml\">Interlibrary Loan Services: Borrowing</a> (Rutgers students, faculty, and staff)</li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/ills_lending.shtml\">Interlibrary Loan Services:  Lending</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/media_request_booking_service.shtml\">Media Materials Booking Request Service</a></li> \n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/cable_cast.shtml\">Mediavision Cable Cast Request Service</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/rutgers_delivery_service.shtml\">Rutgers Delivery Service</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/web_doc_del_faq.shtml\">Web Document Delivery FAQ</a></li>\n</ul>\n<ul class=\"toc\">\n<li><a href=\"http://www.libraries.rutgers.edu/rul/about/pub_serv_policies/pspm_04.shtml\">Public Services Policy Memo 4: Resource Sharing: Interlibrary and Rutgers Request Services</a></li>\n</ul>\n\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 9 -->\n\n<!-- start of layer 10 -->\n<div id=\"lyr10\">\n\n</div>\n<!-- end of layer 10 -->\n\n<!-- start of layer 11 -->\n<div id=\"lyr11\">\n<span class=\"navhead\">REFERENCE</span>\n\n<div class=\"indent-25\">\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/ask_a_lib/rurefdesks.shtml\" class=\"liblink\">Rutgers Reference Desks Phone Numbers &amp; Hours</a>.</dt>\n<dd>A directory of reference desks where librarians are available to help you with your research.</dd>\n</dl>\n\n<dl>\n<a href=\"http://www.libraries.rutgers.edu/rul/ask_a_lib/ask_a_lib.shtml\" class=\"liblink\">Ask a Librarian</a>\n<dd>Reference assistance via email.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/about/collection_dir.shtml\" class=\"liblink\">Collection Development / Subject Specialist Librarians</a></dt>\n<dd>Who to contact to make an appointment for in-depth research consultations in a particular subject area. </dd>  \n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/e_ref_shelf/e_ref_shelf.shtml\" class=\"liblink\">Electronic Reference Sources</a></dt>\n<dd>Links to web-based resources for factual information.</dd>\n</dl>\n</div>\n\n<div style=\"border-style: solid; border-color: #C60000; border-width: 0px 0px 1px 0px ; height: 1px; width: 350px; padding: 0px 0px 0px 0px; margin-left: 0px;                   margin-bottom: 2px;    background: transparent; color: #FFFFFF; \"> </div>\n\n<ul class=\"toc\">\n<li><a href=\"http://www.libraries.rutgers.edu/rul/ask_a_lib/ask_a_lib.shtml\">FAQs</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/about/pub_serv_policies/pspm_02.shtml\">Public Services Policy Memo 2: Reference and Information Service</a></li>\n</ul>\n\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 11 -->\n\n<!-- start of layer 15 -->\n<div id=\"lyr15\">\n<span class=\"navhead\">FACULTY SERVICES</span>\n\n<p class=\"flush\">\n<strong>Reserves</strong>\n</p>\n\n\n<div class=\"indent-25\">\n<p class=\"flush\">\nPlace materials on reserve for a course by filling out a \n<a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/reserve_services_faculty.shtml#forms\" class=\"liblink\">Reserve Request Form</a> (instructors only).\n</p>\n\n\n<p class=\"flush\">\nSee also:\n</p>\n\n<ul class=\"toc\">\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/reserve_services_faculty.shtml\">Reserve Services, A Guide for Faculty</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/reserve_services_users.shtml\">Electronic Documents on Reserve: A User's Guide</a></li>\n</ul>\n\n</div>\n\n\n<p class=\"flush\">\n<strong>Media</strong>\n</p>\n\n<div class=\"indent-25\">\n\n<p class=\"flush\">\nBook media for preview and classroom use with a \n<a href=\"http://www.libraries.rutgers.edu/rul/forms/media_title_request_nb.shtml\" class=\"liblink\">Media Materials - Booking Form</a>.\n</p>\n\n<p class=\"flush\">\nRequest cable cast of moving image materials by filling out a \n<a href=\"http://www.libraries.rutgers.edu/rul/forms/cable_cast.shtml\" class=\"liblink\">Mediavision Cable Cast Request Form</a> (instructors only)(New Brunswick only).\n</p>\n\n<p class=\"flush\">\nSee also:\n</p>\n\n<ul class=\"toc\">\n<li><a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/cable_cast.shtml\">Mediavision Cable Cast Request Service</a> (New Brunswick only)</li>\n</ul>\n</div>\n\n<p class=\"flush\">\n<strong>Library Classes</strong>\n</p>\n\n<div class=\"indent-25\">\n\n<p class=\"flush\">\nTo schedule a library instruction session for your class, select \nthe campus where your class meets:\n</p>\n\n  <ul class=\"toc\">\n  <li><a href=\"http://www.libraries.rutgers.edu/rul/forms/instruct_busch_1.shtml\">Busch</a></li>\n  <li><a href=\"http://www.libraries.rutgers.edu/rul/forms/instruct_camden_1.shtml\">Camden</a></li>\n  <li><a href=\"http://www.libraries.rutgers.edu/rul/forms/instruct_college_ave_1.shtml\">College Avenue</a></li>\n  <li><a href=\"http://www.libraries.rutgers.edu/rul/forms/instruct_cook_1.shtml\">Cook</a></li>\n  <li><a href=\"http://www.libraries.rutgers.edu/rul/forms/instruct_douglass_1.shtml\">Douglass</a></li>\n  <li><a href=\"http://www.libraries.rutgers.edu/rul/forms/instruct_livingston_1.shtml\">Livingston</a></li>\n  <li><a href=\"http://www.libraries.rutgers.edu/rul/forms/instruct_newark_1.shtml\">Newark</a></li>\n  <li><a href=\"http://www.libraries.rutgers.edu/rul/forms/instruct_other_1.shtml\">Off-campus or distance education</a></li>\n  </ul>\n\n\n   <p class=\"flush\">\n   <a href=\"http://www.libraries.rutgers.edu/rul/about/collection_dir.shtml\" class=\"liblink\">Subject Specialist Librarians</a> are also available to teach library instruction sessions, develop supporting \n   online and print materials, and collaborate with faculty on instruction projects.\n   </p>\n\n<p class=\"flush\">\nContact an <a href=\"http://www.libraries.rutgers.edu/rul/lib_instruct/instruct_coord.shtml\" class=\"liblink\">Instructional Services Coordinator</a> \nif you have questions.\n</p>\n\n</div>\n\n<p class=\"flush\">\n<strong>Collection Development</strong>\n</p>\n\n<div class=\"indent-25\">\n<p class=\"flush\">\nTo recommend materials for purchase, please refer to the list of\n<a href=\"http://www.libraries.rutgers.edu/rul/about/collection_dir.shtml\" class=\"liblink\">Collection Development / Subject Specialist Librarians</a>\nfor telephone numbers and e-mail addresses.\n</p>\n</div>\n\n\n<p class=\"flush\">\n<strong>Reciprocal Borrowing Arrangements</strong>\n</p>\n\n<div class=\"indent-25\">\n<p class=\"flush\">To borrow from other academic institutions in the Tri-state area, please\nrefer to policies on \n<a href=\"http://www.libraries.rutgers.edu/rul/about/pub_serv_policies/pspm_06.shtml\" class=\"liblink\">Cooperative Access Arrangements</a>.\n</p>\n</div>\n\n<p class=\"flush\">\n<strong>Delivery and Interlibrary Loan</strong>\n</p>\n\n<div class=\"indent-25\">\n  <p class=\"flush\">\n<a href=\"http://www.libraries.rutgers.edu/rul/lib_servs/delivery.shtml\" class=\"liblink\">Delivery and Interlibrary</a> Loan services offer a variety of options for obtaining items that are not at your local\ncampus library or part of the Rutgers libraries collections.\n  </p>\n</div>\n\n\n<p class=\"flush\">\n<strong>Copyright Information</strong>\n</p>\n\n<div class=\"indent-25\">\n<p class=\"flush\">\nResources on intellectual property, acceptable use, and Rutgers policies\nmay be found on the \n<a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/research_guides/copyright/copyright.shtml\" class=\"liblink\">Copyright Information Guide</a>.\n</p>\n</div>\n\n\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 15 -->\n\n<!-- start of layer 12 -->\n<div id=\"lyr12\">\n<span class=\"navhead\">ABOUT THE LIBRARIES</span>\n\n\n<div class=\"indent-25\">\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/libs/libs.shtml\" class=\"liblink\">Libraries and Centers</a></dt>\n<dd>Links to Rutgers University's twenty-six libraries and centers located on Rutgers' campuses in New Brunswick/Piscataway, Camden, and Newark, as well as RU-Online, a digital library.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/about/directories.shtml\" class=\"liblink\">Library Faculty and Staff Directories</a></dt>\n<dd>Contains an alphabetical directory of library faculty and staff, directories of libraries, centers and departments, and a list of collection development/subject specialist librarians.</dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/about/libdocs.shtml\" class=\"liblink\">Human Resources, Policies, and Other Library Documents</a></dt>\n<dd>Employment postings, public service policies, and services for people with disabilities.  </dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/dig_lib_projs/dig_lib_projs.shtml\" class=\"liblink\">Digital Library Projects</a></dt>\n<dd>A listing of web-based projects developed as part of <em>A Bridge to the Future: The Rutgers Digital Library Initiative</em>. </dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/friends/friends.shtml\" class=\"liblink\">Friends and Support</a></dt>\n<dd>Learn about our vision for our future, our plans, and our projects. Information is available on opportunities to be a Friend by supporting the work of the Libraries. </dd>\n</dl>\n\n<dl>\n<dt><a href=\"http://www.libraries.rutgers.edu/rul/staff/staff.html\" class=\"liblink\">Staff Resources</a></dt>\n<dd>Information important to Rutgers Libraries faculty and staff.</dd>\n</dl>\n\n</div>\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 12 -->\n\n<!-- start of layer 13 -->\n<div id=\"lyr13\">\n<span class=\"navhead\">ALUMNI LIBRARY</span>\n<br clear=\"all\"><br clear=\"all\">\n<div class=\"indent-25\">\n<img src=\"http://www.libraries.rutgers.edu/rul/images/alumni_pic.jpg\" alt=\"\" width=\"260\" height=\"347\" border=\"0\">\n</div>\n\n<div class=\"indent-25\">\n<p class=\"flush\">\nAlumni, come see what services we have for you whether you are local or far away!<br>\n<a href=\"http://www.libraries.rutgers.edu/rul/alumni/index.shtml\" class=\"liblink\">Enter here</a>\n</p>\n</div>\n\n<div class=\"oldBrowserRule\"> </div>\n</div>\n<!-- end of layer 13 -->\n\n<!-- start of layer 14 news -->\n<div id=\"lyr14\">\n<span class=\"navhead\">NEWS AND EVENTS</span>\n<br><br>\n<div class=\"indent-25\">\n<strong>News</strong>\n<ul class=\"toc\">\n<li><a href=\"http://www.libraries.rutgers.edu/rul/news/04/12_returns.shtml\">Avoid Notices and Fines:  Return Materials or Renew Term Loans</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/news/04/12_recalls.shtml\">Recalls from Dec. 6 to Jan. 11th</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/news/04/10_myRU.shtml\">Essential Library services now available in <span style=\"background-color: #B50000; font-size: 1em\"><span style=\"color:#FFCE31; font-size: 1em\">my</span><span style=\"color:white; font-size: 1em\">Rutgers</span></span> portal</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/news/04/10_flash_drives.shtml\">Take your data with you, easy! Flash drives now sold @ Libraries</a></li>\n<li><a href=\"http://www.libraries.rutgers.edu/rul/news/04/10_3_new_guides.shtml\">New online research guides for Dissertations and Theses, Geography, and Social Work</a></li>\n</ul>\n\n\n<strong>Events</strong>\n<ul class=\"toc\">\n<li><a href=\"http://www.libraries.rutgers.edu/rul/news/archive_04/2004_01_jazz_roundtables.shtml\">Jazz Research Roundtables Fall 2004 Schedule</a></li>\n</ul>\n\n<strong>Exhibits</strong>\n<ul class=\"toc\">\n<li><a href=\"http://www.libraries.rutgers.edu/rul/exhibits/intersect/title_page.htm\">John DePol's \"Intersection: How To Make A Wood-Engraving\"</a></li>\n<li><a href=\"http://www2.scc.rutgers.edu/~triggs/WARD/Vertigo/\">Lynd Ward's Vertigo: A Graphic Novel of the Depression</a></li>\n</ul>\n\n\n   <ul class=\"toc\">\n    <li><a href=\"http://www.libraries.rutgers.edu/rul/news/news.shtml\">More...</a></li>\n   </ul>\n</div>\n\n</div>\n<!-- end of layer 14 -->\n\n</td>\n<td width=\"150\" align=\"right\">\n\n  <table border=\"0\" width=\"150\">\n  <tbody><tr><td><img src=\"http://www.libraries.rutgers.edu/rul/images/clearpix.gif\" alt=\"\" width=\"30\" height=\"6\" border=\"0\"></td></tr>\n  <tr><td valign=\"top\" align=\"right\">\n         <table border=\"0\" bgcolor=\"#FAFBE6\" cellpadding=\"0\" cellspacing=\"0\" width=\"100\" style=\"border: 1px solid #999999; padding: 5px 5px 5px 5px;\">\n           <tbody><tr><td align=\"left\"><span style=\"text-align:left; color:#000000; font-weight: 700; font-size: 11px; font-family: sans-serif; text-decoration:none;\">NEWS &amp; EVENTS</span></td></tr>\n           <tr><td align=\"left\">\n           \t<a href=\"http://www.libraries.rutgers.edu/rul/news/04/10_flash_drives.shtml\" style=\"border-bottom: none;\"><img src=\"http://www.libraries.rutgers.edu/rul/images_news/flash_drive.jpg\" alt=\"\" width=\"144\" height=\"54\" border=\"0\" vspace=\"1\"></a>\n           \t<span style=\"color: #04346C; font-weight: 700; font-size: .7em; background: transparent; margin: 0px;\">Take your data with you, easy! Flash drives now sold @ Libraries</span> \n           \t<div style=\"text-align:right\"><a href=\"http://www.libraries.rutgers.edu/rul/news/04/10_flash_drives.shtml\" class=\"nav-3\">More info...</a></div>\n           \t<hr style=\"height: 1px; width: 95%;  margin: 0px;\">\n<table>\n<!--      <tr><td valign=\"top\"><img src=\"/rul/images/tiny_bullet.gif\" alt=\"\" width=\"4\" height=\"8\" border=\"0\" valign=\"top\" align=\"right\" /></td><td><a href=\"/rul/news/04/11_ezborrow_down.shtml\"  class=\"nav-3\">E-ZBorrow to go down overnight, Dec. 18-19</a></td></tr> -->\n     <tbody><tr><td valign=\"top\"><img src=\"http://www.libraries.rutgers.edu/rul/images/tiny_bullet.gif\" alt=\"\" width=\"4\" height=\"8\" border=\"0\" valign=\"top\" align=\"right\"></td><td><a href=\"http://www.libraries.rutgers.edu/rul/news/04/12_returns.shtml\" class=\"nav-3\">Avoid notices and fines:  Return materials or renew term loans</a></td></tr>\n     <tr><td valign=\"top\"><img src=\"http://www.libraries.rutgers.edu/rul/images/tiny_bullet.gif\" alt=\"\" width=\"4\" height=\"8\" border=\"0\" valign=\"top\" align=\"right\"></td><td><a href=\"http://www.libraries.rutgers.edu/rul/news/04/12_recalls.shtml\" class=\"nav-3\">Recalls from Dec. 6 to Jan. 11th</a></td></tr>\n\n     </tbody></table>\n\n           \t<hr style=\"height: 1px; width: 95%;  margin: 0px;\">\n\n<table>\n<tbody><tr>\n<td>\n<img src=\"http://www.libraries.rutgers.edu/rul/images/rul_leaf.gif\" alt=\"\" width=\"33\" height=\"56\" border=\"0\">\n</td>\n<td valign=\"bottom\">               <a href=\"http://www.libraries.rutgers.edu/rul/staff/strategic_planning/strategic_planning.shtml\" class=\"nav-3\">Rutgers University Libraries<br> Strategic Planning</a>\n</td></tr>\n</tbody></table>\n\n           \t<hr style=\"height: 1px; width: 95%;  margin: 0px;\">\n                <table>\n                <tbody><tr>\n                <td><span style=\"color: #D60400; font-weight: 700; font-size:3em; background: transparent;\">©</span></td>\n                <td><a href=\"http://www.libraries.rutgers.edu/rul/copyright/copyright.shtml\" class=\"nav-3\">Proposed Draft University Copyright Policy</a></td>\n                </tr></tbody></table>\n           </td>\n           </tr>\n           </tbody></table>\n    </td></tr></tbody></table>\n\n<!-- content column : right : end -->\n</td>\n</tr></tbody></table>\n\n<!-- content column end -->\n</td>\n\n<!-- test right column: start -->\n\n</tr>\n<tr>\n<td bgcolor=\"silver\">&nbsp;</td>\n<td colspan=\"4\" bgcolor=\"silver\">\n<div class=\"indent-5\">\n<span class=\"footer-note\">\nURL: http://www.libraries.rutgers.edu/index.shtml<br>\nLibraries website maintained by the <a href=\"http://www.libraries.rutgers.edu/rul/forms/webmaster.shtml\">Libraries Webmaster</a>\n<br>\n© Copyright 1997-2003, Rutgers University Libraries &nbsp;&nbsp;(<a href=\"http://www.libraries.rutgers.edu/rul/rr_gateway/research_guides/copyright/copyright.shtml\"><em>Further Copyright Information</em></a>)\n</span>\n</div>\n\n</td>\n</tr>\n\n</tbody></table>\n\n\n\n\n\n</body></html>",
+      "aggregate": {
+        "length": 49393
+      }
+    },
+    "styles": {
+      "list": [
+        {
+          "type": "external",
+          "url": "http://www.libraries.rutgers.edu/rul/includes/04rul-style.css",
+          "length": 25879
+        },
+        {
+          "type": "internal",
+          "selector": "html>head>style",
+          "length": 79
+        },
+        {
+          "type": "inline",
+          "length": 7570
+        }
+      ],
+      "aggregate": {
+        "length": 33528
+      }
+    },
+    "scripts": {
+      "list": [
+        {
+          "type": "external",
+          "url": "http://www.libraries.rutgers.edu/rul/includes/04frontpage.js",
+          "length": 7155
+        },
+        {
+          "type": "internal",
+          "selector": "html>body>table:nth-of-type(2)>tbody>tr:nth-of-type(1)>td:nth-of-type(2)>table>tbody>tr>td:nth-of-type(1)>div:nth-of-type(2)#lyr2>table>tbody>tr>td:nth-of-type(2)>form>script",
+          "length": 173
+        }
+      ],
+      "aggregate": {
+        "length": 7164
+      }
+    },
+    "anchors": {
+      "list": [
+        {
+          "url": ""
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/ask_a_lib/ask_a_lib.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/h_and_d/h_and_d.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/htdig/search/search.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/site_index.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/searchcatalogs.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/indexes/findarticles.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/course_reserves.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/researchresources.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/connect_from_home.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/how_do_i.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/borrowing.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/delivery.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/reference.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/faculty_services.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/about.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/news.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/alumni/index.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/disabil.shtml"
+        },
+        {
+          "url": "http://www.rutgers.edu/"
+        },
+        {
+          "url": "http://www.valenj.org/"
+        },
+        {
+          "url": "http://www.iris.rutgers.edu/iris.html"
+        },
+        {
+          "url": "javascript:document.searchform.submit()"
+        },
+        {
+          "url": "http://www.iris.rutgers.edu/uhtbin/cgisirsi/0/0/0/60/4/X"
+        },
+        {
+          "url": "http://www.iris.rutgers.edu/uhtbin/cgisirsi/0/0/0/1/8/X"
+        },
+        {
+          "url": "http://www.iris.rutgers.edu/uhtbin/cgisirsi/0/0/0/36/7/X"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#e-zborrow"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#jerseycat"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#camlaw"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#ack"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#crl"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#eureka"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml#worldcat"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/catalogs.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/find_an_article.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/indexes/indexes.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/subscribes.shtml"
+        },
+        {
+          "url": "http://www.iris.rutgers.edu/iris.html"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/ejournals/ejournals.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/indexes/indexes.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/ejournals/ejournals.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/e_ref_shelf/e_ref_shelf.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/research_guides/research_guides.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/f_aids/f_aids.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_instruct/instruct_tutorials.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_instruct/instruct_tutorials.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/remote.shtml"
+        },
+        {
+          "url": "http://libserv4.rutgers.edu/mv/"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/reserve_services_users.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/faculty_services.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/ask_a_lib/authentication.shtml"
+        },
+        {
+          "url": "http://www.rucs.rutgers.edu/services/connected/index-body.html#dialup"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/find_an_article.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/find_a_book.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/connect_from_home.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/reg_pin.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/reg_pin.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/change_my_email_address.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/renew_my_checkouts.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/find_an_ereserve.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/subscribes.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/check_my_lib_record.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/request_materials.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/recall_a_book.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/order_an_ill.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/check_request_status.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/contact_a_librarian.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/lib_instruct_class.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/how_do_i/find_video_info.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/reg_pin.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/ask_a_lib/rucircdesks.shtml"
+        },
+        {
+          "url": "http://www.iris.rutgers.edu/uhtbin/cgisirsi/0/0/0/1/8/X"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/guest.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/borpriv.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/pub_serv_policies/pspm_01.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/pub_serv_policies/pspm_06.shtml"
+        },
+        {
+          "url": "http://www.iris.rutgers.edu/iris.html"
+        },
+        {
+          "url": "http://palci.library.pitt.edu/~ursa/RUL_login.html"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/indexes/search_guides/ingenta.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/media_title_request_nb.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/cgi-bin/IllPatron.pl"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/palci.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/ingenta.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/imaging_services.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/ill.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/ills_lending.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/media_request_booking_service.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/cable_cast.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/rutgers_delivery_service.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/web_doc_del_faq.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/pub_serv_policies/pspm_04.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/ask_a_lib/rurefdesks.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/ask_a_lib/ask_a_lib.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/collection_dir.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/e_ref_shelf/e_ref_shelf.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/ask_a_lib/ask_a_lib.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/pub_serv_policies/pspm_02.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/reserve_services_faculty.shtml#forms"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/reserve_services_faculty.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/reserve_services_users.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/media_title_request_nb.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/cable_cast.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/cable_cast.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/instruct_busch_1.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/instruct_camden_1.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/instruct_college_ave_1.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/instruct_cook_1.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/instruct_douglass_1.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/instruct_livingston_1.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/instruct_newark_1.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/instruct_other_1.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/collection_dir.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_instruct/instruct_coord.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/collection_dir.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/pub_serv_policies/pspm_06.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/lib_servs/delivery.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/research_guides/copyright/copyright.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/libs/libs.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/directories.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/about/libdocs.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/dig_lib_projs/dig_lib_projs.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/friends/friends.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/staff/staff.html"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/alumni/index.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/04/12_returns.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/04/12_recalls.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/04/10_myRU.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/04/10_flash_drives.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/04/10_3_new_guides.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/archive_04/2004_01_jazz_roundtables.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/exhibits/intersect/title_page.htm"
+        },
+        {
+          "url": "http://www2.scc.rutgers.edu/~triggs/WARD/Vertigo/"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/news.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/04/10_flash_drives.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/04/10_flash_drives.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/04/12_returns.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/news/04/12_recalls.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/staff/strategic_planning/strategic_planning.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/copyright/copyright.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/forms/webmaster.shtml"
+        },
+        {
+          "url": "http://www.libraries.rutgers.edu/rul/rr_gateway/research_guides/copyright/copyright.shtml"
+        }
+      ]
+    },
+    "metrics": {
+      "puppeteer": {
+        "Timestamp": 944286.737777,
+        "Documents": 3,
+        "Frames": 3,
+        "JSEventListeners": 55,
+        "Nodes": 2242,
+        "LayoutCount": 23,
+        "RecalcStyleCount": 29,
+        "LayoutDuration": 0.203841,
+        "RecalcStyleDuration": 0.02869,
+        "ScriptDuration": 0.175941,
+        "TaskDuration": 0.908784,
+        "JSHeapUsedSize": 3676480,
+        "JSHeapTotalSize": 5165056
+      }
+    }
+  },
+  "analysis": {
+    "lighthouse": {
+      "agent": {
+        "name": "Node.js/Lighthouse",
+        "description": "Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.",
+        "url": "https://github.com/GoogleChrome/lighthouse",
+        "version": "^6.4.1"
+      },
+      "data": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+        "environment": {
+          "networkUserAgent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.7 Mobile Safari/537.36 Chrome-Lighthouse",
+          "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+          "benchmarkIndex": 1251,
+          "credits": {
+            "axe-core": "3.5.5"
+          }
+        },
+        "lighthouseVersion": "6.4.1",
+        "fetchTime": "2021-03-04T02:07:56.628Z",
+        "requestedUrl": "http://web.archive.org/web/20041229135627/http://www.libraries.rutgers.edu:80/",
+        "finalUrl": "http://web.archive.org/web/20041229135627/http://www.libraries.rutgers.edu:80/",
+        "runWarnings": [],
+        "configSettings": {
+          "output": "json",
+          "maxWaitForFcp": 30000,
+          "maxWaitForLoad": 45000,
+          "throttlingMethod": "simulate",
+          "throttling": {
+            "rttMs": 150,
+            "throughputKbps": 1638.4,
+            "requestLatencyMs": 562.5,
+            "downloadThroughputKbps": 1474.5600000000002,
+            "uploadThroughputKbps": 675,
+            "cpuSlowdownMultiplier": 4
+          },
+          "auditMode": false,
+          "gatherMode": false,
+          "disableStorageReset": false,
+          "emulatedFormFactor": "mobile",
+          "internalDisableDeviceScreenEmulation": false,
+          "channel": "node",
+          "budgets": null,
+          "locale": "en-US",
+          "blockedUrlPatterns": null,
+          "additionalTraceCategories": null,
+          "extraHeaders": null,
+          "precomputedLanternData": null,
+          "onlyAudits": null,
+          "onlyCategories": [
+            "accessibility",
+            "best-practices",
+            "performance"
+          ],
+          "skipAudits": null
+        },
+        "categories": {
+          "performance": {
+            "title": "Performance",
+            "auditRefs": [
+              {
+                "id": "first-contentful-paint",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "speed-index",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "largest-contentful-paint",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "interactive",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "total-blocking-time",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "cumulative-layout-shift",
+                "weight": 5,
+                "group": "metrics"
+              },
+              {
+                "id": "first-cpu-idle",
+                "weight": 0
+              },
+              {
+                "id": "max-potential-fid",
+                "weight": 0
+              },
+              {
+                "id": "first-meaningful-paint",
+                "weight": 0
+              },
+              {
+                "id": "estimated-input-latency",
+                "weight": 0
+              },
+              {
+                "id": "render-blocking-resources",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-responsive-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "offscreen-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-css",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-css-rules",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-optimized-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-webp-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-text-compression",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preconnect",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "server-response-time",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "redirects",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preload",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-http2",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "efficient-animated-content",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "duplicated-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "legacy-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "total-byte-weight",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-long-cache-ttl",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "dom-size",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "critical-request-chains",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "user-timings",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "bootup-time",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "mainthread-work-breakdown",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "font-display",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "performance-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "timing-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "resource-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "third-party-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "largest-contentful-paint-element",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "layout-shift-elements",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-passive-event-listeners",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "no-document-write",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "long-tasks",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "non-composited-animations",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "unsized-images",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "network-requests",
+                "weight": 0
+              },
+              {
+                "id": "network-rtt",
+                "weight": 0
+              },
+              {
+                "id": "network-server-latency",
+                "weight": 0
+              },
+              {
+                "id": "main-thread-tasks",
+                "weight": 0
+              },
+              {
+                "id": "diagnostics",
+                "weight": 0
+              },
+              {
+                "id": "metrics",
+                "weight": 0
+              },
+              {
+                "id": "screenshot-thumbnails",
+                "weight": 0
+              },
+              {
+                "id": "final-screenshot",
+                "weight": 0
+              }
+            ],
+            "id": "performance",
+            "score": 0.91
+          },
+          "accessibility": {
+            "title": "Accessibility",
+            "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+            "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review).",
+            "auditRefs": [
+              {
+                "id": "accesskeys",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "aria-allowed-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-body",
+                "weight": 10,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-focus",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-input-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-children",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-parent",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-roles",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-toggle-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr-value",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "button-name",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "bypass",
+                "weight": 3,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "color-contrast",
+                "weight": 3,
+                "group": "a11y-color-contrast"
+              },
+              {
+                "id": "definition-list",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "dlitem",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "document-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "duplicate-id-active",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "duplicate-id-aria",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "form-field-multiple-labels",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "frame-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "heading-order",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "html-has-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "html-lang-valid",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "image-alt",
+                "weight": 10,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "input-image-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "label",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "layout-table",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "link-name",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "list",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "listitem",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "meta-refresh",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "meta-viewport",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "object-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "tabindex",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "td-headers-attr",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "th-has-data-cells",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "valid-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "video-caption",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "video-description",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "logical-tab-order",
+                "weight": 0
+              },
+              {
+                "id": "focusable-controls",
+                "weight": 0
+              },
+              {
+                "id": "interactive-element-affordance",
+                "weight": 0
+              },
+              {
+                "id": "managed-focus",
+                "weight": 0
+              },
+              {
+                "id": "focus-traps",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-labels",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-roles",
+                "weight": 0
+              },
+              {
+                "id": "visual-order-follows-dom",
+                "weight": 0
+              },
+              {
+                "id": "offscreen-content-hidden",
+                "weight": 0
+              },
+              {
+                "id": "use-landmarks",
+                "weight": 0
+              }
+            ],
+            "id": "accessibility",
+            "score": 0.83
+          },
+          "best-practices": {
+            "title": "Best Practices",
+            "auditRefs": [
+              {
+                "id": "is-on-https",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "external-anchors-use-rel-noopener",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "geolocation-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "notification-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "no-vulnerable-libraries",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "password-inputs-can-be-pasted-into",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-aspect-ratio",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-size-responsive",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "preload-fonts",
+                "weight": 0,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "doctype",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "charset",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "no-unload-listeners",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "appcache-manifest",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "js-libraries",
+                "weight": 0,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "deprecations",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "errors-in-console",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "valid-source-maps",
+                "weight": 0,
+                "group": "best-practices-general"
+              }
+            ],
+            "id": "best-practices",
+            "score": 0.64
+          }
+        }
+      }
+    },
+    "wappalyzer": {
+      "agent": {
+        "name": "Node.js/Wappalyzer",
+        "description": "Wappalyzer identifies technologies on websites, including content management systems, ecommerce platforms, JavaScript frameworks, analytics tools and much more.",
+        "url": "https://github.com/AliasIO/wappalyzer",
+        "version": "^6.3.12"
+      },
+      "data": {
+        "urls": {
+          "http://web.archive.org/web/20041229135627/http://www.libraries.rutgers.edu:80/": {
+            "status": 200
+          }
+        },
+        "technologies": [
+          {
+            "slug": "nginx",
+            "name": "Nginx",
+            "confidence": 100,
+            "version": "1.19.5",
+            "icon": "Nginx.svg",
+            "website": "http://nginx.org/en",
+            "cpe": "cpe:/a:nginx:nginx",
+            "categories": [
+              {
+                "id": 22,
+                "slug": "web-servers",
+                "name": "Web servers"
+              },
+              {
+                "id": 64,
+                "slug": "reverse-proxies",
+                "name": "Reverse proxies"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "builtwith": {
+      "agent": {
+        "name": "Node.js/Axios",
+        "description": "Promise based HTTP client for the browser and node.js",
+        "url": "https://github.com/axios/axios",
+        "version": "^0.21.0"
+      },
+      "url": "https://api.builtwith.com/v18/api.json?KEY=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&LOOKUP=http://web.archive.org/web/20041229135627/http://www.libraries.rutgers.edu:80/",
+      "response": {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+          "cache-control": "private",
+          "content-type": "application/json; charset=utf-8",
+          "server": "Microsoft-IIS/10.0",
+          "access-control-allow-origin": "*",
+          "x-api-credits-available": "5000",
+          "x-api-credits-used": "797",
+          "x-api-credits-remaining": "4203",
+          "x-ua-compatible": "IE=Edge,chrome=1",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "date": "Thu, 04 Mar 2021 02:08:15 GMT",
+          "connection": "close",
+          "content-length": "5701"
+        },
+        "data": {
+          "Results": [
+            {
+              "Result": {
+                "IsDB": "False",
+                "Spend": 0,
+                "Paths": [
+                  {
+                    "Technologies": [
+                      {
+                        "IsPremium": "no",
+                        "Name": "Javascript",
+                        "Description": "JavaScript is a scripting language most often used for client-side web development.",
+                        "Link": "http://en.wikipedia.org/wiki/JavaScript",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "UTF-8",
+                        "Description": "UTF-8 (8-bit UCS/Unicode Transformation Format) is a variable-length character encoding for Unicode. It is the preferred encoding for web pages.",
+                        "Link": "http://en.wikipedia.org/wiki/UTF-8",
+                        "Tag": "encoding",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Cascading Style Sheets",
+                        "Description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in a markup language. Its most common application is to style web pages written in HTML ",
+                        "Link": "http://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_TITLE",
+                        "Description": "SEO Title",
+                        "Link": "",
+                        "Tag": "seo_title",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "ISO/IEC 8859",
+                        "Description": "ISO 8859, more formally ISO/IEC 8859, is a joint ISO and IEC standard for 8-bit character encodings for use by computers. The standard is divided into numbered, separately published parts, such as ISO/IEC 8859-1, ISO/IEC 8859-2, etc., each of which may be informally referred to as a standard in itself. There are currently 15 parts as of 2006 excluding the abandoned ISO/IEC 8859-12 standard.",
+                        "Link": "http://en.wikipedia.org/wiki/ISO_8859",
+                        "Tag": "encoding",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Meta Description",
+                        "Description": "The description attribute provides a concise explanation of the page content.",
+                        "Link": "http://en.wikipedia.org/wiki/Meta_tag#The_description_attribute",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_META_DESCRIPTION",
+                        "Description": "SEO Meta Description",
+                        "Link": "http://builtwith.com",
+                        "Tag": "seo_meta",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Meta Keywords",
+                        "Description": "Meta tag containing keywords related to the page.",
+                        "Link": "http://en.wikipedia.org/wiki/Meta_tag#The_keywords_attribute",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_META_KEYWORDS",
+                        "Description": "SEO Meta Keywords",
+                        "Link": "http://builtwith.com",
+                        "Tag": "seo_meta",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "srcset",
+                        "Description": "Adapting images for high-resolution and low-resolution displays.",
+                        "Link": "http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "HTML 5 Specific Tags",
+                        "Description": "This page contains tags that are specific to an HTML 5 implementation.",
+                        "Link": "http://dev.w3.org/html5/html-author/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "IFrame",
+                        "Description": "The page shows content with an iframe; an embedded frame that loads another webpage.",
+                        "Link": "http://www.w3schools.com/tags/tag_iframe.asp",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "PHP",
+                        "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                        "Link": "http://www.php.net",
+                        "Tag": "framework",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Content Security Policy",
+                        "Description": "Content Security Policy is a computer security concept, to prevent cross-site scripting XSS attacks.",
+                        "Link": "http://en.wikipedia.org/wiki/Content_Security_Policy",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Apache",
+                        "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                        "Link": "http://httpd.apache.org/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "Parent": "Apache",
+                        "IsPremium": "no",
+                        "Name": "Apache 1.3",
+                        "Description": "Apache version 1.3.*",
+                        "Link": "http://httpd.apache.org/docs/1.3",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Unix",
+                        "Description": "A *nix based operating system (undisclosed).",
+                        "Link": "",
+                        "Tag": "Server",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "nginx",
+                        "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                        "Link": "http://nginx.net/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614823695618,
+                        "LastDetected": 1614823695618
+                      }
+                    ],
+                    "FirstIndexed": 1614823695618,
+                    "LastIndexed": 1614823695618,
+                    "Domain": "web.archive.org/web/20041229135627/libraries.rutgers.edu:80/",
+                    "Url": "web/20041229135627/libraries.rutgers.edu:80/",
+                    "SubDomain": "web.archive.org"
+                  }
+                ]
+              },
+              "Meta": {
+                "Majestic": 0,
+                "Umbrella": 0,
+                "Vertical": "",
+                "Social": null,
+                "CompanyName": null,
+                "Telephones": null,
+                "Emails": [],
+                "City": null,
+                "State": null,
+                "Postcode": null,
+                "Country": null,
+                "Names": null,
+                "ARank": 0,
+                "QRank": 0
+              },
+              "Attributes": {
+                "MJRank": 0,
+                "MJTLDRank": 0,
+                "RefSN": 0,
+                "RefIP": 0,
+                "TTFB": 0,
+                "Sitemap": 0,
+                "GTMTags": 0,
+                "QubitTags": 0,
+                "TealiumTags": 0,
+                "AdobeTags": 0,
+                "CDimensions": 0,
+                "CGoals": 0,
+                "CMetrics": 0,
+                "SourceBytes": 0
+              },
+              "FirstIndexed": 1614823695618,
+              "LastIndexed": 1614823695618,
+              "Lookup": "web.archive.org/web/20041229135627/libraries.rutgers.edu:80/",
+              "SalesRevenue": 0
+            }
+          ],
+          "Errors": []
+        }
+      }
+    },
+    "analyzecss": {
+      "agent": {
+        "name": "Node.js/analyze-css",
+        "description": "CSS selectors complexity and performance analyzer.",
+        "url": "https://github.com/macbre/analyze-css",
+        "version": "^0.12.12",
+        "note": "These statistics are for an aggregate of all stylesheets in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "base64Length": 0,
+        "redundantBodySelectors": 0,
+        "redundantChildNodesSelectors": 0,
+        "colors": 15,
+        "comments": 62,
+        "commentsLength": 2639,
+        "complexSelectors": 30,
+        "duplicatedSelectors": 0,
+        "duplicatedProperties": 2,
+        "emptyRules": 0,
+        "expressions": 0,
+        "oldIEFixes": 0,
+        "imports": 1,
+        "importants": 0,
+        "mediaQueries": 0,
+        "notMinified": 1,
+        "multiClassesSelectors": 0,
+        "parsingErrors": 0,
+        "oldPropertyPrefixes": 0,
+        "propertyResets": 0,
+        "qualifiedSelectors": 162,
+        "specificityIdAvg": 0.07,
+        "specificityIdTotal": 15,
+        "specificityClassAvg": 2.03,
+        "specificityClassTotal": 467,
+        "specificityTagAvg": 2.9,
+        "specificityTagTotal": 666,
+        "selectors": 230,
+        "selectorLengthAvg": 3.0217391304347827,
+        "selectorsByAttribute": 0,
+        "selectorsByClass": 176,
+        "selectorsById": 15,
+        "selectorsByPseudo": 291,
+        "selectorsByTag": 666,
+        "length": 33528,
+        "rules": 212,
+        "declarations": 963
+      }
+    },
+    "escomplex": {
+      "agent": {
+        "name": "Node.js/escomplex",
+        "description": "Software complexity analysis of JavaScript abstract syntax trees.",
+        "url": "https://github.com/escomplex/escomplex",
+        "version": "^2.0.0-alpha",
+        "note": "These statistics are for an aggregate of all scripts in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "maintainability": 108.32932469896224,
+        "effort": 5701.573311888617,
+        "sloc": {
+          "logical": 142,
+          "physical": 197
+        },
+        "cyclomatic": 30,
+        "halstead": {
+          "operators": {
+            "distinct": 23,
+            "total": 488
+          },
+          "operands": {
+            "distinct": 116,
+            "total": 569
+          },
+          "length": 1057,
+          "vocabulary": 139,
+          "difficulty": 56.40948275862068,
+          "volume": 7524.720713868747,
+          "effort": 424465.603372415,
+          "bugs": 2.508240237956249,
+          "time": 23581.422409578612
+        },
+        "params": 23,
+        "line": 10,
+        "cyclomaticDensity": 21.12676056338028
+      }
+    }
+  }
+}

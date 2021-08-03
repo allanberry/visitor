@@ -1,0 +1,1498 @@
+{
+  "id": "edu_uic_library_3755366938_20090720015749",
+  "url": "https://library.uic.edu/",
+  "date_accessed": "2021-03-04T02:20:01Z",
+  "wayback": {
+    "date_available": "2009-07-20T01:57:49Z",
+    "url_raw": "http://web.archive.org/web/20090720015749id_/http://library.uic.edu:80/",
+    "url_rendered": "http://web.archive.org/web/20090720015749/http://library.uic.edu:80/"
+  },
+  "agent": {
+    "name": "Apato (Visitor)",
+    "url": "https://github.com/allanberry/apato",
+    "version": "1.0.0b",
+    "creator": "Allan Berry <allan.berry@gmail.com>"
+  },
+  "client": {
+    "ip": "98.206.145.7",
+    "geo": {
+      "range": [
+        1657704448,
+        1657706495
+      ],
+      "country": "US",
+      "region": "IL",
+      "eu": "0",
+      "timezone": "America/Chicago",
+      "city": "Chicago",
+      "ll": [
+        41.804,
+        -87.707
+      ],
+      "metro": 602,
+      "area": 5
+    }
+  },
+  "raw": {
+    "agent": {
+      "name": "Node.js/Axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "url": "https://github.com/axios/axios",
+      "version": "^0.21.0"
+    },
+    "title": "Home - UIC Library",
+    "response": {
+      "description": "Selected data from the response.",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "server": "nginx/1.19.5",
+        "date": "Thu, 04 Mar 2021 02:20:04 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "transfer-encoding": "chunked",
+        "connection": "close",
+        "x-archive-orig-date": "Mon, 20 Jul 2009 01:57:39 GMT",
+        "x-archive-orig-server": "Apache/2.0",
+        "x-archive-orig-last-modified": "Sun, 05 Jul 2009 17:36:35 GMT",
+        "x-archive-orig-cache-control": "must-revalidate, max-age=1",
+        "x-archive-orig-set-cookie": "wgSession=duTqxIG6eQZ_T5Ebx9vPGw; path=/; expires=Thu, 18-Jul-2019 01:57:39 GMT",
+        "x-archive-orig-connection": "close",
+        "cache-control": "max-age=1800",
+        "memento-datetime": "Mon, 20 Jul 2009 01:57:49 GMT",
+        "link": "<http://library.uic.edu:80/>; rel=\"original\", <http://web.archive.org/web/timemap/link/http://library.uic.edu:80/>; rel=\"timemap\"; type=\"application/link-format\", <http://web.archive.org/web/http://library.uic.edu:80/>; rel=\"timegate\", <http://web.archive.org/web/20090720015749/http://library.uic.edu:80/>; rel=\"first memento\"; datetime=\"Mon, 20 Jul 2009 01:57:49 GMT\", <http://web.archive.org/web/20090720015749/http://library.uic.edu:80/>; rel=\"memento\"; datetime=\"Mon, 20 Jul 2009 01:57:49 GMT\", <http://web.archive.org/web/20090803072248/http://library.uic.edu:80/>; rel=\"next memento\"; datetime=\"Mon, 03 Aug 2009 07:22:48 GMT\", <http://web.archive.org/web/20210201192441/https://library.uic.edu/>; rel=\"last memento\"; datetime=\"Mon, 01 Feb 2021 19:24:41 GMT\"",
+        "content-security-policy": "default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org",
+        "x-archive-src": "51_10_20090719154944_crawl101.gpg-c/51_10_20090720015727_crawl102.arc.gz",
+        "server-timing": "exclusion.robots;dur=0.218290, captures_list;dur=1212.853849, LoadShardBlock;dur=1154.343910, RedisCDXSource;dur=6.910579, PetaboxLoader3.datanode;dur=1387.283410, esindex;dur=0.017759, PetaboxLoader3.resolve;dur=47.943230, exclusion.robots.policy;dur=0.202616, CDXLines.iter;dur=34.986475, load_resource;dur=314.545587",
+        "x-app-server": "wwwb-app104",
+        "x-ts": "200",
+        "x-tr": "1554",
+        "x-location": "All",
+        "x-cache-key": "httpweb.archive.org/web/20090720015749id_/http://library.uic.edu:80/US",
+        "x-rl": "0",
+        "x-na": "0",
+        "x-page-cache": "MISS",
+        "x-nid": "-"
+      }
+    },
+    "structure": {
+      "aggregate": {
+        "elementQty": 243,
+        "length": 16472
+      }
+    }
+  },
+  "rendered": {
+    "agent": {
+      "name": "Node.js/Puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "version": "^5.4.1",
+      "browser": "HeadlessChrome/87.0.4272.0"
+    },
+    "title": "Home - UIC Library",
+    "screenshots": [
+      "v1_0/edu_uic_library_3755366938_20090720015749/w320.png",
+      "v1_0/edu_uic_library_3755366938_20090720015749/w640.png",
+      "v1_0/edu_uic_library_3755366938_20090720015749/w1280.png"
+    ],
+    "structure": {
+      "data": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-US\" lang=\"en-US\"><head>\n\n\n\n\n\n\n\n<title>Home - UIC Library</title>\n\n\n<meta name=\"generator\" content=\"WebGUI 7.5.27\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n<meta http-equiv=\"Content-Script-Type\" content=\"text/javascript\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<script type=\"text/javascript\">\nfunction getWebguiProperty (propName) {\nvar props = new Array();\nprops[\"extrasURL\"] = \"/extras/\";\nprops[\"pageURL\"] = \"/home\";\nreturn props[propName];\n}\n</script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://library.uic.edu/libdesign/css/lib/compressed.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://library.uic.edu/libdesign/css/lib/blueprint.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://library.uic.edu/libdesign/css/master.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://library.uic.edu/libdesign/css/home.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://library.uic.edu/libdesign/css/search_panel.css\">\n\n<!--[if IE]>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/libdesign/css/lib/ie.css\" />\n  <![endif]-->\n\n  <!--[if IE 7]>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"/libdesign/css/ie7.css\" />\n  <![endif]-->\n\n  <!--[if IE 6]>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"/libdesign/css/ie6.css\" />\n  <![endif]-->\n\n\n<script type=\"text/javascript\">\n  // This function is called during the form submit to set required cookies\n  function setForm()\n  {\n    var sCookieText = '';    \n    sCookieText += document.wfqsform.wf_field1.value + \":\";    \n    document.cookie = 'wf_search_structure=' + sCookieText + '; Path=/';      \n    document.cookie = 'wf_selected_databases=' + document.wfqsform.Databases.value + '; Path=/';\n  }\n  </script>\n\n\n\n\n<meta http-equiv=\"Cache-Control\" content=\"must-revalidate\">\n</head>\n\n<body id=\"home\">\n\n\n\n\n<!--\n<h2 class=\"invisibleNavHeading\">Skip Navigation</h2>\n<ul class=\"skipList\">\n<li class=\"skip\"><a href=\"#cont\" id=\"skipnav\">Skip navigation.</a></li>\t\t\t\t\t\t\t</ul>-->\n<div id=\"wrapper\" class=\"container\">\n\n<h2 class=\"invisibleNavHeading\">Main Navigation</h2>   \n\n<ol id=\"nav\" class=\"span-10\">\n\n    <li><a class=\"first selected\" href=\"http://library.uic.edu/\">Home</a></li>\n    <li><a href=\"http://library.uic.edu/home/services\">Services</a></li>\n    <li><a href=\"http://library.uic.edu/home/collections\">Collections</a></li>\n    <li><a href=\"http://library.uic.edu/home/about-us\">About Us</a></li>\n\n</ol><!-- end ol#nav -->\n\n<div id=\"crumbs\" class=\"container\">\n\n<h2 class=\"invisibleNavHeading\">Disability services navigation</h2>\n<ul class=\"span-5\">\n<li><a href=\"https://i-share.carli.illinois.edu/uic/vwebv/myAccount\">My Account</a></li>\n<li class=\"last\"><a href=\"http://library.uic.edu/home/services/disability-services\">Disability Services</a></li>\n</ul>\n<h2 class=\"invisibleNavHeading\">Contact a librarian and site search navigation</h2>\n<ul class=\"span-5 last\">\n<li id=\"ask_a_librarian\"><a href=\"http://library.uic.edu/home/services/ask-a-librarian\">Ask a Librarian</a></li>\n<li class=\"last\"><a href=\"http://www.google.com/coop/cse?cx=012903926162132076264:eynqxwluqwk\">Site Search</a>\n</li>\n\n</ul>\n</div>      \n\n<div id=\"content\" class=\"container\">\n\n<div id=\"main\">\n      <img id=\"logo\" src=\"http://library.uic.edu/uploads/IK/BJ/IKBJxbxx9ENj9_1BKp0iOg/library_logo.gif\" alt=\"University of Illinois at Chicago University Library\">\n\n<h1 class=\"title\">Home</h1>\n \n<div id=\"main_copy\">  \n<p>Children marching in a Back to School <br>parade, c. 1970. Chicago Urban League Records, 1916 - 2000, UIC Library</p>\n      <p>» <a href=\"http://www.uic.edu/depts/lib/specialcoll/services/rjd/findingaids/CULR-Mainf.html\">Learn More</a></p>\n    </div>  \n\n\n<div id=\"tabs_container\">\n<a name=\"cont\">&nbsp;</a>\n  <ul class=\"tabs\">\n    <li><a id=\"catalog\" class=\"selected\" href=\"#\">Books and More</a></li>\n    <li><a id=\"articles\" href=\"#\">Articles</a></li>\n    <li><a id=\"journals\" href=\"#\">E-journals</a></li>\n    <li><a id=\"website\" href=\"#\">WorldCat Local</a></li>\n  </ul>\n</div>    \n\n<div id=\"search_panel\">\n<!--<form action=\"http://i-share.carli.illinois.edu/UIC/cgi-bin/Pwebrecon.cgi\" id=\"search_catalog\" method=\"get\">-->\n<form action=\"https://i-share.carli.illinois.edu/uic/vwebv/search\" id=\"search_catalog\" method=\"get\">\n\n<fieldset>\n\t<input type=\"hidden\" name=\"sk\" value=\"en_US\">\n\t<input type=\"hidden\" name=\"recCount\" value=\"50\">\n\t<input type=\"hidden\" name=\"searchType\" value=\"1\"> \n\t<!--<input type=\"hidden\" name=\"limitTo\" value=\"none\" />-->\n\t<label for=\"searchFor\" class=\"invisibleLabel\">Search Terms</label>\n\t<input type=\"text\" name=\"searchArg\" id=\"searchFor\" size=\"20\" maxlength=\"100\"> \n\t<label for=\"searchCode\" class=\"invisibleLabel\">Select Search Options</label>\n\t<select name=\"searchCode\" id=\"searchCode\">\n\t<option value=\"FT*\">Any Word Anywhere</option>\n\t<option value=\"TALL\">Title</option>\n\t<option value=\"JALL\">Journal/Magazine Title</option>\n\t<option value=\"NAME+\">Author</option>\n\t<option value=\"SUBJ+\">Subject Heading</option>\n\t<!--<option value=\"CMD\">Boolean Search</option>-->\n\t<option value=\"CALL+\">Call Number</option>\n\t</select>\n\n<br>\n<input class=\"submit\" type=\"submit\" value=\"Search\">\n<p>Search for books, journals, films, maps and more</p>\n<!--<a id=\"advanced\" href=\"https://i-share.carli.illinois.edu/uic/cgi-bin/Pwebrecon.cgi?PAGE=bbSearch&amp;SEQ\">Advanced Search</a>-->\n<a id=\"advanced\" href=\"https://i-share.carli.illinois.edu/uic/vwebv/searchAdvanced\">Advanced Search</a>\n</fieldset>\n\n<!--<input type=\"hidden\" name=\"DB\" value=\"local\" />\n<input type=\"hidden\" name=\"CNT\" value=\"20\" />-->\n<!--<input name=\"Search_Arg\" id=\"searchTerms\" value=\"\" onclick=\"document.querybox.Search_Arg.value='';\" />-->\n</form> <!-- end form#journals -->\n\n<form action=\"http://wfxsearch.webfeat.org/wfsearch/search\" method=\"post\" id=\"search_articles\">\n    <fieldset>\n    <!-- The following hidden fields are required to search WebFeat  -->\n    <input type=\"hidden\" name=\"Databases\" value=\"wf_ln_xml_mag,wf_wok_all,wf_pubmed,wf_ebscoxml_aph,wf_jstorage\">\n    <input type=\"hidden\" name=\"Client_ID\" value=\"10820\">\n    <input type=\"hidden\" name=\"Command\" value=\"Search\">\n    <input type=\"hidden\" name=\"noserial\" value=\"1\">\n    <input type=\"hidden\" name=\"wf_all_years\" value=\"yes\">\n    <input type=\"hidden\" name=\"wf_codeset\" value=\"utf-8\">\n    <input type=\"hidden\" name=\"wf_field1\" value=\"wf_all\">\n    <input type=\"hidden\" name=\"useSessions\" value=\"1\">\n    <input type=\"hidden\" name=\"rtmpl\" value=\"wfx_ui2.jsp\">    \n    <input type=\"hidden\" name=\"format\" value=\"JS\">    \n        \n <label for=\"wfQueryTerm\" class=\"invisibleLabel\">Search Terms</label>\n <input type=\"text\" name=\"wf_term1\" id=\"wfQueryTerm\" size=\"20\" value=\"\">\n <input class=\"submit\" type=\"submit\" value=\"Search\" onclick=\"setForm();\">\n <p>Search <a href=\"http://library.uic.edu/home/articles#preSelectedArticleSearch\">3 pre-selected databases</a> all at once</p>\n<ul>\n              <li>For more databases, <a href=\"http://researchguides.uic.edu/databases\">browse the A-Z list</a> or <a href=\"http://researchguides.uic.edu/\">research guides</a>.</li>\n<li>More ways to <a href=\"http://library.uic.edu/home/articles\">find articles</a>.</li>\n</ul>\n\n</fieldset>  \n</form><!-- end form#articles -->\n\n<form action=\"http://hz9pj6fe4t.search.serialssolutions.com/\" id=\"search_journals\">\n          <fieldset>\n<input type=\"hidden\" name=\"V\" value=\"1.0\">\n\t\t<input type=\"hidden\" name=\"L\" value=\"HZ9PJ6FE4T\">\n<label for=\"serSolSearchCode\" class=\"invisibleLabel\">Select Search Options</label>\n\t\t<select name=\"S\" id=\"serSolSearchCode\">\n\t\t\t<option value=\"AC_T_B\">Title begins with</option>\n\t\t\t<option value=\"AC_T_M\">Title equals</option>\n\t\t\t<option value=\"T_W_A\">Title contains all words</option>\n\t\t\t<option value=\"I_M\">ISSN equals</option>\n\t\t</select>\n<label for=\"serSolQueryTerm\" class=\"invisibleLabel\">Search Terms</label>\n\t\t<input type=\"text\" name=\"C\" id=\"serSolQueryTerm\" value=\"\"><br>\n\t\t<input class=\"submit\" type=\"submit\" value=\"Search\"><br>\n<p>Find print journals using the <a href=\"https://i-share.carli.illinois.edu/uic/vwebv/searchBasic?sk=en_US\">Library Catalog</a></p>\n\n          </fieldset>\n </form><!-- end form#journals -->\n        \n\n<!-- WorldCat Local panel -->\n<form id=\"search_website\" method=\"get\" accept-charset=\"UTF-8\" action=\"http://uiclibrary.worldcat.org/search\" style=\"margin: 0;\">\n<fieldset>\n<label for=\"q\" class=\"invisibleLabel\">Search Terms</label>\n<input type=\"text\" name=\"q\" id=\"q\" value=\"\">\n<input class=\"submit\" type=\"submit\" value=\"Search\" name=\"wcsbtn2w\" id=\"wcsbtn2w\" alt=\"Search\" title=\"Search\">\n<label for=\"scope\" class=\"invisibleLabel\">Select search limit</label>\n<select name=\"scope\" id=\"scope\" class=\"pulldown\">\n\t<option value=\"0\" disabled=\"disabled\"></option>\n\t<option value=\"0\" selected=\"selected\">Libraries Worldwide (WorldCat)</option>\n\t<option value=\"1\">Other Illinois Libraries</option>\n\t<option value=\"2\">I-Share Libraries</option>\n\t<option value=\"3\">University of Illinois at Chicago Library</option>\n</select>\n<input type=\"hidden\" name=\"oldscope\" value=\"0\">\n<input type=\"hidden\" name=\"qt\" value=\"wc_org_uiclibrary\">\n<a href=\"http://uiclibrary.worldcat.org/advancedsearch\">Advanced Search</a>\n<p>Find books and more owned by UIC and thousands of other libraries</p>\n<img src=\"http://www.worldcat.org/searchbox/images/wclocal_srchwc.gif?ai=wclocal_uiclibrary\" width=\"104\" height=\"16\" alt=\"Search with WorldCat\" title=\"Search with WorldCat\">\n</fieldset>\n</form><!-- end form#website -->\n\n<!-- 20090609 rjs commented out for WCL interface -->\n<!--<form id=\"search_website\" action=\"http://www.google.com/cse\">\n          <fieldset>\n    <input type=\"hidden\" name=\"cx\" value=\"012903926162132076264:eynqxwluqwk\" />\n    <input type=\"hidden\" name=\"ie\" value=\"UTF-8\" />\n<label for=\"siteSearchQueryTerm\" class=\"invisibleLabel\">Search Terms</label>\n    <input type=\"text\" name=\"q\" id=\"siteSearchQueryTerm\" size=\"31\" />\n    <input class=\"submit\" type=\"submit\" name=\"sa\" value=\"Search\" />\n            <p>This search looks for text on the UIC University Library web pages, including:</p>\n            <ul>\n\n              <li>The Library's web site,</li>\n              <li>Research guides, and</li>\n              <li>Library News</li>\n            </ul>\n          </fieldset>\n  </form>--><!-- end form#website -->\n\n\n        <ol>\n          <li>» <a href=\"http://researchguides.uic.edu/databases\">Databases A-Z</a></li>\n\n          <li>» <a href=\"http://researchguides.uic.edu/\">Research Guides</a></li>\n          <li>» <a href=\"http://researchguides.uic.edu/reference\">Dictionaries, Encyclopedias and More</a></li>\n          <li>» <a href=\"https://i-share.carli.illinois.edu/uic/vwebv/enterCourseReserve.do\">Course Reserves</a></li>\n\t<!--<li>&#187; <a href=\"http://vufind.carli.illinois.edu/vf-uic/\">VuFind catalog search</a></li>\n\t <li>&#187; <a href=\"http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?otool=uiclib\">PubMed</a></li>-->\n        </ol>\n\n </div><!-- end div#search_panel -->\n\n <div id=\"news_feed\">\n        <dl>\n          <dt>Latest News:</dt>\n          <dd class=\"blurb\"><a href=\"http://rivendell.lib.uic.edu/news/2009/06/29/new-library-web-site-launches-july-4/\">New Library Website Launches July 4</a></dd>\n        <dd><a href=\"http://rivendell.lib.uic.edu/news/category/front-page\">View all news</a></dd>\n        </dl>\n\n      </div><!-- end div#news_feed -->\n\n\n      <div id=\"links_panel\">\n        <div class=\"column\">\n          <h2>Services</h2>\n\n          <ul>\n            <li><a href=\"http://library.uic.edu/home/services/borrow-and-renew\">Borrow &amp; Renew</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/services/research-help\">Research Help</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/services/computing\">Computing</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/services/instruction-and-workshops\">Instruction &amp; Workshops</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/services/interlibrary-loan-and-article-delivery\">Interlibrary Loan,</a></li>\n            <li><a href=\"http://library.uic.edu/home/services\" class=\"more\">More Services</a></li>\n          </ul>\n        </div><!-- end div.services -->\n\n        <div class=\"column\">\n          <h2>Collections</h2>\n\n          <ul>\n            <li><a href=\"http://library.uic.edu/home/collections/books\">Books</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/collections/images\">Images</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/collections/maps-and-geographic-information-systems\">Maps &amp; GIS</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/collections/government-information\">Government Information</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/collections/journals\">Journals</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/collections/manuscripts-and-rare-books\">Manuscripts &amp; Rare Books</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/collections/health-sciences-clinical-tools\">Clinical Tools</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/collections\" class=\"more\">More Collections</a></li>\n          </ul>\n        </div><!-- end div.collections -->\n\n        <div class=\"column last\">\n          <h2>About Us</h2>\n\n          <ul>\n            <li><a href=\"http://library.uic.edu/home/about-us/libraries\">Libraries</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/about-us/employment\">Employment</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/about-us/contact-us\">Contact Us</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/about-us/library-faculty-research\">Library Faculty Research</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/about-us/news-and-events\">News &amp; Events</a>,</li>\n            <li><a href=\"http://library.uic.edu/home/about-us\" class=\"more\">More About Us</a></li>\n          </ul>\n        </div><!-- end div.about -->\n      </div><!-- end div#links_panel -->\n    </div><!-- end div#main -->\n\n <div class=\"sidebar\">\n      <h2>Libraries</h2>\n\n      <ol>\n        <li><a href=\"http://library.uic.edu/daley\">Richard J. Daley Library</a></li>\n        <li><a href=\"http://library.uic.edu/science\">Science Library</a></li>\n\t<!--<li>Library of the Health Sciences\n\t\t<ol>\n\t\t\t<li><a href=\"/lhs-chicago\">Chicago</a></li>\n\t\t\t<li><a href=\"/lhs-peoria\">Peoria</a></li>\n\t\t\t<li><a href=\"/clhs-rockford\">Crawford Library - Rockford</a></li>\n\t\t\t<li><a href=\"/lhs-urbana\">Urbana</a></li>\n\t\t</ol>\n\t</li>-->\n        <li><a href=\"http://library.uic.edu/lhs-chicago\">Health Sciences Library - Chicago</a></li>\n        <li><a href=\"http://library.uic.edu/lhs-peoria\">Health Sciences Library - Peoria</a></li>\n        <li><a href=\"http://library.uic.edu/clhs-rockford\">Health Sciences Library - Rockford</a></li>\n        <li><a href=\"http://library.uic.edu/lhs-urbana\">Health Sciences Library - Urbana</a></li>\n      </ol>\n\n      <h2>Other Topics</h2>\n\n      <ol>\n        <li><a href=\"http://library.uic.edu/home/about-us/library-it-assessment\">Library/IT Assessment</a></li>\n        <li><a href=\"http://library.uic.edu/home/about-us/giving-to-the-library\">Gifts &amp; Donations</a></li>\n      </ol>\n\n<br>\n<br>\n<div id=\"landingBrilliantFutures\">\n      <!--<a href=\"http://www.brilliantfutures.uic.edu/\"><img src=\"/uploads/NR/qK/NRqK9zFWIbTFWL17Xv3ZUg/campaignbanner.jpg\" alt=\"Brilliant Futures: The campaign for the University of Illinois at Chicago\" title=\"Brilliant Futures\" width=\"123\" height=\"125\" /></a>-->\n      <a href=\"http://www.brilliantfutures.uic.edu/\"><img src=\"http://library.uic.edu/uploads/cy/ho/cyhoVdSVHiiSBO0pFDJOLw/brilliant_futures.jpg\" alt=\"Brilliant Futures: The campaign for the University of Illinois at Chicago\" title=\"Brilliant Futures\"></a>\n</div>\n    </div><!-- end div#sidebar -->\n  </div><!-- end div#content -->\n\n <div id=\"footer\" class=\"span-10 last\">\n\t\t    <a href=\"http://www.uic.edu/\"><img src=\"http://library.uic.edu/uploads/Kt/5y/Kt5yd1XCPi-CvX8U5li07w/uic_home.gif\" alt=\"UIC Home\"></a>\n\t\t    <p>Copyright © 2008 The Board of Trustees of the University of Illinois. </p>\n\t\t    <ol>\n      <li><a href=\"http://library.uic.edu/home/about-us/contact-us\">Contact us</a> | </li>\n\n      <li><a href=\"http://www.vpaa.uillinois.edu/policies/web_privacy.asp?bch=1\">Web Privacy Notice</a> | </li>\n      <li>Having problems accessing this site? \n      <a href=\"http://library.uic.edu/home/user-support\">Contact user support.</a></li>\n\t\t\t</ol>\n\n\t\t  </div><!-- end div#footer -->\n\n</div><!-- end div.container -->\n\n\n<script type=\"text/javascript\" src=\"http://library.uic.edu/libdesign/js/search_panel.js\"></script>\n<script type=\"text/javascript\" src=\"http://library.uic.edu/libdesign/js/equalizer.js\"></script>\n\n\n\n\n\n\n</body></html>",
+      "aggregate": {
+        "length": 16718
+      }
+    },
+    "styles": {
+      "list": [
+        {
+          "type": "external",
+          "url": "http://library.uic.edu/libdesign/css/lib/compressed.css",
+          "length": 7045
+        },
+        {
+          "type": "external",
+          "url": "http://library.uic.edu/libdesign/css/lib/blueprint.css",
+          "length": 5587
+        },
+        {
+          "type": "external",
+          "url": "http://library.uic.edu/libdesign/css/master.css",
+          "length": 8315
+        },
+        {
+          "type": "external",
+          "url": "http://library.uic.edu/libdesign/css/home.css",
+          "length": 1606
+        },
+        {
+          "type": "external",
+          "url": "http://library.uic.edu/libdesign/css/search_panel.css",
+          "length": 3555
+        },
+        {
+          "type": "inline",
+          "length": 178
+        }
+      ],
+      "aggregate": {
+        "length": 26286
+      }
+    },
+    "scripts": {
+      "list": [
+        {
+          "type": "external",
+          "url": "http://library.uic.edu/libdesign/js/search_panel.js",
+          "length": 1274
+        },
+        {
+          "type": "external",
+          "url": "http://library.uic.edu/libdesign/js/equalizer.js",
+          "length": 1736
+        },
+        {
+          "type": "internal",
+          "selector": "html>head>script:nth-of-type(1)",
+          "length": 153
+        },
+        {
+          "type": "internal",
+          "selector": "html>head>script:nth-of-type(2)",
+          "length": 378
+        }
+      ],
+      "aggregate": {
+        "length": 3028
+      }
+    },
+    "anchors": {
+      "list": [
+        {
+          "url": "http://library.uic.edu/"
+        },
+        {
+          "url": "http://library.uic.edu/home/services"
+        },
+        {
+          "url": "http://library.uic.edu/home/collections"
+        },
+        {
+          "url": "http://library.uic.edu/home/about-us"
+        },
+        {
+          "url": "https://i-share.carli.illinois.edu/uic/vwebv/myAccount"
+        },
+        {
+          "url": "http://library.uic.edu/home/services/disability-services"
+        },
+        {
+          "url": "http://library.uic.edu/home/services/ask-a-librarian"
+        },
+        {
+          "url": "http://www.google.com/coop/cse?cx=012903926162132076264:eynqxwluqwk"
+        },
+        {
+          "url": "http://www.uic.edu/depts/lib/specialcoll/services/rjd/findingaids/CULR-Mainf.html"
+        },
+        {
+          "url": ""
+        },
+        {
+          "url": "http://library.uic.edu:80/#"
+        },
+        {
+          "url": "http://library.uic.edu:80/#"
+        },
+        {
+          "url": "http://library.uic.edu:80/#"
+        },
+        {
+          "url": "http://library.uic.edu:80/#"
+        },
+        {
+          "url": "https://i-share.carli.illinois.edu/uic/vwebv/searchAdvanced"
+        },
+        {
+          "url": "http://library.uic.edu/home/articles#preSelectedArticleSearch"
+        },
+        {
+          "url": "http://researchguides.uic.edu/databases"
+        },
+        {
+          "url": "http://researchguides.uic.edu/"
+        },
+        {
+          "url": "http://library.uic.edu/home/articles"
+        },
+        {
+          "url": "https://i-share.carli.illinois.edu/uic/vwebv/searchBasic?sk=en_US"
+        },
+        {
+          "url": "http://uiclibrary.worldcat.org/advancedsearch"
+        },
+        {
+          "url": "http://researchguides.uic.edu/databases"
+        },
+        {
+          "url": "http://researchguides.uic.edu/"
+        },
+        {
+          "url": "http://researchguides.uic.edu/reference"
+        },
+        {
+          "url": "https://i-share.carli.illinois.edu/uic/vwebv/enterCourseReserve.do"
+        },
+        {
+          "url": "http://rivendell.lib.uic.edu/news/2009/06/29/new-library-web-site-launches-july-4/"
+        },
+        {
+          "url": "http://rivendell.lib.uic.edu/news/category/front-page"
+        },
+        {
+          "url": "http://library.uic.edu/home/services/borrow-and-renew"
+        },
+        {
+          "url": "http://library.uic.edu/home/services/research-help"
+        },
+        {
+          "url": "http://library.uic.edu/home/services/computing"
+        },
+        {
+          "url": "http://library.uic.edu/home/services/instruction-and-workshops"
+        },
+        {
+          "url": "http://library.uic.edu/home/services/interlibrary-loan-and-article-delivery"
+        },
+        {
+          "url": "http://library.uic.edu/home/services"
+        },
+        {
+          "url": "http://library.uic.edu/home/collections/books"
+        },
+        {
+          "url": "http://library.uic.edu/home/collections/images"
+        },
+        {
+          "url": "http://library.uic.edu/home/collections/maps-and-geographic-information-systems"
+        },
+        {
+          "url": "http://library.uic.edu/home/collections/government-information"
+        },
+        {
+          "url": "http://library.uic.edu/home/collections/journals"
+        },
+        {
+          "url": "http://library.uic.edu/home/collections/manuscripts-and-rare-books"
+        },
+        {
+          "url": "http://library.uic.edu/home/collections/health-sciences-clinical-tools"
+        },
+        {
+          "url": "http://library.uic.edu/home/collections"
+        },
+        {
+          "url": "http://library.uic.edu/home/about-us/libraries"
+        },
+        {
+          "url": "http://library.uic.edu/home/about-us/employment"
+        },
+        {
+          "url": "http://library.uic.edu/home/about-us/contact-us"
+        },
+        {
+          "url": "http://library.uic.edu/home/about-us/library-faculty-research"
+        },
+        {
+          "url": "http://library.uic.edu/home/about-us/news-and-events"
+        },
+        {
+          "url": "http://library.uic.edu/home/about-us"
+        },
+        {
+          "url": "http://library.uic.edu/daley"
+        },
+        {
+          "url": "http://library.uic.edu/science"
+        },
+        {
+          "url": "http://library.uic.edu/lhs-chicago"
+        },
+        {
+          "url": "http://library.uic.edu/lhs-peoria"
+        },
+        {
+          "url": "http://library.uic.edu/clhs-rockford"
+        },
+        {
+          "url": "http://library.uic.edu/lhs-urbana"
+        },
+        {
+          "url": "http://library.uic.edu/home/about-us/library-it-assessment"
+        },
+        {
+          "url": "http://library.uic.edu/home/about-us/giving-to-the-library"
+        },
+        {
+          "url": "http://www.brilliantfutures.uic.edu/"
+        },
+        {
+          "url": "http://www.uic.edu/"
+        },
+        {
+          "url": "http://library.uic.edu/home/about-us/contact-us"
+        },
+        {
+          "url": "http://www.vpaa.uillinois.edu/policies/web_privacy.asp?bch=1"
+        },
+        {
+          "url": "http://library.uic.edu/home/user-support"
+        }
+      ]
+    },
+    "metrics": {
+      "puppeteer": {
+        "Timestamp": 945032.995558,
+        "Documents": 3,
+        "Frames": 3,
+        "JSEventListeners": 30,
+        "Nodes": 1007,
+        "LayoutCount": 20,
+        "RecalcStyleCount": 12,
+        "LayoutDuration": 0.117363,
+        "RecalcStyleDuration": 0.019536,
+        "ScriptDuration": 0.069594,
+        "TaskDuration": 0.510084,
+        "JSHeapUsedSize": 3690976,
+        "JSHeapTotalSize": 5165056
+      }
+    }
+  },
+  "analysis": {
+    "lighthouse": {
+      "agent": {
+        "name": "Node.js/Lighthouse",
+        "description": "Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.",
+        "url": "https://github.com/GoogleChrome/lighthouse",
+        "version": "^6.4.1"
+      },
+      "data": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+        "environment": {
+          "networkUserAgent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.7 Mobile Safari/537.36 Chrome-Lighthouse",
+          "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+          "benchmarkIndex": 1207.5,
+          "credits": {
+            "axe-core": "3.5.5"
+          }
+        },
+        "lighthouseVersion": "6.4.1",
+        "fetchTime": "2021-03-04T02:20:22.187Z",
+        "requestedUrl": "http://web.archive.org/web/20090720015749/http://library.uic.edu:80/",
+        "finalUrl": "http://web.archive.org/web/20090720015749/http://library.uic.edu:80/",
+        "runWarnings": [],
+        "configSettings": {
+          "output": "json",
+          "maxWaitForFcp": 30000,
+          "maxWaitForLoad": 45000,
+          "throttlingMethod": "simulate",
+          "throttling": {
+            "rttMs": 150,
+            "throughputKbps": 1638.4,
+            "requestLatencyMs": 562.5,
+            "downloadThroughputKbps": 1474.5600000000002,
+            "uploadThroughputKbps": 675,
+            "cpuSlowdownMultiplier": 4
+          },
+          "auditMode": false,
+          "gatherMode": false,
+          "disableStorageReset": false,
+          "emulatedFormFactor": "mobile",
+          "internalDisableDeviceScreenEmulation": false,
+          "channel": "node",
+          "budgets": null,
+          "locale": "en-US",
+          "blockedUrlPatterns": null,
+          "additionalTraceCategories": null,
+          "extraHeaders": null,
+          "precomputedLanternData": null,
+          "onlyAudits": null,
+          "onlyCategories": [
+            "accessibility",
+            "best-practices",
+            "performance"
+          ],
+          "skipAudits": null
+        },
+        "categories": {
+          "performance": {
+            "title": "Performance",
+            "auditRefs": [
+              {
+                "id": "first-contentful-paint",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "speed-index",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "largest-contentful-paint",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "interactive",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "total-blocking-time",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "cumulative-layout-shift",
+                "weight": 5,
+                "group": "metrics"
+              },
+              {
+                "id": "first-cpu-idle",
+                "weight": 0
+              },
+              {
+                "id": "max-potential-fid",
+                "weight": 0
+              },
+              {
+                "id": "first-meaningful-paint",
+                "weight": 0
+              },
+              {
+                "id": "estimated-input-latency",
+                "weight": 0
+              },
+              {
+                "id": "render-blocking-resources",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-responsive-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "offscreen-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-css",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-css-rules",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-optimized-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-webp-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-text-compression",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preconnect",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "server-response-time",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "redirects",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preload",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-http2",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "efficient-animated-content",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "duplicated-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "legacy-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "total-byte-weight",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-long-cache-ttl",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "dom-size",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "critical-request-chains",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "user-timings",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "bootup-time",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "mainthread-work-breakdown",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "font-display",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "performance-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "timing-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "resource-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "third-party-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "largest-contentful-paint-element",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "layout-shift-elements",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-passive-event-listeners",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "no-document-write",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "long-tasks",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "non-composited-animations",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "unsized-images",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "network-requests",
+                "weight": 0
+              },
+              {
+                "id": "network-rtt",
+                "weight": 0
+              },
+              {
+                "id": "network-server-latency",
+                "weight": 0
+              },
+              {
+                "id": "main-thread-tasks",
+                "weight": 0
+              },
+              {
+                "id": "diagnostics",
+                "weight": 0
+              },
+              {
+                "id": "metrics",
+                "weight": 0
+              },
+              {
+                "id": "screenshot-thumbnails",
+                "weight": 0
+              },
+              {
+                "id": "final-screenshot",
+                "weight": 0
+              }
+            ],
+            "id": "performance",
+            "score": 0.72
+          },
+          "accessibility": {
+            "title": "Accessibility",
+            "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+            "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review).",
+            "auditRefs": [
+              {
+                "id": "accesskeys",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "aria-allowed-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-body",
+                "weight": 10,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-focus",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-input-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-children",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-parent",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-roles",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-toggle-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr-value",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "button-name",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "bypass",
+                "weight": 3,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "color-contrast",
+                "weight": 3,
+                "group": "a11y-color-contrast"
+              },
+              {
+                "id": "definition-list",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "dlitem",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "document-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "duplicate-id-active",
+                "weight": 3,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "duplicate-id-aria",
+                "weight": 10,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "form-field-multiple-labels",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "frame-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "heading-order",
+                "weight": 2,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "html-has-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "html-lang-valid",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "image-alt",
+                "weight": 10,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "input-image-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "label",
+                "weight": 10,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "layout-table",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "link-name",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "list",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "listitem",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "meta-refresh",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "meta-viewport",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "object-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "tabindex",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "td-headers-attr",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "th-has-data-cells",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "valid-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "video-caption",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "video-description",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "logical-tab-order",
+                "weight": 0
+              },
+              {
+                "id": "focusable-controls",
+                "weight": 0
+              },
+              {
+                "id": "interactive-element-affordance",
+                "weight": 0
+              },
+              {
+                "id": "managed-focus",
+                "weight": 0
+              },
+              {
+                "id": "focus-traps",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-labels",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-roles",
+                "weight": 0
+              },
+              {
+                "id": "visual-order-follows-dom",
+                "weight": 0
+              },
+              {
+                "id": "offscreen-content-hidden",
+                "weight": 0
+              },
+              {
+                "id": "use-landmarks",
+                "weight": 0
+              }
+            ],
+            "id": "accessibility",
+            "score": 0.84
+          },
+          "best-practices": {
+            "title": "Best Practices",
+            "auditRefs": [
+              {
+                "id": "is-on-https",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "external-anchors-use-rel-noopener",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "geolocation-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "notification-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "no-vulnerable-libraries",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "password-inputs-can-be-pasted-into",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-aspect-ratio",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-size-responsive",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "preload-fonts",
+                "weight": 0,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "doctype",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "charset",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "no-unload-listeners",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "appcache-manifest",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "js-libraries",
+                "weight": 0,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "deprecations",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "errors-in-console",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "valid-source-maps",
+                "weight": 0,
+                "group": "best-practices-general"
+              }
+            ],
+            "id": "best-practices",
+            "score": 0.64
+          }
+        }
+      }
+    },
+    "wappalyzer": {
+      "agent": {
+        "name": "Node.js/Wappalyzer",
+        "description": "Wappalyzer identifies technologies on websites, including content management systems, ecommerce platforms, JavaScript frameworks, analytics tools and much more.",
+        "url": "https://github.com/AliasIO/wappalyzer",
+        "version": "^6.3.12"
+      },
+      "data": {
+        "urls": {
+          "http://web.archive.org/web/20090720015749/http://library.uic.edu:80/": {
+            "status": 200
+          }
+        },
+        "technologies": [
+          {
+            "slug": "webgui",
+            "name": "WebGUI",
+            "confidence": 100,
+            "version": "7.5.27",
+            "icon": "WebGUI.png",
+            "website": "http://www.webgui.org",
+            "cpe": null,
+            "categories": [
+              {
+                "id": 1,
+                "slug": "cms",
+                "name": "CMS"
+              }
+            ]
+          },
+          {
+            "slug": "perl",
+            "name": "Perl",
+            "confidence": 100,
+            "version": null,
+            "icon": "Perl.png",
+            "website": "http://perl.org",
+            "cpe": "cpe:/a:perl:perl",
+            "categories": [
+              {
+                "id": 27,
+                "slug": "programming-languages",
+                "name": "Programming languages"
+              }
+            ]
+          },
+          {
+            "slug": "nginx",
+            "name": "Nginx",
+            "confidence": 100,
+            "version": "1.19.5",
+            "icon": "Nginx.svg",
+            "website": "http://nginx.org/en",
+            "cpe": "cpe:/a:nginx:nginx",
+            "categories": [
+              {
+                "id": 22,
+                "slug": "web-servers",
+                "name": "Web servers"
+              },
+              {
+                "id": 64,
+                "slug": "reverse-proxies",
+                "name": "Reverse proxies"
+              }
+            ]
+          },
+          {
+            "slug": "yui",
+            "name": "YUI",
+            "confidence": 100,
+            "version": "2.6.0",
+            "icon": "YUI.png",
+            "website": "http://yuilibrary.com",
+            "cpe": null,
+            "categories": [
+              {
+                "id": 59,
+                "slug": "javascript-libraries",
+                "name": "JavaScript libraries"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "builtwith": {
+      "agent": {
+        "name": "Node.js/Axios",
+        "description": "Promise based HTTP client for the browser and node.js",
+        "url": "https://github.com/axios/axios",
+        "version": "^0.21.0"
+      },
+      "url": "https://api.builtwith.com/v18/api.json?KEY=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&LOOKUP=http://web.archive.org/web/20090720015749/http://library.uic.edu:80/",
+      "response": {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+          "cache-control": "private",
+          "content-type": "application/json; charset=utf-8",
+          "server": "Microsoft-IIS/10.0",
+          "access-control-allow-origin": "*",
+          "x-api-credits-available": "5000",
+          "x-api-credits-used": "799",
+          "x-api-credits-remaining": "4201",
+          "x-ua-compatible": "IE=Edge,chrome=1",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "date": "Thu, 04 Mar 2021 02:20:41 GMT",
+          "connection": "close",
+          "content-length": "6856"
+        },
+        "data": {
+          "Results": [
+            {
+              "Result": {
+                "IsDB": "False",
+                "Spend": 0,
+                "Paths": [
+                  {
+                    "Technologies": [
+                      {
+                        "IsPremium": "no",
+                        "Name": "XHTML Strict",
+                        "Description": "The website claims XHTML strict. XHTML Strict is the same as HTML 4.01 Strict but follows XML guidelines. See the link for more information.",
+                        "Link": "http://www.w3.org/TR/REC-html40/ ",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Javascript",
+                        "Description": "JavaScript is a scripting language most often used for client-side web development.",
+                        "Link": "http://en.wikipedia.org/wiki/JavaScript",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "UTF-8",
+                        "Description": "UTF-8 (8-bit UCS/Unicode Transformation Format) is a variable-length character encoding for Unicode. It is the preferred encoding for web pages.",
+                        "Link": "http://en.wikipedia.org/wiki/UTF-8",
+                        "Tag": "encoding",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Cascading Style Sheets",
+                        "Description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in a markup language. Its most common application is to style web pages written in HTML ",
+                        "Link": "http://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_TITLE",
+                        "Description": "SEO Title",
+                        "Link": "",
+                        "Tag": "seo_title",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Content Style Type",
+                        "Description": "W3C Recommended definition of the type of stylesheets used in a document.",
+                        "Link": "http://www.w3.org/TR/REC-html40/present/styles.html#h-14.2.1",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Conditional Comments",
+                        "Description": "The website uses conditional comments that are supported by Microsoft Internet Explorer. They allow web developers to show or hide HTML code based on the version of the viewer's browser.",
+                        "Link": "http://www.quirksmode.org/css/condcom.html",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "Categories": [
+                          "Site Search"
+                        ],
+                        "IsPremium": "no",
+                        "Name": "Google Custom Search",
+                        "Description": "Have a website or collection of sites you'd like to search over? With Custom Search Engine, you can harness the power of Google to create a search engine tailored to your needs.",
+                        "Link": "http://google.com/coop/cse/",
+                        "Tag": "widgets",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Cache Control",
+                        "Description": "Cache Control setting on the page to provide caching performance gains.",
+                        "Link": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "srcset",
+                        "Description": "Adapting images for high-resolution and low-resolution displays.",
+                        "Link": "http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "HTML 5 Specific Tags",
+                        "Description": "This page contains tags that are specific to an HTML 5 implementation.",
+                        "Link": "http://dev.w3.org/html5/html-author/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "IFrame",
+                        "Description": "The page shows content with an iframe; an embedded frame that loads another webpage.",
+                        "Link": "http://www.w3schools.com/tags/tag_iframe.asp",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_H2",
+                        "Description": "SEO H2",
+                        "Link": "",
+                        "Tag": "seo_headers",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_H1",
+                        "Description": "SEO H1",
+                        "Link": "",
+                        "Tag": "seo_headers",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "Parent": "Google Adsense",
+                        "IsPremium": "no",
+                        "Name": "Google Adsense for Search",
+                        "Description": "Adding the Google search box to your website puts our search engine at your visitors' fingertips. And combining search with AdSense puts Google's base of advertisers to work for your bottom line.",
+                        "Link": "http://www.google.com/adsense/ws-overview",
+                        "Tag": "ads",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Yahoo CDN",
+                        "Description": "The website uses Yahoo's API content delivery network to reduce stress of javascript downloads on the host server.",
+                        "Link": "http://yahooapis.com",
+                        "Tag": "cdn",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "Categories": [
+                          "JavaScript Library"
+                        ],
+                        "IsPremium": "no",
+                        "Name": "Yahoo User Interface",
+                        "Description": "The Yahoo! User Interface (YUI) Library is a set of utilities and controls, written in JavaScript, for building richly interactive web applications using techniques such as DOM scripting, DHTML and AJAX.",
+                        "Link": "http://developer.yahoo.com/yui/",
+                        "Tag": "javascript",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "PHP",
+                        "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                        "Link": "http://www.php.net",
+                        "Tag": "framework",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Content Security Policy",
+                        "Description": "Content Security Policy is a computer security concept, to prevent cross-site scripting XSS attacks.",
+                        "Link": "http://en.wikipedia.org/wiki/Content_Security_Policy",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Apache",
+                        "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                        "Link": "http://httpd.apache.org/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "nginx",
+                        "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                        "Link": "http://nginx.net/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824441911,
+                        "LastDetected": 1614824441911
+                      }
+                    ],
+                    "FirstIndexed": 1614824441911,
+                    "LastIndexed": 1614824441911,
+                    "Domain": "web.archive.org/web/20090720015749/library.uic.edu:80/",
+                    "Url": "web/20090720015749/library.uic.edu:80/",
+                    "SubDomain": "web.archive.org"
+                  }
+                ]
+              },
+              "Meta": {
+                "Majestic": 0,
+                "Umbrella": 0,
+                "Vertical": "",
+                "Social": null,
+                "CompanyName": null,
+                "Telephones": null,
+                "Emails": [],
+                "City": null,
+                "State": null,
+                "Postcode": null,
+                "Country": null,
+                "Names": null,
+                "ARank": 0,
+                "QRank": 0
+              },
+              "Attributes": {
+                "MJRank": 0,
+                "MJTLDRank": 0,
+                "RefSN": 0,
+                "RefIP": 0,
+                "TTFB": 0,
+                "Sitemap": 0,
+                "GTMTags": 0,
+                "QubitTags": 0,
+                "TealiumTags": 0,
+                "AdobeTags": 0,
+                "CDimensions": 0,
+                "CGoals": 0,
+                "CMetrics": 0,
+                "SourceBytes": 0
+              },
+              "FirstIndexed": 1614824441911,
+              "LastIndexed": 1614824441911,
+              "Lookup": "web.archive.org/web/20090720015749/library.uic.edu:80/",
+              "SalesRevenue": 0
+            }
+          ],
+          "Errors": []
+        }
+      }
+    },
+    "analyzecss": {
+      "agent": {
+        "name": "Node.js/analyze-css",
+        "description": "CSS selectors complexity and performance analyzer.",
+        "url": "https://github.com/macbre/analyze-css",
+        "version": "^0.12.12",
+        "note": "These statistics are for an aggregate of all stylesheets in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "base64Length": 0,
+        "redundantBodySelectors": 0,
+        "redundantChildNodesSelectors": 20,
+        "colors": 36,
+        "comments": 60,
+        "commentsLength": 5212,
+        "complexSelectors": 15,
+        "duplicatedSelectors": 67,
+        "duplicatedProperties": 1,
+        "emptyRules": 0,
+        "expressions": 0,
+        "oldIEFixes": 4,
+        "imports": 0,
+        "importants": 10,
+        "mediaQueries": 0,
+        "notMinified": 1,
+        "multiClassesSelectors": 1,
+        "parsingErrors": 0,
+        "oldPropertyPrefixes": 0,
+        "propertyResets": 0,
+        "qualifiedSelectors": 101,
+        "specificityIdAvg": 0.36,
+        "specificityIdTotal": 179,
+        "specificityClassAvg": 0.61,
+        "specificityClassTotal": 305,
+        "specificityTagAvg": 0.75,
+        "specificityTagTotal": 379,
+        "selectors": 504,
+        "selectorLengthAvg": 1.4563492063492063,
+        "selectorsByAttribute": 0,
+        "selectorsByClass": 283,
+        "selectorsById": 179,
+        "selectorsByPseudo": 29,
+        "selectorsByTag": 371,
+        "length": 26286,
+        "rules": 334,
+        "declarations": 611
+      }
+    },
+    "escomplex": {
+      "agent": {
+        "name": "Node.js/escomplex",
+        "description": "Software complexity analysis of JavaScript abstract syntax trees.",
+        "url": "https://github.com/escomplex/escomplex",
+        "version": "^2.0.0-alpha",
+        "note": "These statistics are for an aggregate of all scripts in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "maintainability": 102.2620136444505,
+        "effort": 8269.614318274864,
+        "sloc": {
+          "logical": 51,
+          "physical": 83
+        },
+        "cyclomatic": 6,
+        "halstead": {
+          "operators": {
+            "distinct": 16,
+            "total": 184
+          },
+          "operands": {
+            "distinct": 73,
+            "total": 240
+          },
+          "length": 424,
+          "vocabulary": 89,
+          "difficulty": 26.301369863013697,
+          "volume": 2745.7109747297527,
+          "effort": 72215.95988330308,
+          "bugs": 0.9152369915765842,
+          "time": 4011.997771294615
+        },
+        "params": 3,
+        "line": 3,
+        "cyclomaticDensity": 11.76470588235294
+      }
+    }
+  }
+}

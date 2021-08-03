@@ -1,0 +1,1205 @@
+{
+  "id": "edu_mit_libraries_130845139_19980127060516",
+  "url": "https://libraries.mit.edu/",
+  "date_accessed": "2021-03-04T02:21:22Z",
+  "wayback": {
+    "date_available": "1998-01-27T06:05:16Z",
+    "url_raw": "http://web.archive.org/web/19980127060516id_/http://libraries.mit.edu:80/",
+    "url_rendered": "http://web.archive.org/web/19980127060516/http://libraries.mit.edu:80/"
+  },
+  "agent": {
+    "name": "Apato (Visitor)",
+    "url": "https://github.com/allanberry/apato",
+    "version": "1.0.0b",
+    "creator": "Allan Berry <allan.berry@gmail.com>"
+  },
+  "client": {
+    "ip": "98.206.145.7",
+    "geo": {
+      "range": [
+        1657704448,
+        1657706495
+      ],
+      "country": "US",
+      "region": "IL",
+      "eu": "0",
+      "timezone": "America/Chicago",
+      "city": "Chicago",
+      "ll": [
+        41.804,
+        -87.707
+      ],
+      "metro": 602,
+      "area": 5
+    }
+  },
+  "raw": {
+    "agent": {
+      "name": "Node.js/Axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "url": "https://github.com/axios/axios",
+      "version": "^0.21.0"
+    },
+    "title": "MIT Libraries",
+    "response": {
+      "description": "Selected data from the response.",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "server": "nginx/1.19.5",
+        "date": "Thu, 04 Mar 2021 02:21:23 GMT",
+        "content-type": "text/html",
+        "transfer-encoding": "chunked",
+        "connection": "close",
+        "x-archive-orig-date": "Tue, 27 Jan 1998 06:05:00 GMT",
+        "x-archive-orig-server": "Apache/1.2.1",
+        "x-archive-orig-transfer-encoding": "chunked",
+        "cache-control": "max-age=1800",
+        "memento-datetime": "Tue, 27 Jan 1998 06:05:16 GMT",
+        "link": "<http://libraries.mit.edu:80/>; rel=\"original\", <http://web.archive.org/web/timemap/link/http://libraries.mit.edu:80/>; rel=\"timemap\"; type=\"application/link-format\", <http://web.archive.org/web/http://libraries.mit.edu:80/>; rel=\"timegate\", <http://web.archive.org/web/19980127060516/http://libraries.mit.edu:80/>; rel=\"first memento\"; datetime=\"Tue, 27 Jan 1998 06:05:16 GMT\", <http://web.archive.org/web/19980127060516/http://libraries.mit.edu:80/>; rel=\"memento\"; datetime=\"Tue, 27 Jan 1998 06:05:16 GMT\", <http://web.archive.org/web/19980423141739/http://libraries.mit.edu:80/>; rel=\"next memento\"; datetime=\"Thu, 23 Apr 1998 14:17:39 GMT\", <http://web.archive.org/web/20210228003927/https://libraries.mit.edu/>; rel=\"last memento\"; datetime=\"Sun, 28 Feb 2021 00:39:27 GMT\"",
+        "content-security-policy": "default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org",
+        "x-archive-src": "FS-394650-c/FS-395059.arc.gz",
+        "server-timing": "esindex;dur=0.014253, captures_list;dur=402.146906, load_resource;dur=92.610076, RedisCDXSource;dur=0.834050, LoadShardBlock;dur=152.845972, exclusion.robots;dur=0.218388, PetaboxLoader3.datanode;dur=148.450828, exclusion.robots.policy;dur=0.202142, CDXLines.iter;dur=22.146327, PetaboxLoader3.resolve;dur=26.145971",
+        "x-app-server": "wwwb-app31",
+        "x-ts": "200",
+        "x-tr": "525",
+        "x-location": "All",
+        "x-cache-key": "httpweb.archive.org/web/19980127060516id_/http://libraries.mit.edu:80/US",
+        "x-rl": "0",
+        "x-na": "0",
+        "x-page-cache": "MISS",
+        "x-nid": "-"
+      }
+    },
+    "structure": {
+      "aggregate": {
+        "elementQty": 106,
+        "length": 4725
+      }
+    }
+  },
+  "rendered": {
+    "agent": {
+      "name": "Node.js/Puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "version": "^5.4.1",
+      "browser": "HeadlessChrome/87.0.4272.0"
+    },
+    "title": "MIT Libraries",
+    "screenshots": [
+      "v1_0/edu_mit_libraries_130845139_19980127060516/w320.png",
+      "v1_0/edu_mit_libraries_130845139_19980127060516/w640.png",
+      "v1_0/edu_mit_libraries_130845139_19980127060516/w1280.png"
+    ],
+    "structure": {
+      "data": "<html><head>\n\n\n\n\n\n\n\n<!-- $Header: /mit/lib/dev/www/RCS/libraries.html,v 1.16 1998/01/21 15:23:38 efc Exp $ -->\n<!-- Copyright (c) 1997 Massachusetts Institute of Technology -->\n<!-- jay aug97 -->\n<link rev=\"made\" href=\"mailto:webmaster@libraries.mit.edu\">\n<title>MIT Libraries</title>\n</head>\n\n<body bgcolor=\"#ffffff\" text=\"#000000\" link=\"#990000\" alink=\"#999999\" vlink=\"#990000\">\n\n\n\n\n\n\n<map name=\"libraries\">\n<area shape=\"rect\" coords=\"117,3,321,117\" alt=\"Libraries Administration\" href=\"admin\">\n<area shape=\"rect\" coords=\"417,77,496,191\" alt=\"Aero-Astro\" href=\"aero\">\n<area shape=\"rect\" coords=\"117,117,196,156\" alt=\"Archives\" href=\"archives\">\n<area shape=\"rect\" coords=\"322,3,496,77\" alt=\"Dewey (management)\" href=\"dewey\">\n<area shape=\"rect\" coords=\"196,117,322,191\" alt=\"Document Services\" href=\"docs\">\n<area shape=\"rect\" coords=\"322,77,417,191\" alt=\"Barker (engineering)\" href=\"barker\">\n<area shape=\"rect\" coords=\"222,191,322,299\" alt=\"Humanities\" href=\"humanities\">\n<area shape=\"rect\" coords=\"417,191,496,299\" alt=\"Lindgren (earth science)\" href=\"lindgren\">\n<area shape=\"rect\" coords=\"222,299,322,356\" alt=\"Lewis (music)\" href=\"music\">\n<area shape=\"rect\" coords=\"117,156,196,191\" alt=\"Retro-Spective Collection\" href=\"rsc\">\n<area shape=\"rect\" coords=\"117,247,222,356\" alt=\"Rotch (architecture)\" href=\"rotch\">\n<area shape=\"rect\" coords=\"117,191,222,247\" alt=\"Rotch Visual Collections\" href=\"rvc\">\n<area shape=\"rect\" coords=\"322,191,417,299\" alt=\"Schering-Plough (neuroscience)\" href=\"sp\">\n<area shape=\"rect\" coords=\"322,299,496,356\" alt=\"Science\" href=\"science\">\n\n<area shape=\"rect\" coords=\"0,12,112,32\" alt=\"Barton (catalog)\" href=\"services/barton.html\">\n<area shape=\"rect\" coords=\"0,312,112,330\" alt=\"FAQ\" href=\"faq.html\">\n<area shape=\"rect\" coords=\"0,200,112,220\" alt=\"Hours\" href=\"hours.html\">\n<area shape=\"rect\" coords=\"0,220,112,240\" alt=\"Locations\" href=\"map.html\">\n<area shape=\"rect\" coords=\"0,250,112,310\" alt=\"News\" href=\"news/iap/1998.html\">\n<area shape=\"rect\" coords=\"0,164,112,184\" alt=\"Policies\" href=\"policies.html\">\n<area shape=\"rect\" coords=\"0,70,112,90\" alt=\"Resources\" href=\"resources.html\">\n<area shape=\"rect\" coords=\"0,330,112,350\" alt=\"Search\" href=\"find.html\">\n<area shape=\"rect\" coords=\"0,126,112,146\" alt=\"Services\" href=\"services.html\">\n<area shape=\"rect\" coords=\"0,90,112,110\" alt=\"Subjects\" href=\"subjects.html\">\n</map>\n<center>\n<a href=\"about.html\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"MIT Libraries\" border=\"0\"></a>\n<img src=\"http://libraries.mit.edu/interface/MainPage.IAP.gif\" alt=\"\" border=\"0\" ismap=\"\" usemap=\"#libraries\">\n<br>\n<br>\n\n<i><small>\n<a href=\"copyright.html\">Copyright</a> © \n<a href=\"http://mit.edu/\">Massachusetts Institute of Technology</a>\n</small></i>\n\n\n<a href=\"aero\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Aero-Astro\" border=\"0\"></a><br>\n<a href=\"archives\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Archives\" border=\"0\"></a><br>\n<a href=\"barker\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Barker (engineering)\" border=\"0\"></a><br>\n<a href=\"dewey\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Dewey (management)\" border=\"0\"></a><br>\n<a href=\"docs\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Document Services\" border=\"0\"></a><br>\n<a href=\"humanities\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Humanities\" border=\"0\"></a><br>\n<a href=\"music\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Lewis (music)\" border=\"0\"></a><br>\n<a href=\"lindgren\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Lindgren (earth science)\" border=\"0\"></a><br>\n<a href=\"rotch\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Rotch (architecture)\" border=\"0\"></a><br>\n<a href=\"rvc\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Rotch Visual Collection\" border=\"0\"></a><br>\n<a href=\"sp\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Schering-Plough (neuroscience)\" border=\"0\"></a><br>\n<a href=\"science\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Science\" border=\"0\"></a><br>\n\n<br>\n\n<a href=\"telnet://library.mit.edu/\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Barton\" border=\"0\"></a><br>\n<a href=\"faq.html\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"FAQ\" border=\"0\"></a><br>\n<a href=\"hours.html\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Hours\" border=\"0\"></a><br>\n<a href=\"map.html\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Locations\" border=\"0\"></a><br>\n<a href=\"news/iap/1998.html\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"News\" border=\"0\"></a><br>\n<a href=\"policies.html\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Policies\" border=\"0\"></a><br>\n<a href=\"resources.html\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Resources\" border=\"0\"></a><br>\n<a href=\"find.html\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Search\" border=\"0\"></a><br>\n<a href=\"services.html\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Services\" border=\"0\"></a><br>\n<a href=\"subjects.html\">\n<img src=\"http://libraries.mit.edu/interface/Blank.1x1.gif\" alt=\"Subjects\" border=\"0\"></a><br>\n\n\n\n\n\n\n\n\n</center></body></html>",
+      "aggregate": {
+        "length": 5418
+      }
+    },
+    "styles": {
+      "list": [
+        {
+          "type": "inline",
+          "length": 0
+        }
+      ],
+      "aggregate": {
+        "length": 0
+      }
+    },
+    "scripts": {
+      "list": [],
+      "aggregate": {
+        "length": 0
+      }
+    },
+    "anchors": {
+      "list": [
+        {
+          "url": "http://libraries.mit.edu:80/about.html"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/copyright.html"
+        },
+        {
+          "url": "http://mit.edu/"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/aero"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/archives"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/barker"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/dewey"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/docs"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/humanities"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/music"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/lindgren"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/rotch"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/rvc"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/sp"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/science"
+        },
+        {
+          "url": "http://19980127060516/telnet://library.mit.edu/"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/faq.html"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/hours.html"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/map.html"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/news/iap/1998.html"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/policies.html"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/resources.html"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/find.html"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/services.html"
+        },
+        {
+          "url": "http://libraries.mit.edu:80/subjects.html"
+        }
+      ]
+    },
+    "metrics": {
+      "puppeteer": {
+        "Timestamp": 945099.379676,
+        "Documents": 9,
+        "Frames": 3,
+        "JSEventListeners": 23,
+        "Nodes": 534,
+        "LayoutCount": 18,
+        "RecalcStyleCount": 11,
+        "LayoutDuration": 0.152433,
+        "RecalcStyleDuration": 0.0103,
+        "ScriptDuration": 0.075721,
+        "TaskDuration": 0.444317,
+        "JSHeapUsedSize": 4408588,
+        "JSHeapTotalSize": 6213632
+      }
+    }
+  },
+  "analysis": {
+    "lighthouse": {
+      "agent": {
+        "name": "Node.js/Lighthouse",
+        "description": "Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.",
+        "url": "https://github.com/GoogleChrome/lighthouse",
+        "version": "^6.4.1"
+      },
+      "data": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+        "environment": {
+          "networkUserAgent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.7 Mobile Safari/537.36 Chrome-Lighthouse",
+          "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+          "benchmarkIndex": 819.5,
+          "credits": {
+            "axe-core": "3.5.5"
+          }
+        },
+        "lighthouseVersion": "6.4.1",
+        "fetchTime": "2021-03-04T02:21:28.711Z",
+        "requestedUrl": "http://web.archive.org/web/19980127060516/http://libraries.mit.edu:80/",
+        "finalUrl": "http://web.archive.org/web/19980127060516/http://libraries.mit.edu:80/",
+        "runWarnings": [],
+        "configSettings": {
+          "output": "json",
+          "maxWaitForFcp": 30000,
+          "maxWaitForLoad": 45000,
+          "throttlingMethod": "simulate",
+          "throttling": {
+            "rttMs": 150,
+            "throughputKbps": 1638.4,
+            "requestLatencyMs": 562.5,
+            "downloadThroughputKbps": 1474.5600000000002,
+            "uploadThroughputKbps": 675,
+            "cpuSlowdownMultiplier": 4
+          },
+          "auditMode": false,
+          "gatherMode": false,
+          "disableStorageReset": false,
+          "emulatedFormFactor": "mobile",
+          "internalDisableDeviceScreenEmulation": false,
+          "channel": "node",
+          "budgets": null,
+          "locale": "en-US",
+          "blockedUrlPatterns": null,
+          "additionalTraceCategories": null,
+          "extraHeaders": null,
+          "precomputedLanternData": null,
+          "onlyAudits": null,
+          "onlyCategories": [
+            "accessibility",
+            "best-practices",
+            "performance"
+          ],
+          "skipAudits": null
+        },
+        "categories": {
+          "performance": {
+            "title": "Performance",
+            "auditRefs": [
+              {
+                "id": "first-contentful-paint",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "speed-index",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "largest-contentful-paint",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "interactive",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "total-blocking-time",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "cumulative-layout-shift",
+                "weight": 5,
+                "group": "metrics"
+              },
+              {
+                "id": "first-cpu-idle",
+                "weight": 0
+              },
+              {
+                "id": "max-potential-fid",
+                "weight": 0
+              },
+              {
+                "id": "first-meaningful-paint",
+                "weight": 0
+              },
+              {
+                "id": "estimated-input-latency",
+                "weight": 0
+              },
+              {
+                "id": "render-blocking-resources",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-responsive-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "offscreen-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-css",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-css-rules",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-optimized-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-webp-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-text-compression",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preconnect",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "server-response-time",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "redirects",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preload",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-http2",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "efficient-animated-content",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "duplicated-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "legacy-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "total-byte-weight",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-long-cache-ttl",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "dom-size",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "critical-request-chains",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "user-timings",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "bootup-time",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "mainthread-work-breakdown",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "font-display",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "performance-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "timing-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "resource-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "third-party-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "largest-contentful-paint-element",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "layout-shift-elements",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-passive-event-listeners",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "no-document-write",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "long-tasks",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "non-composited-animations",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "unsized-images",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "network-requests",
+                "weight": 0
+              },
+              {
+                "id": "network-rtt",
+                "weight": 0
+              },
+              {
+                "id": "network-server-latency",
+                "weight": 0
+              },
+              {
+                "id": "main-thread-tasks",
+                "weight": 0
+              },
+              {
+                "id": "diagnostics",
+                "weight": 0
+              },
+              {
+                "id": "metrics",
+                "weight": 0
+              },
+              {
+                "id": "screenshot-thumbnails",
+                "weight": 0
+              },
+              {
+                "id": "final-screenshot",
+                "weight": 0
+              }
+            ],
+            "id": "performance",
+            "score": 0.92
+          },
+          "accessibility": {
+            "title": "Accessibility",
+            "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+            "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review).",
+            "auditRefs": [
+              {
+                "id": "accesskeys",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "aria-allowed-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-body",
+                "weight": 10,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-focus",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-input-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-children",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-parent",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-roles",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-toggle-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr-value",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "button-name",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "bypass",
+                "weight": 3,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "color-contrast",
+                "weight": 3,
+                "group": "a11y-color-contrast"
+              },
+              {
+                "id": "definition-list",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "dlitem",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "document-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "duplicate-id-active",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "duplicate-id-aria",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "form-field-multiple-labels",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "frame-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "heading-order",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "html-has-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "html-lang-valid",
+                "weight": 0,
+                "group": "a11y-language"
+              },
+              {
+                "id": "image-alt",
+                "weight": 10,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "input-image-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "label",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "layout-table",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "link-name",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "list",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "listitem",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "meta-refresh",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "meta-viewport",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "object-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "tabindex",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "td-headers-attr",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "th-has-data-cells",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "valid-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "video-caption",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "video-description",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "logical-tab-order",
+                "weight": 0
+              },
+              {
+                "id": "focusable-controls",
+                "weight": 0
+              },
+              {
+                "id": "interactive-element-affordance",
+                "weight": 0
+              },
+              {
+                "id": "managed-focus",
+                "weight": 0
+              },
+              {
+                "id": "focus-traps",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-labels",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-roles",
+                "weight": 0
+              },
+              {
+                "id": "visual-order-follows-dom",
+                "weight": 0
+              },
+              {
+                "id": "offscreen-content-hidden",
+                "weight": 0
+              },
+              {
+                "id": "use-landmarks",
+                "weight": 0
+              }
+            ],
+            "id": "accessibility",
+            "score": 0.78
+          },
+          "best-practices": {
+            "title": "Best Practices",
+            "auditRefs": [
+              {
+                "id": "is-on-https",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "external-anchors-use-rel-noopener",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "geolocation-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "notification-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "no-vulnerable-libraries",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "password-inputs-can-be-pasted-into",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-aspect-ratio",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-size-responsive",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "preload-fonts",
+                "weight": 0,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "doctype",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "charset",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "no-unload-listeners",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "appcache-manifest",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "js-libraries",
+                "weight": 0,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "deprecations",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "errors-in-console",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "valid-source-maps",
+                "weight": 0,
+                "group": "best-practices-general"
+              }
+            ],
+            "id": "best-practices",
+            "score": 0.71
+          }
+        }
+      }
+    },
+    "wappalyzer": {
+      "agent": {
+        "name": "Node.js/Wappalyzer",
+        "description": "Wappalyzer identifies technologies on websites, including content management systems, ecommerce platforms, JavaScript frameworks, analytics tools and much more.",
+        "url": "https://github.com/AliasIO/wappalyzer",
+        "version": "^6.3.12"
+      },
+      "data": {
+        "urls": {
+          "http://web.archive.org/web/19980127060516/http://libraries.mit.edu:80/": {
+            "status": 200
+          }
+        },
+        "technologies": [
+          {
+            "slug": "nginx",
+            "name": "Nginx",
+            "confidence": 100,
+            "version": "1.19.5",
+            "icon": "Nginx.svg",
+            "website": "http://nginx.org/en",
+            "cpe": "cpe:/a:nginx:nginx",
+            "categories": [
+              {
+                "id": 22,
+                "slug": "web-servers",
+                "name": "Web servers"
+              },
+              {
+                "id": 64,
+                "slug": "reverse-proxies",
+                "name": "Reverse proxies"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "builtwith": {
+      "agent": {
+        "name": "Node.js/Axios",
+        "description": "Promise based HTTP client for the browser and node.js",
+        "url": "https://github.com/axios/axios",
+        "version": "^0.21.0"
+      },
+      "url": "https://api.builtwith.com/v18/api.json?KEY=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&LOOKUP=http://web.archive.org/web/19980127060516/http://libraries.mit.edu:80/",
+      "response": {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+          "cache-control": "private",
+          "content-type": "application/json; charset=utf-8",
+          "server": "Microsoft-IIS/10.0",
+          "access-control-allow-origin": "*",
+          "x-api-credits-available": "5000",
+          "x-api-credits-used": "802",
+          "x-api-credits-remaining": "4198",
+          "x-ua-compatible": "IE=Edge,chrome=1",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "date": "Thu, 04 Mar 2021 02:21:45 GMT",
+          "connection": "close",
+          "content-length": "4087"
+        },
+        "data": {
+          "Results": [
+            {
+              "Result": {
+                "IsDB": "False",
+                "Spend": 0,
+                "Paths": [
+                  {
+                    "Technologies": [
+                      {
+                        "IsPremium": "no",
+                        "Name": "Javascript",
+                        "Description": "JavaScript is a scripting language most often used for client-side web development.",
+                        "Link": "http://en.wikipedia.org/wiki/JavaScript",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "UTF-8",
+                        "Description": "UTF-8 (8-bit UCS/Unicode Transformation Format) is a variable-length character encoding for Unicode. It is the preferred encoding for web pages.",
+                        "Link": "http://en.wikipedia.org/wiki/UTF-8",
+                        "Tag": "encoding",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Cascading Style Sheets",
+                        "Description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in a markup language. Its most common application is to style web pages written in HTML ",
+                        "Link": "http://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_TITLE",
+                        "Description": "SEO Title",
+                        "Link": "",
+                        "Tag": "seo_title",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "srcset",
+                        "Description": "Adapting images for high-resolution and low-resolution displays.",
+                        "Link": "http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "HTML 5 Specific Tags",
+                        "Description": "This page contains tags that are specific to an HTML 5 implementation.",
+                        "Link": "http://dev.w3.org/html5/html-author/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "IFrame",
+                        "Description": "The page shows content with an iframe; an embedded frame that loads another webpage.",
+                        "Link": "http://www.w3schools.com/tags/tag_iframe.asp",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Image Map",
+                        "Description": "The map tag is used to define a client-side image-map. An image-map is an image with clickable areas.",
+                        "Link": "http://www.w3schools.com/TAGS/tag_map.asp",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "PHP",
+                        "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                        "Link": "http://www.php.net",
+                        "Tag": "framework",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Content Security Policy",
+                        "Description": "Content Security Policy is a computer security concept, to prevent cross-site scripting XSS attacks.",
+                        "Link": "http://en.wikipedia.org/wiki/Content_Security_Policy",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Apache",
+                        "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                        "Link": "http://httpd.apache.org/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "nginx",
+                        "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                        "Link": "http://nginx.net/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824505197,
+                        "LastDetected": 1614824505197
+                      }
+                    ],
+                    "FirstIndexed": 1614824505197,
+                    "LastIndexed": 1614824505197,
+                    "Domain": "web.archive.org/web/19980127060516/libraries.mit.edu:80/",
+                    "Url": "web/19980127060516/libraries.mit.edu:80/",
+                    "SubDomain": "web.archive.org"
+                  }
+                ]
+              },
+              "Meta": {
+                "Majestic": 0,
+                "Umbrella": 0,
+                "Vertical": "",
+                "Social": null,
+                "CompanyName": null,
+                "Telephones": null,
+                "Emails": [],
+                "City": null,
+                "State": null,
+                "Postcode": null,
+                "Country": null,
+                "Names": null,
+                "ARank": 0,
+                "QRank": 0
+              },
+              "Attributes": {
+                "MJRank": 0,
+                "MJTLDRank": 0,
+                "RefSN": 0,
+                "RefIP": 0,
+                "TTFB": 0,
+                "Sitemap": 0,
+                "GTMTags": 0,
+                "QubitTags": 0,
+                "TealiumTags": 0,
+                "AdobeTags": 0,
+                "CDimensions": 0,
+                "CGoals": 0,
+                "CMetrics": 0,
+                "SourceBytes": 0
+              },
+              "FirstIndexed": 1614824505197,
+              "LastIndexed": 1614824505197,
+              "Lookup": "web.archive.org/web/19980127060516/libraries.mit.edu:80/",
+              "SalesRevenue": 0
+            }
+          ],
+          "Errors": []
+        }
+      }
+    },
+    "analyzecss": {
+      "agent": {
+        "name": "Node.js/analyze-css",
+        "description": "CSS selectors complexity and performance analyzer.",
+        "url": "https://github.com/macbre/analyze-css",
+        "version": "^0.12.12",
+        "note": "These statistics are for an aggregate of all stylesheets in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "base64Length": 0,
+        "redundantBodySelectors": 0,
+        "redundantChildNodesSelectors": 0,
+        "colors": 0,
+        "comments": 0,
+        "commentsLength": 0,
+        "complexSelectors": 0,
+        "duplicatedSelectors": 0,
+        "duplicatedProperties": 0,
+        "emptyRules": 0,
+        "expressions": 0,
+        "oldIEFixes": 0,
+        "imports": 0,
+        "importants": 0,
+        "mediaQueries": 0,
+        "notMinified": 0,
+        "multiClassesSelectors": 0,
+        "parsingErrors": 0,
+        "oldPropertyPrefixes": 0,
+        "propertyResets": 0,
+        "qualifiedSelectors": 0,
+        "specificityIdAvg": 0,
+        "specificityIdTotal": 0,
+        "specificityClassAvg": 0,
+        "specificityClassTotal": 0,
+        "specificityTagAvg": 0,
+        "specificityTagTotal": 0,
+        "selectors": 0,
+        "selectorLengthAvg": 0,
+        "selectorsByAttribute": 0,
+        "selectorsByClass": 0,
+        "selectorsById": 0,
+        "selectorsByPseudo": 0,
+        "selectorsByTag": 0
+      }
+    },
+    "escomplex": {
+      "agent": {
+        "name": "Node.js/escomplex",
+        "description": "Software complexity analysis of JavaScript abstract syntax trees.",
+        "url": "https://github.com/escomplex/escomplex",
+        "version": "^2.0.0-alpha",
+        "note": "These statistics are for an aggregate of all scripts in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "maintainability": 171,
+        "effort": 0,
+        "sloc": {
+          "logical": 0,
+          "physical": 1
+        },
+        "cyclomatic": 1,
+        "halstead": {
+          "operators": {
+            "distinct": 0,
+            "total": 0
+          },
+          "operands": {
+            "distinct": 0,
+            "total": 0
+          },
+          "length": 0,
+          "vocabulary": 0,
+          "difficulty": 0,
+          "volume": 0,
+          "effort": 0,
+          "bugs": 0,
+          "time": 0
+        },
+        "params": 0,
+        "line": 0,
+        "cyclomaticDensity": null
+      }
+    }
+  }
+}

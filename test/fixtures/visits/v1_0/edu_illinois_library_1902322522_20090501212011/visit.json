@@ -1,0 +1,1592 @@
+{
+  "id": "edu_illinois_library_1902322522_20090501212011",
+  "url": "https://library.illinois.edu/",
+  "date_accessed": "2021-03-04T02:20:49Z",
+  "wayback": {
+    "date_available": "2009-05-01T21:20:11Z",
+    "url_raw": "http://web.archive.org/web/20090501212011id_/http://www.library.illinois.edu/",
+    "url_rendered": "http://web.archive.org/web/20090501212011/http://www.library.illinois.edu/"
+  },
+  "agent": {
+    "name": "Apato (Visitor)",
+    "url": "https://github.com/allanberry/apato",
+    "version": "1.0.0b",
+    "creator": "Allan Berry <allan.berry@gmail.com>"
+  },
+  "client": {
+    "ip": "98.206.145.7",
+    "geo": {
+      "range": [
+        1657704448,
+        1657706495
+      ],
+      "country": "US",
+      "region": "IL",
+      "eu": "0",
+      "timezone": "America/Chicago",
+      "city": "Chicago",
+      "ll": [
+        41.804,
+        -87.707
+      ],
+      "metro": 602,
+      "area": 5
+    }
+  },
+  "raw": {
+    "agent": {
+      "name": "Node.js/Axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "url": "https://github.com/axios/axios",
+      "version": "^0.21.0"
+    },
+    "title": "University Library at University of Illinois at Urbana Champaign",
+    "response": {
+      "description": "Selected data from the response.",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "server": "nginx/1.19.5",
+        "date": "Thu, 04 Mar 2021 02:20:50 GMT",
+        "content-type": "text/html",
+        "transfer-encoding": "chunked",
+        "connection": "close",
+        "x-archive-orig-date": "Fri, 01 May 2009 20:59:10 GMT",
+        "x-archive-orig-server": "Apache/2.2.3 (Red Hat)",
+        "x-archive-orig-x-powered-by": "PHP/5.2.4",
+        "x-archive-orig-connection": "close",
+        "cache-control": "max-age=1800",
+        "memento-datetime": "Fri, 01 May 2009 21:20:11 GMT",
+        "link": "<http://www.library.illinois.edu/>; rel=\"original\", <http://web.archive.org/web/timemap/link/http://www.library.illinois.edu/>; rel=\"timemap\"; type=\"application/link-format\", <http://web.archive.org/web/http://www.library.illinois.edu/>; rel=\"timegate\", <http://web.archive.org/web/20080928163656/http://www.library.illinois.edu:80/>; rel=\"first memento\"; datetime=\"Sun, 28 Sep 2008 16:36:56 GMT\", <http://web.archive.org/web/20090404005935/http://www.library.illinois.edu:80/>; rel=\"prev memento\"; datetime=\"Sat, 04 Apr 2009 00:59:35 GMT\", <http://web.archive.org/web/20090501212011/http://www.library.illinois.edu/>; rel=\"memento\"; datetime=\"Fri, 01 May 2009 21:20:11 GMT\", <http://web.archive.org/web/20090503095723/http://www.library.illinois.edu:80/>; rel=\"next memento\"; datetime=\"Sun, 03 May 2009 09:57:23 GMT\", <http://web.archive.org/web/20210228011238/https://www.library.illinois.edu/>; rel=\"last memento\"; datetime=\"Sun, 28 Feb 2021 01:12:38 GMT\"",
+        "content-security-policy": "default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org",
+        "x-archive-src": "ARCHIVEIT-6216-CDL-20090501-00000/ARCHIVEIT-6216-CDL-20090501211540-00001-tanager.ucop.edu-00080445.arc.gz",
+        "server-timing": "esindex;dur=0.014174, RedisCDXSource;dur=2.807845, PetaboxLoader3.resolve;dur=26.109927, exclusion.robots.policy;dur=0.182496, captures_list;dur=180.724838, exclusion.robots;dur=0.196898, LoadShardBlock;dur=133.124457, load_resource;dur=98.664135, PetaboxLoader3.datanode;dur=110.373774, CDXLines.iter;dur=21.336364",
+        "x-app-server": "wwwb-app12",
+        "x-ts": "200",
+        "x-tr": "299",
+        "x-location": "All",
+        "x-cache-key": "httpweb.archive.org/web/20090501212011id_/http://www.library.illinois.edu/US",
+        "x-rl": "0",
+        "x-na": "0",
+        "x-page-cache": "MISS",
+        "x-nid": "-"
+      }
+    },
+    "structure": {
+      "aggregate": {
+        "elementQty": 428,
+        "length": 22266
+      }
+    }
+  },
+  "rendered": {
+    "agent": {
+      "name": "Node.js/Puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "version": "^5.4.1",
+      "browser": "HeadlessChrome/87.0.4272.0"
+    },
+    "title": "University Library at University of Illinois at Urbana Champaign",
+    "screenshots": [
+      "v1_0/edu_illinois_library_1902322522_20090501212011/w320.png",
+      "v1_0/edu_illinois_library_1902322522_20090501212011/w640.png",
+      "v1_0/edu_illinois_library_1902322522_20090501212011/w1280.png"
+    ],
+    "structure": {
+      "data": "<html xml:lang=\"en\" lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\"><head>\n\n\n\n\n\n\n\n  <title>University Library at University of Illinois at Urbana Champaign</title>\n  <base href=\"http://www.library.illinois.edu/\">\n  <link rel=\"stylesheet\" href=\"http://www.library.illinois.edu/templates/common/main.css\" type=\"text/css\">\n  <link rel=\"stylesheet\" href=\"http://www.library.illinois.edu/templates/top-level/front.css\" type=\"text/css\">\n  <link rel=\"stylesheet\" href=\"http://www.library.illinois.edu/templates/common/colOne.css\" type=\"text/css\">\n  <link rel=\"stylesheet\" href=\"http://www.library.illinois.edu/templates/common/colRight.css\" type=\"text/css\">\n  <link rel=\"stylesheet\" href=\"http://www.library.illinois.edu/templates/common/colLeft.css\" type=\"text/css\">\n  <link rel=\"stylesheet\" href=\"http://www.library.illinois.edu/templates/top-level/gateway.css\" type=\"text/css\">\n  <script type=\"text/javascript\" src=\"http://www.library.illinois.edu/templates/top-level/tabs.js\"></script>\n  <script type=\"text/javascript\" src=\"http://www.library.illinois.edu/templates/common/clear.js\"></script>\n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n  <meta content=\"HTML\" name=\"uiuclibrary\">\n</head>\n\n<body>\n\n\n\n\n<div id=\"header\">\n  <img src=\"http://www.library.illinois.edu/templates/top-level/images/books.png\" id=\"deptPic\" alt=\"Books\" width=\"105\" height=\"95\">\n  <div id=\"navTop\"></div>\n  <div id=\"logos\"><a href=\"http://illinois.edu/\"><img id=\"library_imark\" src=\"http://www.library.illinois.edu/templates/common/images/bold38.gif\" alt=\"University of Illinois At Urbana-Champaign\" width=\"38\" height=\"50\"></a><h1><a href=\"http://www.library.illinois.edu/\"><img src=\"http://www.library.illinois.edu/templates/common/images/LibName_Blue.gif\" alt=\"University Library at University of Illinois at Urbana Champaign\" width=\"344\" height=\"50\"></a></h1>\n  </div><!-- closes logos -->\n  <div id=\"navBottom\"></div>\n</div><!-- closes header -->\n\n<div id=\"middle\">\n<div id=\"colLeft\" class=\"colNarrow\">\n  <h2 id=\"boxAbout\" class=\"box\"><a href=\"http://www.library.illinois.edu/secondary/aboutUs.html\">About Us</a></h2>\n  <ul>\n    <li><a href=\"http://www.library.illinois.edu/services/hours.php\">Hours</a></li>\n    <li><a href=\"http://www.library.illinois.edu/services/find.php\">Find a Library</a></li>\n    <li><a href=\"http://www.library.illinois.edu/people/phone.php\">Find Library Staff</a></li>\n    <li><a href=\"http://www.library.illinois.edu/administration/human/positions/employment.html\">Library Employment</a></li>\n    <li><a href=\"http://www.library.illinois.edu/secondary/contactUs.html\">Contact Us</a></li>\n  </ul>\n  <h2 id=\"boxService\" class=\"box\"><a href=\"http://www.library.illinois.edu/services/\">Services</a></h2>\n  <ul>\n    <li><a href=\"https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=pbLogon\">My Library Account</a></li>\n    <li><a href=\"http://www.library.illinois.edu/circ/policies/Policies.html\">Renewing</a></li>\n    <li><a href=\"http://www.library.illinois.edu/irrc/\">Borrowing/ILL</a></li>\n    <li><a href=\"http://www.library.illinois.edu/ipm/reserves.html\">Course Reserves</a></li>\n    <li><a href=\"http://www.library.illinois.edu/services/librarycomputing.html\">Technology</a></li>\n  </ul>\n  <h2 id=\"boxHelp\" class=\"box\"><a href=\"http://www.library.illinois.edu/libraryhelp.html\">Get Help</a></h2>\n  <ul>\n    <li><a href=\"http://www.library.illinois.edu/askus/\">Ask A Librarian</a></li>\n    <li><a href=\"http://www.library.illinois.edu/learn/\">LEARN to Use the Library</a></li>\n    <li><a href=\"http://www.library.illinois.edu/learn/basics/faq.html\">FAQs</a></li>\n    <li><a href=\"http://www.library.illinois.edu/learn/instruction/workshops.html\">Workshops</a></li>\n  </ul>\n  <hr>\n  <form action=\"http://www.google.com/u/uiuclib\" method=\"get\">\n    <div>\n      <label class=\"hiddenItem\" for=\"searchQuery\">Search Library Web Site</label>\n      <input onfocus=\"clearText(this)\" type=\"text\" id=\"searchQuery\" name=\"q\" size=\"15\" maxlength=\"255\" value=\"search library site\">\n      <input type=\"submit\" value=\"Go\" alt=\"submit\">\n    </div>\n  </form>\n</div><!-- closes colLeft -->\n\n<div id=\"colRight\" class=\"colNarrow\">\n  <h2 id=\"boxNews\" class=\"box\"><a href=\"http://www.library.illinois.edu/news/\">News &amp; Events</a></h2>\n  <ul>\n    <li><a href=\"http://www.library.uiuc.edu/cms/news/swine_flu.html\">Swine Flu Info Guide</a></li>\n    <li><a href=\"http://www.library.uiuc.edu/cms/news/investiture.html\">Investiture of Paula Kaufman</a></li>\n    <li><a href=\"http://www.library.uiuc.edu/cms/news/book_collect.html\">Book Collecting Contest</a></li>\n    <li><a href=\"http://www.library.uiuc.edu/cms/news/commencement_hours.html\">Finals and Commencement Hours</a></li>\n    <li><a href=\"http://webtools.illinois.edu/calendar/Calendar?calId=47\">Calendar of Events</a></li>\n  </ul>\n  <h2 id=\"boxFriends\" class=\"box\"><a href=\"http://www.library.illinois.edu/friends/\">Library Friends</a></h2>\n  <ul>\n    <li><a href=\"http://www.library.illinois.edu/friends/gift.html\">Make a Gift Online</a></li>\n    <li><a href=\"http://www.library.illinois.edu/friends/library_is_looking.html\">Library Is Looking For</a></li>\n  </ul>\n  <h2 id=\"boxInitiatives\" class=\"box\"><a href=\"http://www.library.illinois.edu/libraryinit.html\">Library Initiatives</a></h2>\n  <ul>\n    <li><a href=\"http://www.library.illinois.edu/nsm/\">New Service Model Programs</a></li>\n    <li><a href=\"http://www.library.illinois.edu/ugl/lc/\">Learning Commons</a></li>\n    <li><a href=\"http://www.ideals.uiuc.edu/\">IDEALS</a></li>\n    <li><a href=\"http://illinoisharvest.grainger.uiuc.edu/\">Illinois Harvest</a></li>\n    <li><a href=\"http://www.library.illinois.edu/health/\">Health Information</a></li>\n    <li><a href=\"http://www.library.illinois.edu/ugl/diversity/\">Diversity Information</a></li>\n    <li><a href=\"http://www.library.illinois.edu/gaming/index.php\">Gaming Collection</a></li>\n  </ul>\n</div><!-- closes colRight -->\n\n<div id=\"colCenter\">\n  <div class=\"tabs\">\n    <h2 class=\"hiddenItem\">Find Options Tabs</h2>\n    <ul class=\"menu\" id=\"tabsMenu\">\n      <li class=\"active\"><a href=\"http://www.library.illinois.edu/index.php/search\">Easy Search</a></li>\n      <li><a href=\"http://www.library.illinois.edu/index.php/books\">Books</a></li>\n      <li><a href=\"http://www.library.illinois.edu/index.php/journals\">Journals</a></li>\n      <li><a href=\"http://www.library.illinois.edu/index.php/reserves\">Reserves</a></li>\n      <li><a href=\"http://www.library.illinois.edu/index.php/media\">Media</a></li>\n      <li><a href=\"http://www.library.illinois.edu/index.php/other\">Other</a></li>\n    </ul>\n\n    <div id=\"search\" class=\"page\">\n      <h3><label for=\"keyword\">FIND ARTICLES, BOOKS, JOURNALS, WEB PAGES</label></h3>\n      <form method=\"get\" action=\"http://search.grainger.uiuc.edu/searchaid2/saresultsug.asp\">\n      <div>\n        <input onfocus=\"clearText(this)\" type=\"text\" id=\"keyword\" name=\"keyword\" size=\"25\" maxlength=\"255\" value=\"enter search terms\">\n        <input name=\"s2\" type=\"hidden\" value=\"direct\" alt=\"submit\"><label for=\"selection\">&nbsp;in&nbsp;</label><input name=\"project\" type=\"hidden\" value=\"gateway\" alt=\"submit\">\n        <select name=\"selection\" id=\"selection\">\n          <option value=\"gen\">Multi-Subject Resources</option>\n          <option value=\"news\">Current News Sources</option>\n          <option value=\"ArHu\">Arts &amp; Humanities</option>\n          <option value=\"Bus\">Business</option>\n          <option value=\"Educ\">Education</option>\n          <option value=\"EngRes\">Engineering</option>\n          <option value=\"health\">Health Sciences</option>\n          <option value=\"lifesci\">Life Sciences</option>\n          <option value=\"Physsci\">Physical Sciences/Math</option>\n          <option value=\"Socsci\">Social Sciences</option>\n        </select>\n        <input name=\"selection\" type=\"hidden\" value=\"opac\" alt=\"submit\"><input name=\"selection\" type=\"hidden\" value=\"web\" alt=\"submit\"><input name=\"searchbutton\" type=\"submit\" value=\"Go\" alt=\"submit\">\n        <p class=\"advanced\"><a href=\"http://search.grainger.uiuc.edu/searchaid/searchassist.asp\">More Options</a></p>\n      </div>\n      </form>\n      <p>Search by title, author, or keyword in a broad selection of sources.</p>\n      <hr>\n\t  <div id=\"search_announce\"><em>New</em>: <strong> <a href=\"http://www.library.illinois.edu/vufind\">Try VuFind, an alternative Library Catalog</a></strong></div>\n      <div class=\"leftTwo\">\n        <h4>HOW DO I...</h4>\n        <ul>\n          <li><a href=\"http://www.library.illinois.edu/learn/findanarticle.html\">Find a Specific Article</a></li>\n          <li><a href=\"http://www.library.illinois.edu/learn/article_subject.html\">Find Articles by Subject</a></li>\n          <li><a href=\"http://www.library.illinois.edu/learn/article_nonillinois.html\">Find an Article Not at Illinois</a></li>\n          <li><a href=\"http://www.library.illinois.edu/learn/book_nonillinois.html\">Request a Book Not at Illinois</a></li>\n          <li><a href=\"http://www.library.illinois.edu/learn/research/citing_sources.html\">Cite a Source</a></li>\n        </ul>\n      </div>\n      <div class=\"leftTwo\">\n        <h4>QUICK LINKS</h4>\n        <ul>\n          <li><a href=\"http://www.library.illinois.edu/catalog/\">Library Catalog</a></li>\n          <li><a href=\"http://www.library.illinois.edu/orr/\">Online Research Resources (Databases)</a></li>\n          <li><a href=\"http://search.grainger.uiuc.edu/searchaid2/searchassist.asp\">Easy Search (Search Assistant)</a></li>\n          <li><a href=\"http://search.grainger.uiuc.edu/linker/\">Journal and Article Locator</a></li>\n          <li><a href=\"http://www.library.illinois.edu/rex/erefs/\">Online Reference Collection</a></li>\n        </ul>\n      </div>\n    </div> <!-- closes search -->\n<!--***-->\n    <div id=\"books\" class=\"hidden\">\n      <h3><label for=\"Search_Arg\">FIND BOOKS IN THE LIBRARY AND ON THE WEB</label></h3>\n      <form method=\"get\" action=\"http://search.grainger.uiuc.edu/searchaid2/saresultsug.asp\">\n      <div>\n        <input onfocus=\"clearText(this)\" type=\"text\" id=\"Search_Arg\" name=\"keyword\" size=\"25\" maxlength=\"255\" value=\"enter search terms\">\n        <input name=\"s2\" type=\"hidden\" value=\"direct\" alt=\"submit\"><input name=\"project\" type=\"hidden\" value=\"gatewayopac\" alt=\"submit\"><input name=\"selection\" type=\"hidden\" value=\"opac\" alt=\"submit\">\n        <label class=\"hiddenItem\" for=\"booksSearch_Code\">Select Search Criteria</label>\n        <select size=\"1\" id=\"booksSearch_Code\" name=\"booksSearch_Code\">\n          <option value=\"FT*\">Keyword</option>\n          <option value=\"TALL\">Title words</option>\n          <option value=\"NAME+\">Author (last name, first)</option>\n        </select>\n        <input name=\"searchbutton\" type=\"submit\" value=\"Go\" alt=\"submit\">\n        <p class=\"advanced\"><a href=\"http://search.grainger.uiuc.edu/searchaid2/searchassist.asp\">More Options</a></p>\n      </div>\n      </form>\n      <p>Find items by keyword, title, or author.</p>\n      <hr>\n      <h4>OTHER OPTIONS</h4>\n      <ul>\n        <li><a href=\"http://www.library.illinois.edu/catalog/\">Library Catalog</a></li>\n\t\t<li><strong><a href=\"http://www.library.illinois.edu/vufind\">Try the VuFind Catalog Beta</a></strong></li>\n        <li><a href=\"https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=pbLogon\">My Library Account</a></li>\n        <li><a href=\"http://www.library.illinois.edu/circ/LoanPeriods.html\">Loan Periods</a></li>\n        <li><a href=\"https://i-share.carli.illinois.edu/uc/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=First\">I-Share</a></li>\n        <li><a href=\"http://www.library.illinois.edu/orr/get.php?instid=258231\">WorldCat</a></li>\n        <li><a href=\"http://www.library.illinois.edu/resource/librarycatalogs.html\">All Library Catalogs</a></li>\n      </ul>\n    </div><!-- closes books -->\n<!--***-->\n    <div id=\"journals\" class=\"hidden\">\n      <div>\n        <h3><label for=\"jnltitle\">FIND JOURNALS BY TITLE</label></h3>\n        <form method=\"get\" action=\"http://search.grainger.uiuc.edu/linker/resolve88.asp\">\n        <div>\n          <input onfocus=\"clearText(this)\" type=\"text\" id=\"jnltitle\" name=\"jnltitle\" size=\"25\" maxlength=\"255\" value=\"enter journal title\"><input name=\"project\" type=\"hidden\" value=\"gatewayjnltitle\" alt=\"submit\"><input name=\"searchbutton\" type=\"submit\" value=\"Go\" alt=\"submit\">\n          <p class=\"advanced\"><a href=\"http://search.grainger.uiuc.edu/linker/\">Advanced</a></p>\n        </div>\n        </form>\n        <p>Search for specific <span class=\"bold\">journal titles</span> both in print and electronic format.</p>\n      </div>\n      <div>\n        <h3><label for=\"artclSubject\">FIND JOURNAL ARTICLES BY TOPIC</label></h3>\n        <form method=\"get\" action=\"http://search.grainger.uiuc.edu/searchaid2/saresultsug.asp\">\n        <div>\n          <input onfocus=\"clearText(this)\" type=\"text\" id=\"artclSubject\" name=\"keyword\" size=\"25\" maxlength=\"255\" value=\"enter article subject\"><input name=\"s2\" type=\"hidden\" value=\"direct\" alt=\"submit\"><label for=\"selection\">&nbsp;in&nbsp;</label><input name=\"project\" type=\"hidden\" value=\"gatewayjnlarticle\" alt=\"submit\">\n          <select name=\"selection\" id=\"selection\">\n            <option value=\"gen\">Multi-Subject Resources</option>\n            <option value=\"news\">Current News Sources</option>\n            <option value=\"ArHu\">Arts &amp; Humanities</option>\n            <option value=\"Bus\">Business</option>\n            <option value=\"Educ\">Education</option>\n            <option value=\"EngRes\">Engineering</option>\n            <option value=\"health\">Health Sciences</option>\n            <option value=\"lifesci\">Life Sciences</option>\n            <option value=\"Physsci\">Physical Sciences/Math</option>\n            <option value=\"Socsci\">Social Sciences</option>\n          </select>\n          <input name=\"searchbutton\" type=\"submit\" value=\"Go\" alt=\"submit\">\n          <p class=\"advanced\"><a href=\"http://search.grainger.uiuc.edu/searchaid2/searchassist.asp\">More Options</a></p>\n        </div>\n        </form>\n        <p>Search for articles on a <span class=\"bold\">specific topic</span> in magazines and journals.</p>\n      </div>\n      <hr>\n      <h4>OTHER OPTIONS</h4>\n      <ul>\n        <li><a href=\"http://search.grainger.uiuc.edu/linker/\">Journal and Article Locator</a></li>\n        <li><a href=\"http://www.library.illinois.edu/orr/\">Online Research Resources (E-Journals)</a></li>\n        <li><a href=\"https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=bbSearch\">Library Catalog</a></li>\n        <li><a href=\"http://www.library.illinois.edu/lsx/tutorial/section2.html\">What is a refereed journal?</a></li>\n      </ul>\n    </div><!-- closes journals -->\n<!--***-->\n    <div id=\"reserves\" class=\"hidden\">\n      <h3>FIND COURSE RESERVES</h3>\n      <ul>\n        <li><a href=\"https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=rbSearch\">All course Reserves (print, media, and electronic)</a></li>\n        <li><a href=\"http://web.library.illinois.edu/ereserves/querycourse.asp\">Electronic Reserves only</a></li>\n        <li><a href=\"http://www.library.illinois.edu/ipm/placingonreserve.html\">Placing Materials on Reserve for Instructors</a></li>\n      </ul>\n      <p>Search for course materials by instructor and course. For More Information go to <a href=\"http://www.library.illinois.edu/ipm/reserves.html\">Reserves information page.</a></p>\n      <hr>\n      <h4>OTHER OPTIONS</h4>\n      <ul>\n        <li><a href=\"https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=bbSearch\">Library Catalog</a></li>\n        <li><a href=\"http://search.grainger.uiuc.edu/linker/\">Look for a specific article in a journal.</a></li>\n      </ul>\n    </div><!-- closes reserves -->\n<!--***-->\n    <div id=\"media\" class=\"hidden\">\n      <h3><label for=\"SAB1\">FIND DVDs, CDs, GAMES &amp; MORE</label></h3>\n      <form method=\"get\" action=\"https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi\">\n      <div>\n        <input onfocus=\"clearText(this)\" type=\"text\" id=\"SAB1\" name=\"SAB1\" size=\"25\" maxlength=\"255\" value=\"enter search terms\">\n        <input name=\"DB\" type=\"hidden\" value=\"local\" alt=\"submit\"><input name=\"BOOL1\" type=\"hidden\" value=\"all of these\" alt=\"submit\"><input name=\"FLD1\" type=\"hidden\" value=\"Any Words (GKEY)\" alt=\"submit\"><input name=\"GRP1\" type=\"hidden\" value=\"OR with next set\" alt=\"submit\"><input name=\"SAB2\" value=\"\" type=\"hidden\" alt=\"submit\"><input name=\"BOOL2\" type=\"hidden\" value=\"all of these\" alt=\"submit\"><input name=\"FLD2\" type=\"hidden\" value=\"Any Words (GKEY)\" alt=\"submit\"><input name=\"GRP2\" type=\"hidden\" value=\"AND with next set\" alt=\"submit\"><input name=\"SAB3\" type=\"hidden\" value=\"\" alt=\"submit\"><input name=\"FLD3\" type=\"hidden\" value=\"Title Words (TKEY)\" alt=\"submit\"><input name=\"CNT\" type=\"hidden\" value=\"20\" alt=\"submit\"><input name=\"BOOL3\" type=\"hidden\" value=\"all of these\" alt=\"submit\"><input name=\"HIST\" type=\"hidden\" value=\"1\" alt=\"submit\"><input name=\"SL\" type=\"hidden\" value=\"B\" alt=\"submit\"><input name=\"DATE\" type=\"hidden\" value=\"\" alt=\"submit\"><input name=\"DTBL\" type=\"hidden\" value=\"E\" alt=\"submit\"><input name=\"DATE2\" type=\"hidden\" value=\"\" alt=\"submit\"><input name=\"TYPE\" type=\"hidden\" value=\"gm|2\" alt=\"submit\"><input name=\"TYPE\" type=\"hidden\" value=\"j?|4\" alt=\"submit\"><input name=\"TYPE\" type=\"hidden\" value=\"m?|7\" alt=\"submit\"><input name=\"TYPE\" type=\"hidden\" value=\"o?|8\" alt=\"submit\"><input name=\"TYPE\" type=\"hidden\" value=\"rm|9\" alt=\"submit\"><input name=\"searchbutton\" type=\"submit\" value=\"Go\" alt=\"submit\">\n      </div>\n      </form>\n      <p>Find CDs, DVDs, videocassettes, and games for computers and game consoles.</p>\n      <hr>\n      <h4>OTHER OPTIONS</h4>\n      <ul>\n        <li><a href=\"http://www.library.illinois.edu/catalog/\">Library Catalog</a></li>\n        <li><a href=\"http://www.library.illinois.edu/gaming/index.php\">Gaming Information</a></li>\n        <li><a href=\"http://www.library.illinois.edu/ugl/media/othercollections.html\">Other Media Collections at Illinois</a></li>\n        <li><a href=\"http://www.library.illinois.edu/ugl/media/media.html\">Media and Reserve Policies in the UGL</a></li>\n      </ul>\n    </div><!-- closes media -->\n<!--***-->\n    <div id=\"other\" class=\"hidden\">\n      <h3><label for=\"r\">SEARCH DICTIONARIES AND ENCYCLOPEDIAS</label></h3>\n      <form method=\"get\" action=\"http://search.grainger.uiuc.edu/searchaid2/saresultsug.asp\">\n      <div>\n        <input onfocus=\"clearText(this)\" type=\"text\" id=\"r\" name=\"keyword\" size=\"25\" maxlength=\"255\" value=\"enter search terms\">\n        <label class=\"hiddenItem\" for=\"refSearch_Code\">Select Search Criteria</label>\n        <select size=\"1\" id=\"refSearch_Code\" name=\"refSearch_Code\">\n          <option value=\"fulltext\">Full-text</option>\n          <option value=\"heading\">Heading title</option>\n        </select>\n        <input name=\"project\" type=\"hidden\" value=\"gatewayref\" alt=\"submit\"><input name=\"s2\" type=\"hidden\" value=\"direct\" alt=\"submit\"><input name=\"selection\" type=\"hidden\" value=\"ref\" alt=\"submit\">\n        <input name=\"searchbutton\" type=\"submit\" value=\"Go\" alt=\"submit\">\n      </div>\n      </form>\n      <p>Search Xreferplus (CREDO) &amp; Oxford Reference, two databases containing many dictionaries,\n         enyclopedias, &amp; other reference sources.</p>\n      <hr>\n      <div id=\"other_extras\">\n        <div>\n        <h4>Special Collections</h4>\n        <ul class=\"horizontal_list\">\n          <li><a href=\"http://www.library.illinois.edu/archives/\">Archives</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/edx/s-home.htm\">Children's Books</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/ihx/\">Illinois History &amp; Lincoln Collections</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/rbx/manuscript.htm\">Manuscripts</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/max/\">Maps</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/rbx/RareBooks.html\">Rare Books</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/sousa/\">Sousa Archives &amp; Center for American Music</a></li>\n        </ul>\n        </div>\n        <div>\n\t    <h4>Reference Tools</h4>\n        <ul class=\"horizontal_list\">\n          <li><em><a href=\"http://www.library.illinois.edu/refworks/\">RefWorks</a></em>,</li>\n          <li><a href=\"http://www.library.illinois.edu/rex/erefs/biography.html\">Biography</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/rex/erefs/bookreviews.html\">Book Reviews</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/rex/erefs/dictionaries.html\">Dictionaries</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/rex/erefs/encyclopedias.html\">Encyclopedias</a></li>\n        </ul>\n        </div>\n        <div>\n        <h4>Specialized Resources</h4>\n        <ul class=\"horizontal_list\">\n          <li><a href=\"http://www.library.illinois.edu/rex/erefs/dissertations.html\">Dissertations</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/doc/\">Govt Documents</a>,</li>\n          <li><a href=\"http://images.library.uiuc.edu/projects/\">Images</a>,</li>\n          <li><a href=\"http://www.library.illinois.edu/hix/\">Newspapers</a></li>\n        </ul>\n        </div>\n      </div>\n    </div><!-- closes other -->\n  </div><!-- closes tabs -->\n\n  <div id=\"barSubject\">\n    <h2>Browse by Subject</h2>\n    <ul>\n      <li><a href=\"http://www.library.illinois.edu/learn/instruction/guidesalpha.html\">Subject Resource Guides</a> - Anthropology, Zoology, etc.</li>\n      <li><a href=\"http://www.library.illinois.edu/bycollege/\">Libraries By College/Major</a></li>\n    </ul>\n  </div><!-- closes barSubject -->\n\n  <div id=\"barResource\">\n    <h2>Resources For:</h2>\n    <ul>\n      <li><a href=\"http://www.library.illinois.edu/ugl/\">Undergraduates</a> |</li>\n      <li><a href=\"http://www.library.illinois.edu/learn/gradstudents.html\">Graduate Students</a> |</li>\n      <li><a href=\"http://www.library.illinois.edu/learn/faculty.html\">Faculty</a> |</li>\n      <li><a href=\"http://www.library.illinois.edu/learn/alumni.html\">Alumni</a> |</li>\n      <li><a href=\"http://www.library.illinois.edu/learn/visitors.html\">Visitors</a> |</li>\n      <li><a href=\"http://www.library.illinois.edu/learn/affiliates.html\">Affiliated Organizations</a> |</li>\n      <li><a href=\"http://www.library.illinois.edu/learn/users_disabilities.html\">Users with Disabilities</a> |</li>\n      <li><a href=\"http://www.library.illinois.edu/rex/take/\">Distance Learners</a> |</li>\n      <li><a href=\"http://www.library.illinois.edu/staff/\">Library Staff</a></li>\n    </ul>\n  </div><!-- closes barResources -->\n\n  <p class=\"clearer\"></p>\n</div><!-- closes colCenter -->\n</div><!-- closes middle -->\n\n<div id=\"footer\">\n  <a href=\"http://illinois.edu/\"><img src=\"http://www.library.illinois.edu/templates/common/images/bold38.gif\" alt=\"University of Illinois At Urbana-Champaign\" width=\"38\" height=\"50\"></a>\n  <address>\n  <a href=\"http://www.library.illinois.edu/\">University Library</a><br>\n<a href=\"http://illinois.edu/\">University of Illinois at Urbana-Champaign</a><br>\n                1408 W. Gregory Dr. | Urbana, IL 61801<br>\n                217-333-2290 | For comments on this page, contact <a href=\"mailto:gateway_conversion@library.uiuc.edu\">Gateway Conversion team</a>\n  </address><!-- closes address -->\n  <a href=\"http://www.uif.uillinois.edu/\" class=\"brilliant\"><img src=\"http://www.library.illinois.edu/templates/top-level/images/bFutures.gif\" alt=\"Brilliant Futures\" width=\"254\" height=\"84\"></a>\n  <p class=\"clearer\"></p>\n</div><!-- closes footer -->\n<!-- Google Analytics Code -->\n\n<script type=\"text/javascript\">\ntry {\nvar pageTracker = _gat._getTracker(\"UA-7360032-1\");\npageTracker._trackPageview();\n} catch(err) {}</script>\n<!--End Googel Analytics -->\n<!-- Campus required Emegency AlertScript -->\n\n<!--End Campus required Emegency AlertScript -->\n\n\n\n\n</body></html>",
+      "aggregate": {
+        "length": 23891
+      }
+    },
+    "styles": {
+      "list": [
+        {
+          "type": "external",
+          "url": "http://www.library.illinois.edu/templates/common/main.css",
+          "length": 4114
+        },
+        {
+          "type": "external",
+          "url": "http://www.library.illinois.edu/templates/top-level/front.css",
+          "length": 469
+        },
+        {
+          "type": "external",
+          "url": "http://www.library.illinois.edu/templates/common/colOne.css",
+          "length": 400
+        },
+        {
+          "type": "external",
+          "url": "http://www.library.illinois.edu/templates/common/colRight.css",
+          "length": 36
+        },
+        {
+          "type": "external",
+          "url": "http://www.library.illinois.edu/templates/common/colLeft.css",
+          "length": 35
+        },
+        {
+          "type": "external",
+          "url": "http://www.library.illinois.edu/templates/top-level/gateway.css",
+          "length": 3859
+        },
+        {
+          "type": "inline",
+          "length": 0
+        }
+      ],
+      "aggregate": {
+        "length": 8913
+      }
+    },
+    "scripts": {
+      "list": [
+        {
+          "type": "external",
+          "url": "http://www.library.illinois.edu/templates/top-level/tabs.js",
+          "length": 1078
+        },
+        {
+          "type": "external",
+          "url": "http://www.library.illinois.edu/templates/common/clear.js",
+          "length": 109
+        },
+        {
+          "type": "internal",
+          "selector": "html>body>script",
+          "length": 104
+        }
+      ],
+      "aggregate": {
+        "length": 1196
+      }
+    },
+    "anchors": {
+      "list": [
+        {
+          "url": "http://illinois.edu/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/secondary/aboutUs.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/services/hours.php"
+        },
+        {
+          "url": "http://www.library.illinois.edu/services/find.php"
+        },
+        {
+          "url": "http://www.library.illinois.edu/people/phone.php"
+        },
+        {
+          "url": "http://www.library.illinois.edu/administration/human/positions/employment.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/secondary/contactUs.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/services/"
+        },
+        {
+          "url": "https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=pbLogon"
+        },
+        {
+          "url": "http://www.library.illinois.edu/circ/policies/Policies.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/irrc/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/ipm/reserves.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/services/librarycomputing.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/libraryhelp.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/askus/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/basics/faq.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/instruction/workshops.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/news/"
+        },
+        {
+          "url": "http://www.library.uiuc.edu/cms/news/swine_flu.html"
+        },
+        {
+          "url": "http://www.library.uiuc.edu/cms/news/investiture.html"
+        },
+        {
+          "url": "http://www.library.uiuc.edu/cms/news/book_collect.html"
+        },
+        {
+          "url": "http://www.library.uiuc.edu/cms/news/commencement_hours.html"
+        },
+        {
+          "url": "http://webtools.illinois.edu/calendar/Calendar?calId=47"
+        },
+        {
+          "url": "http://www.library.illinois.edu/friends/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/friends/gift.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/friends/library_is_looking.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/libraryinit.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/nsm/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/ugl/lc/"
+        },
+        {
+          "url": "http://www.ideals.uiuc.edu/"
+        },
+        {
+          "url": "http://illinoisharvest.grainger.uiuc.edu/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/health/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/ugl/diversity/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/gaming/index.php"
+        },
+        {
+          "url": "http://www.library.illinois.edu/index.php/search"
+        },
+        {
+          "url": "http://www.library.illinois.edu/index.php/books"
+        },
+        {
+          "url": "http://www.library.illinois.edu/index.php/journals"
+        },
+        {
+          "url": "http://www.library.illinois.edu/index.php/reserves"
+        },
+        {
+          "url": "http://www.library.illinois.edu/index.php/media"
+        },
+        {
+          "url": "http://www.library.illinois.edu/index.php/other"
+        },
+        {
+          "url": "http://search.grainger.uiuc.edu/searchaid/searchassist.asp"
+        },
+        {
+          "url": "http://www.library.illinois.edu/vufind"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/findanarticle.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/article_subject.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/article_nonillinois.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/book_nonillinois.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/research/citing_sources.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/catalog/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/orr/"
+        },
+        {
+          "url": "http://search.grainger.uiuc.edu/searchaid2/searchassist.asp"
+        },
+        {
+          "url": "http://search.grainger.uiuc.edu/linker/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/rex/erefs/"
+        },
+        {
+          "url": "http://search.grainger.uiuc.edu/searchaid2/searchassist.asp"
+        },
+        {
+          "url": "http://www.library.illinois.edu/catalog/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/vufind"
+        },
+        {
+          "url": "https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=pbLogon"
+        },
+        {
+          "url": "http://www.library.illinois.edu/circ/LoanPeriods.html"
+        },
+        {
+          "url": "https://i-share.carli.illinois.edu/uc/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First"
+        },
+        {
+          "url": "http://www.library.illinois.edu/orr/get.php?instid=258231"
+        },
+        {
+          "url": "http://www.library.illinois.edu/resource/librarycatalogs.html"
+        },
+        {
+          "url": "http://search.grainger.uiuc.edu/linker/"
+        },
+        {
+          "url": "http://search.grainger.uiuc.edu/searchaid2/searchassist.asp"
+        },
+        {
+          "url": "http://search.grainger.uiuc.edu/linker/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/orr/"
+        },
+        {
+          "url": "https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=bbSearch"
+        },
+        {
+          "url": "http://www.library.illinois.edu/lsx/tutorial/section2.html"
+        },
+        {
+          "url": "https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=rbSearch"
+        },
+        {
+          "url": "http://web.library.illinois.edu/ereserves/querycourse.asp"
+        },
+        {
+          "url": "http://www.library.illinois.edu/ipm/placingonreserve.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/ipm/reserves.html"
+        },
+        {
+          "url": "https://i-share.carli.illinois.edu/uiu/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=bbSearch"
+        },
+        {
+          "url": "http://search.grainger.uiuc.edu/linker/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/catalog/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/gaming/index.php"
+        },
+        {
+          "url": "http://www.library.illinois.edu/ugl/media/othercollections.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/ugl/media/media.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/archives/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/edx/s-home.htm"
+        },
+        {
+          "url": "http://www.library.illinois.edu/ihx/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/rbx/manuscript.htm"
+        },
+        {
+          "url": "http://www.library.illinois.edu/max/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/rbx/RareBooks.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/sousa/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/refworks/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/rex/erefs/biography.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/rex/erefs/bookreviews.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/rex/erefs/dictionaries.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/rex/erefs/encyclopedias.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/rex/erefs/dissertations.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/doc/"
+        },
+        {
+          "url": "http://images.library.uiuc.edu/projects/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/hix/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/instruction/guidesalpha.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/bycollege/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/ugl/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/gradstudents.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/faculty.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/alumni.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/visitors.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/affiliates.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/learn/users_disabilities.html"
+        },
+        {
+          "url": "http://www.library.illinois.edu/rex/take/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/staff/"
+        },
+        {
+          "url": "http://illinois.edu/"
+        },
+        {
+          "url": "http://www.library.illinois.edu/"
+        },
+        {
+          "url": "http://illinois.edu/"
+        },
+        {
+          "url": "http://20090501212011/mailto:gateway_conversion@library.uiuc.edu"
+        },
+        {
+          "url": "http://www.uif.uillinois.edu/"
+        }
+      ]
+    },
+    "metrics": {
+      "puppeteer": {
+        "Timestamp": 945081.964308,
+        "Documents": 2,
+        "Frames": 2,
+        "JSEventListeners": 35,
+        "Nodes": 1372,
+        "LayoutCount": 17,
+        "RecalcStyleCount": 11,
+        "LayoutDuration": 0.133032,
+        "RecalcStyleDuration": 0.022029,
+        "ScriptDuration": 0.079203,
+        "TaskDuration": 0.553493,
+        "JSHeapUsedSize": 3362440,
+        "JSHeapTotalSize": 5427200
+      }
+    }
+  },
+  "analysis": {
+    "lighthouse": {
+      "agent": {
+        "name": "Node.js/Lighthouse",
+        "description": "Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.",
+        "url": "https://github.com/GoogleChrome/lighthouse",
+        "version": "^6.4.1"
+      },
+      "data": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+        "environment": {
+          "networkUserAgent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.7 Mobile Safari/537.36 Chrome-Lighthouse",
+          "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4272.0 Safari/537.36",
+          "benchmarkIndex": 369,
+          "credits": {
+            "axe-core": "3.5.5"
+          }
+        },
+        "lighthouseVersion": "6.4.1",
+        "fetchTime": "2021-03-04T02:21:11.091Z",
+        "requestedUrl": "http://web.archive.org/web/20090501212011/http://www.library.illinois.edu/",
+        "finalUrl": "http://web.archive.org/web/20090501212011/http://www.library.illinois.edu/",
+        "runWarnings": [],
+        "configSettings": {
+          "output": "json",
+          "maxWaitForFcp": 30000,
+          "maxWaitForLoad": 45000,
+          "throttlingMethod": "simulate",
+          "throttling": {
+            "rttMs": 150,
+            "throughputKbps": 1638.4,
+            "requestLatencyMs": 562.5,
+            "downloadThroughputKbps": 1474.5600000000002,
+            "uploadThroughputKbps": 675,
+            "cpuSlowdownMultiplier": 4
+          },
+          "auditMode": false,
+          "gatherMode": false,
+          "disableStorageReset": false,
+          "emulatedFormFactor": "mobile",
+          "internalDisableDeviceScreenEmulation": false,
+          "channel": "node",
+          "budgets": null,
+          "locale": "en-US",
+          "blockedUrlPatterns": null,
+          "additionalTraceCategories": null,
+          "extraHeaders": null,
+          "precomputedLanternData": null,
+          "onlyAudits": null,
+          "onlyCategories": [
+            "accessibility",
+            "best-practices",
+            "performance"
+          ],
+          "skipAudits": null
+        },
+        "categories": {
+          "performance": {
+            "title": "Performance",
+            "auditRefs": [
+              {
+                "id": "first-contentful-paint",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "speed-index",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "largest-contentful-paint",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "interactive",
+                "weight": 15,
+                "group": "metrics"
+              },
+              {
+                "id": "total-blocking-time",
+                "weight": 25,
+                "group": "metrics"
+              },
+              {
+                "id": "cumulative-layout-shift",
+                "weight": 5,
+                "group": "metrics"
+              },
+              {
+                "id": "first-cpu-idle",
+                "weight": 0
+              },
+              {
+                "id": "max-potential-fid",
+                "weight": 0
+              },
+              {
+                "id": "first-meaningful-paint",
+                "weight": 0
+              },
+              {
+                "id": "estimated-input-latency",
+                "weight": 0
+              },
+              {
+                "id": "render-blocking-resources",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-responsive-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "offscreen-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-css",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unminified-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-css-rules",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "unused-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-optimized-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-webp-images",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-text-compression",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preconnect",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "server-response-time",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "redirects",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-rel-preload",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "uses-http2",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "efficient-animated-content",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "duplicated-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "legacy-javascript",
+                "weight": 0,
+                "group": "load-opportunities"
+              },
+              {
+                "id": "total-byte-weight",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-long-cache-ttl",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "dom-size",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "critical-request-chains",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "user-timings",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "bootup-time",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "mainthread-work-breakdown",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "font-display",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "performance-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "timing-budget",
+                "weight": 0,
+                "group": "budgets"
+              },
+              {
+                "id": "resource-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "third-party-summary",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "largest-contentful-paint-element",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "layout-shift-elements",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "uses-passive-event-listeners",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "no-document-write",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "long-tasks",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "non-composited-animations",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "unsized-images",
+                "weight": 0,
+                "group": "diagnostics"
+              },
+              {
+                "id": "network-requests",
+                "weight": 0
+              },
+              {
+                "id": "network-rtt",
+                "weight": 0
+              },
+              {
+                "id": "network-server-latency",
+                "weight": 0
+              },
+              {
+                "id": "main-thread-tasks",
+                "weight": 0
+              },
+              {
+                "id": "diagnostics",
+                "weight": 0
+              },
+              {
+                "id": "metrics",
+                "weight": 0
+              },
+              {
+                "id": "screenshot-thumbnails",
+                "weight": 0
+              },
+              {
+                "id": "final-screenshot",
+                "weight": 0
+              }
+            ],
+            "id": "performance",
+            "score": 0.68
+          },
+          "accessibility": {
+            "title": "Accessibility",
+            "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+            "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review).",
+            "auditRefs": [
+              {
+                "id": "accesskeys",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "aria-allowed-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-body",
+                "weight": 10,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-hidden-focus",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-input-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-children",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-required-parent",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-roles",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-toggle-field-name",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr-value",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "aria-valid-attr",
+                "weight": 0,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "button-name",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "bypass",
+                "weight": 3,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "color-contrast",
+                "weight": 3,
+                "group": "a11y-color-contrast"
+              },
+              {
+                "id": "definition-list",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "dlitem",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "document-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "duplicate-id-active",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "duplicate-id-aria",
+                "weight": 10,
+                "group": "a11y-aria"
+              },
+              {
+                "id": "form-field-multiple-labels",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "frame-title",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "heading-order",
+                "weight": 2,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "html-has-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "html-lang-valid",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "image-alt",
+                "weight": 10,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "input-image-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "label",
+                "weight": 10,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "layout-table",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "link-name",
+                "weight": 3,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "list",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "listitem",
+                "weight": 3,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "meta-refresh",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "meta-viewport",
+                "weight": 0,
+                "group": "a11y-best-practices"
+              },
+              {
+                "id": "object-alt",
+                "weight": 0,
+                "group": "a11y-names-labels"
+              },
+              {
+                "id": "tabindex",
+                "weight": 0,
+                "group": "a11y-navigation"
+              },
+              {
+                "id": "td-headers-attr",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "th-has-data-cells",
+                "weight": 0,
+                "group": "a11y-tables-lists"
+              },
+              {
+                "id": "valid-lang",
+                "weight": 3,
+                "group": "a11y-language"
+              },
+              {
+                "id": "video-caption",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "video-description",
+                "weight": 0,
+                "group": "a11y-audio-video"
+              },
+              {
+                "id": "logical-tab-order",
+                "weight": 0
+              },
+              {
+                "id": "focusable-controls",
+                "weight": 0
+              },
+              {
+                "id": "interactive-element-affordance",
+                "weight": 0
+              },
+              {
+                "id": "managed-focus",
+                "weight": 0
+              },
+              {
+                "id": "focus-traps",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-labels",
+                "weight": 0
+              },
+              {
+                "id": "custom-controls-roles",
+                "weight": 0
+              },
+              {
+                "id": "visual-order-follows-dom",
+                "weight": 0
+              },
+              {
+                "id": "offscreen-content-hidden",
+                "weight": 0
+              },
+              {
+                "id": "use-landmarks",
+                "weight": 0
+              }
+            ],
+            "id": "accessibility",
+            "score": 0.78
+          },
+          "best-practices": {
+            "title": "Best Practices",
+            "auditRefs": [
+              {
+                "id": "is-on-https",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "external-anchors-use-rel-noopener",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "geolocation-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "notification-on-start",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "no-vulnerable-libraries",
+                "weight": 1,
+                "group": "best-practices-trust-safety"
+              },
+              {
+                "id": "password-inputs-can-be-pasted-into",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-aspect-ratio",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "image-size-responsive",
+                "weight": 1,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "preload-fonts",
+                "weight": 0,
+                "group": "best-practices-ux"
+              },
+              {
+                "id": "doctype",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "charset",
+                "weight": 1,
+                "group": "best-practices-browser-compat"
+              },
+              {
+                "id": "no-unload-listeners",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "appcache-manifest",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "js-libraries",
+                "weight": 0,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "deprecations",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "errors-in-console",
+                "weight": 1,
+                "group": "best-practices-general"
+              },
+              {
+                "id": "valid-source-maps",
+                "weight": 0,
+                "group": "best-practices-general"
+              }
+            ],
+            "id": "best-practices",
+            "score": 0.71
+          }
+        }
+      }
+    },
+    "wappalyzer": {
+      "agent": {
+        "name": "Node.js/Wappalyzer",
+        "description": "Wappalyzer identifies technologies on websites, including content management systems, ecommerce platforms, JavaScript frameworks, analytics tools and much more.",
+        "url": "https://github.com/AliasIO/wappalyzer",
+        "version": "^6.3.12"
+      },
+      "data": {
+        "urls": {
+          "http://web.archive.org/web/20090501212011/http://www.library.illinois.edu/": {
+            "status": 200
+          }
+        },
+        "technologies": [
+          {
+            "slug": "nginx",
+            "name": "Nginx",
+            "confidence": 100,
+            "version": "1.19.5",
+            "icon": "Nginx.svg",
+            "website": "http://nginx.org/en",
+            "cpe": "cpe:/a:nginx:nginx",
+            "categories": [
+              {
+                "id": 22,
+                "slug": "web-servers",
+                "name": "Web servers"
+              },
+              {
+                "id": 64,
+                "slug": "reverse-proxies",
+                "name": "Reverse proxies"
+              }
+            ]
+          },
+          {
+            "slug": "google-analytics",
+            "name": "Google Analytics",
+            "confidence": 100,
+            "version": null,
+            "icon": "Google Analytics.svg",
+            "website": "http://google.com/analytics",
+            "cpe": null,
+            "categories": [
+              {
+                "id": 10,
+                "slug": "analytics",
+                "name": "Analytics"
+              },
+              {
+                "id": 61,
+                "slug": "saas",
+                "name": "SaaS"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "builtwith": {
+      "agent": {
+        "name": "Node.js/Axios",
+        "description": "Promise based HTTP client for the browser and node.js",
+        "url": "https://github.com/axios/axios",
+        "version": "^0.21.0"
+      },
+      "url": "https://api.builtwith.com/v18/api.json?KEY=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&LOOKUP=http://web.archive.org/web/20090501212011/http://www.library.illinois.edu/",
+      "response": {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+          "cache-control": "private",
+          "content-type": "application/json; charset=utf-8",
+          "server": "Microsoft-IIS/10.0",
+          "access-control-allow-origin": "*",
+          "x-api-credits-available": "5000",
+          "x-api-credits-used": "801",
+          "x-api-credits-remaining": "4199",
+          "x-ua-compatible": "IE=Edge,chrome=1",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "date": "Thu, 04 Mar 2021 02:21:29 GMT",
+          "connection": "close",
+          "content-length": "6001"
+        },
+        "data": {
+          "Results": [
+            {
+              "Result": {
+                "IsDB": "False",
+                "Spend": 0,
+                "Paths": [
+                  {
+                    "Technologies": [
+                      {
+                        "IsPremium": "no",
+                        "Name": "Javascript",
+                        "Description": "JavaScript is a scripting language most often used for client-side web development.",
+                        "Link": "http://en.wikipedia.org/wiki/JavaScript",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "UTF-8",
+                        "Description": "UTF-8 (8-bit UCS/Unicode Transformation Format) is a variable-length character encoding for Unicode. It is the preferred encoding for web pages.",
+                        "Link": "http://en.wikipedia.org/wiki/UTF-8",
+                        "Tag": "encoding",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Cascading Style Sheets",
+                        "Description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in a markup language. Its most common application is to style web pages written in HTML ",
+                        "Link": "http://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_TITLE",
+                        "Description": "SEO Title",
+                        "Link": "",
+                        "Tag": "seo_title",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "ISO/IEC 8859",
+                        "Description": "ISO 8859, more formally ISO/IEC 8859, is a joint ISO and IEC standard for 8-bit character encodings for use by computers. The standard is divided into numbered, separately published parts, such as ISO/IEC 8859-1, ISO/IEC 8859-2, etc., each of which may be informally referred to as a standard in itself. There are currently 15 parts as of 2006 excluding the abandoned ISO/IEC 8859-12 standard.",
+                        "Link": "http://en.wikipedia.org/wiki/ISO_8859",
+                        "Tag": "encoding",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "srcset",
+                        "Description": "Adapting images for high-resolution and low-resolution displays.",
+                        "Link": "http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "HTML 5 Specific Tags",
+                        "Description": "This page contains tags that are specific to an HTML 5 implementation.",
+                        "Link": "http://dev.w3.org/html5/html-author/",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "IFrame",
+                        "Description": "The page shows content with an iframe; an embedded frame that loads another webpage.",
+                        "Link": "http://www.w3schools.com/tags/tag_iframe.asp",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_H1",
+                        "Description": "SEO H1",
+                        "Link": "",
+                        "Tag": "seo_headers",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "SEO_H2",
+                        "Description": "SEO H2",
+                        "Link": "",
+                        "Tag": "seo_headers",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "Categories": [
+                          "Application Performance",
+                          "Audience Measurement",
+                          "Visitor Count Tracking"
+                        ],
+                        "IsPremium": "no",
+                        "Name": "Google Analytics",
+                        "Description": "Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.",
+                        "Link": "http://google.com/analytics",
+                        "Tag": "analytics",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "Parent": "Google Analytics",
+                        "IsPremium": "no",
+                        "Name": "Google Analytics Classic",
+                        "Description": "Classic Google Analytics - sites that are using non-universal analytics code.",
+                        "Link": "https://developers.google.com/analytics/devguides/collection/gajs/",
+                        "Tag": "analytics",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "PHP",
+                        "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                        "Link": "http://www.php.net",
+                        "Tag": "framework",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Content Security Policy",
+                        "Description": "Content Security Policy is a computer security concept, to prevent cross-site scripting XSS attacks.",
+                        "Link": "http://en.wikipedia.org/wiki/Content_Security_Policy",
+                        "Tag": "docinfo",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Apache",
+                        "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                        "Link": "http://httpd.apache.org/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "Parent": "Apache",
+                        "IsPremium": "no",
+                        "Name": "Apache 2.2",
+                        "Description": "Apache version 2.2.*",
+                        "Link": "http://httpd.apache.org/docs/2.2",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "Red Hat Enterprise Linux",
+                        "Description": "Red Hat Enterprise Linux (often abbreviated to RHEL) is a Linux distribution produced by Red Hat and targeted toward the commercial market, including mainframes.",
+                        "Link": "http://www.redhat.com",
+                        "Tag": "Server",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      },
+                      {
+                        "IsPremium": "no",
+                        "Name": "nginx",
+                        "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                        "Link": "http://nginx.net/",
+                        "Tag": "Web Server",
+                        "FirstDetected": 1614824490008,
+                        "LastDetected": 1614824490008
+                      }
+                    ],
+                    "FirstIndexed": 1614824490008,
+                    "LastIndexed": 1614824490008,
+                    "Domain": "web.archive.org/web/20090501212011/library.illinois.edu/",
+                    "Url": "web/20090501212011/library.illinois.edu/",
+                    "SubDomain": "web.archive.org"
+                  }
+                ]
+              },
+              "Meta": {
+                "Majestic": 0,
+                "Umbrella": 0,
+                "Vertical": "",
+                "Social": null,
+                "CompanyName": null,
+                "Telephones": null,
+                "Emails": [],
+                "City": null,
+                "State": null,
+                "Postcode": null,
+                "Country": null,
+                "Names": null,
+                "ARank": 0,
+                "QRank": 0
+              },
+              "Attributes": {
+                "MJRank": 0,
+                "MJTLDRank": 0,
+                "RefSN": 0,
+                "RefIP": 0,
+                "TTFB": 0,
+                "Sitemap": 0,
+                "GTMTags": 0,
+                "QubitTags": 0,
+                "TealiumTags": 0,
+                "AdobeTags": 0,
+                "CDimensions": 0,
+                "CGoals": 0,
+                "CMetrics": 0,
+                "SourceBytes": 0
+              },
+              "FirstIndexed": 1614824490008,
+              "LastIndexed": 1614824490008,
+              "Lookup": "web.archive.org/web/20090501212011/library.illinois.edu/",
+              "SalesRevenue": 0
+            }
+          ],
+          "Errors": []
+        }
+      }
+    },
+    "analyzecss": {
+      "agent": {
+        "name": "Node.js/analyze-css",
+        "description": "CSS selectors complexity and performance analyzer.",
+        "url": "https://github.com/macbre/analyze-css",
+        "version": "^0.12.12",
+        "note": "These statistics are for an aggregate of all stylesheets in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "base64Length": 0,
+        "redundantBodySelectors": 0,
+        "redundantChildNodesSelectors": 0,
+        "colors": 16,
+        "comments": 1,
+        "commentsLength": 94,
+        "complexSelectors": 2,
+        "duplicatedSelectors": 9,
+        "duplicatedProperties": 0,
+        "emptyRules": 0,
+        "expressions": 0,
+        "oldIEFixes": 0,
+        "imports": 0,
+        "importants": 3,
+        "mediaQueries": 0,
+        "notMinified": 1,
+        "multiClassesSelectors": 0,
+        "parsingErrors": 0,
+        "oldPropertyPrefixes": 0,
+        "propertyResets": 0,
+        "qualifiedSelectors": 12,
+        "specificityIdAvg": 0.43,
+        "specificityIdTotal": 57,
+        "specificityClassAvg": 0.51,
+        "specificityClassTotal": 67,
+        "specificityTagAvg": 0.77,
+        "specificityTagTotal": 102,
+        "selectors": 132,
+        "selectorLengthAvg": 1.5303030303030303,
+        "selectorsByAttribute": 0,
+        "selectorsByClass": 55,
+        "selectorsById": 57,
+        "selectorsByPseudo": 12,
+        "selectorsByTag": 102,
+        "length": 8913,
+        "rules": 128,
+        "declarations": 294
+      }
+    },
+    "escomplex": {
+      "agent": {
+        "name": "Node.js/escomplex",
+        "description": "Software complexity analysis of JavaScript abstract syntax trees.",
+        "url": "https://github.com/escomplex/escomplex",
+        "version": "^2.0.0-alpha",
+        "note": "These statistics are for an aggregate of all scripts in, or requested by, this page, including libraries."
+      },
+      "data": {
+        "maintainability": 125.20885806782181,
+        "effort": 726.6423663310892,
+        "sloc": {
+          "logical": 34,
+          "physical": 43
+        },
+        "cyclomatic": 6,
+        "halstead": {
+          "operators": {
+            "distinct": 14,
+            "total": 90
+          },
+          "operands": {
+            "distinct": 43,
+            "total": 106
+          },
+          "length": 196,
+          "vocabulary": 57,
+          "difficulty": 17.25581395348837,
+          "volume": 1143.2464427762895,
+          "effort": 19727.64791953504,
+          "bugs": 0.3810821475920965,
+          "time": 1095.9804399741688
+        },
+        "params": 3,
+        "line": 1,
+        "cyclomaticDensity": 17.647058823529413
+      }
+    }
+  }
+}
